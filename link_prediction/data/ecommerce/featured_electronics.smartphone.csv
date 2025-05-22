@@ -1,0 +1,383 @@
+event_time,category_code,brand,price,product_id,display_type,display_size,display_resolution,processor_type,ram,storage_options,rear_camera_primary_resolution,front_camera_resolution,operating_system,Battery_capacity,Has_gps,has_nfc
+2020-03-13 06:13:02 UTC,electronics.smartphone,a-case,1.26,"[18001340, 18001428, 18001297, 18001412, 18000729, 18001401, 18001378, 18001299, 18001298, 18001543, 18001416, 18001354, 18001415, 18001576]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-03-01 03:39:09 UTC,electronics.smartphone,apple,5.12,"[18000046, 18000236, 18000043, 18001686, 18001138, 18000025, 18001414, 18000513, 18000782, 18000015]",OLED,6.1,2532.0,A14 Bionic,4.0,64.0,12.0,12.0,iOS,2815.0,True,True
+2020-01-04 07:38:44 UTC,electronics.smartphone,apple,30.86,"[18000088, 18000110]",OLED,4.7,1334.0,A13 Bionic,3.0,64.0,12.0,7.0,iOS,1821.0,True,True
+2020-01-02 09:20:50 UTC,electronics.smartphone,apple,60.46,"[18000645, 18000662, 18000647, 18000906, 18000637, 100014335, 100013738, 18001504, 18001405, 18001146, 18000107, 18000908, 18000661, 18000644, 18000660, 18000900, 18001148, 18000775, 18000901, 18000905, 18000090]",LCD,4.7,1334.0,A9,2.0,32.0,12.0,5.0,iOS,1715.0,True,True
+2020-01-04 22:36:21 UTC,electronics.smartphone,apple,82.81,"[18000016, 18001144, 18001145, 18000727, 18000122, 18000388, 18000618]",LCD,4.7,1334.0,Apple A9,2.0,32.0,12.0,5.0,iOS,1715.0,True,True
+2020-01-04 05:25:31 UTC,electronics.smartphone,apple,149.27,[18000902],LCD,4.7,1334.0,A9,2.0,32.0,12.0,5.0,iOS,1715.0,True,True
+2020-04-01 16:03:11 UTC,electronics.smartphone,apple,187.65,"[1003066, 18000643]",LCD,4.7,1334.0,Apple A9,2.0,32.0,12.0,5.0,iOS,1715.0,True,True
+2020-01-01 05:21:44 UTC,electronics.smartphone,apple,231.64,[1004942],LCD,4.7,1334.0,A9,2.0,32.0,12.0,5.0,iOS,1715.0,True,True
+2020-04-02 20:34:24 UTC,electronics.smartphone,apple,348.79,"[100038678, 100038635, 100053117, 100070919, 1002629, 1002633]",LCD,6.1,1792.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2019-10-01 00:00:41 UTC,electronics.smartphone,apple,382.97,"[1003141, 1002634, 1002628, 100068230, 1005209]",OLED,6.1,1792.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2020-02-01 11:52:51 UTC,electronics.smartphone,apple,409.02,"[100068296, 100068223, 1003064]",LCD,4.7,1334.0,A13 Bionic,3.0,64.0,12.0,7.0,iOS,1821.0,True,True
+2020-04-11 08:58:27 UTC,electronics.smartphone,apple,437.33,"[100038694, 1005208, 1005207, 1002995]",LCD,4.7,1334.0,A13 Bionic,3.0,64.0,12.0,7.0,iOS,1821.0,True,True
+2019-10-01 00:00:44 UTC,electronics.smartphone,apple,464.13,"[1002544, 1002547, 1002542]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 02:23:29 UTC,electronics.smartphone,apple,511.78,"[1002540, 1001606, 1001605, 1002524]",OLED,5.8,2436.0,A12 Bionic,4.0,64.0,12.0,7.0,iOS,2658.0,True,True
+2019-10-01 00:06:54 UTC,electronics.smartphone,apple,535.38,[1003363],OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2020-04-08 11:48:38 UTC,electronics.smartphone,apple,563.18,"[1002549, 1002786, 1002548]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 02:19:54 UTC,electronics.smartphone,apple,587.52,"[1003304, 1003306, 1002536, 1002796, 1002539, 1002538]",OLED,6.1,1792.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2019-10-01 00:01:45 UTC,electronics.smartphone,apple,612.43,"[1003305, 1003028, 1003333]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 13:59:22 UTC,electronics.smartphone,apple,639.21,"[1002541, 1002532, 1002528, 1003801]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 03:37:11 UTC,electronics.smartphone,apple,707.61,"[1002545, 1003312, 1002525]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 00:01:39 UTC,electronics.smartphone,apple,735.05,"[1004258, 1004246, 1004243, 1004249, 1004255, 1003310]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 02:26:02 UTC,electronics.smartphone,apple,759.06,"[1004252, 1003307, 1002527]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 02:19:33 UTC,electronics.smartphone,apple,782.67,"[1003311, 1002531, 1002533]",OLED,6.1,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2019-10-01 03:12:22 UTC,electronics.smartphone,apple,803.73,"[1004244, 1004250, 1004247, 1004919, 1004253, 1004259, 1004256, 1003800, 1002523, 1002534]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2020-03-01 17:15:35 UTC,electronics.smartphone,apple,862.06,"[1004926, 1004917, 1004929, 1002535]",OLED,6.1,2532.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2019-10-01 02:58:22 UTC,electronics.smartphone,apple,900.67,"[1004916, 1004930, 1002522, 1004913, 1004925]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 02:19:25 UTC,electronics.smartphone,apple,946.97,"[1003316, 1005121, 1003317]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 00:17:01 UTC,electronics.smartphone,apple,975.57,"[1005104, 1005115, 1005118, 1005112, 1005109, 1004914, 1003315, 1003313, 1003314]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 03:14:07 UTC,electronics.smartphone,apple,1000.03,"[1003802, 1002546, 1004227, 1004225, 1004226]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 02:06:06 UTC,electronics.smartphone,apple,1027.05,"[1005107, 1005110, 1005122, 1005113, 1005119, 1003803]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2020-04-09 16:01:40 UTC,electronics.smartphone,apple,1050.48,"[1004920, 1004251, 1005116, 1003309, 1003319, 1004240]",OLED,6.1,2532.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2019-10-01 02:31:55 UTC,electronics.smartphone,apple,1072.79,"[1003318, 1004237, 1004234]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 02:47:27 UTC,electronics.smartphone,apple,1108.14,"[1004260, 1004248, 1004254, 1004257, 1004245]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 03:01:05 UTC,electronics.smartphone,apple,1142.86,"[1004228, 1004229, 1004230, 1003308]",OLED,6.1,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2019-10-01 02:01:07 UTC,electronics.smartphone,apple,1169.25,"[1004235, 1004241, 1005117, 1005108, 1005111, 1005114, 1005123, 1005120]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 02:18:14 UTC,electronics.smartphone,apple,1206.4,[1004238],OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 03:32:15 UTC,electronics.smartphone,apple,1273.65,[1004362],OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 03:42:53 UTC,electronics.smartphone,apple,1309.39,"[1004233, 1004361, 1004363]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 03:21:57 UTC,electronics.smartphone,apple,1335.63,"[1004239, 1004242, 1004231]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 03:21:39 UTC,electronics.smartphone,apple,1356.5,[1004236],OLED,6.1,2532.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2019-10-01 02:18:40 UTC,electronics.smartphone,apple,1413.16,"[1005132, 1005126, 1005129, 1005105]",OLED,6.1,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2019-10-01 03:12:03 UTC,electronics.smartphone,apple,1433.24,"[1004232, 1004357, 1004358]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 02:37:17 UTC,electronics.smartphone,apple,1477.26,[1004356],OLED,6.5,2688.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3969.0,True,True
+2019-10-01 00:02:28 UTC,electronics.smartphone,apple,1541.61,"[1005143, 1005137, 1005140, 1005106]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 03:08:12 UTC,electronics.smartphone,apple,1619.09,"[1005127, 1005130, 1005133, 1005124]",OLED,6.1,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3110.0,True,True
+2019-10-01 02:53:07 UTC,electronics.smartphone,apple,1734.12,"[1004441, 1005141, 1005144, 1005135, 1005138]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 03:35:06 UTC,electronics.smartphone,apple,1762.98,"[1004360, 1004359]",OLED,5.8,2436.0,A13 Bionic,4.0,64.0,12.0,12.0,iOS,3046.0,True,True
+2019-10-01 02:50:12 UTC,electronics.smartphone,apple,1917.66,"[1005128, 1005125, 1005134, 1005131]",OLED,6.5,2688.0,A13 Bionic,4.0,256.0,12.0,12.0,iOS,3969.0,True,True
+2019-10-01 02:25:36 UTC,electronics.smartphone,apple,2056.68,"[1005136, 1005145, 1005139, 1005142]",OLED,6.5,2688.0,A13 Bionic,4.0,256.0,12.0,12.0,iOS,3969.0,True,True
+2020-02-03 18:39:39 UTC,electronics.smartphone,ark,44.34,[1003516],LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-04-02 13:13:44 UTC,electronics.smartphone,ark,77.22,"[1003546, 1003362]",LCD,5.5,720.0,Quad-core,2.0,32.0,12.0,5.0,Android,3000.0,True,False
+2020-02-12 21:28:00 UTC,electronics.smartphone,asus,32.93,[1004414],LCD,5.5,720.0,Snapdragon 430,2.0,32.0,13.0,5.0,Android,3000.0,True,False
+2020-04-04 19:57:22 UTC,electronics.smartphone,asus,102.94,[1004885],LCD,6.2,1080.0,Snapdragon,4.0,64.0,12.0,8.0,Android,5000.0,True,False
+2020-04-03 23:59:16 UTC,electronics.smartphone,asus,141.55,[1004721],LCD,6.2,2340.0,Snapdragon 660,4.0,64.0,48.0,13.0,Android,5000.0,True,False
+2020-04-01 09:12:15 UTC,electronics.smartphone,asus,213.49,"[1004675, 1004884]",LCD,6.2,1080.0,Snapdragon 665,4.0,64.0,48.0,8.0,Android,5000.0,True,False
+2020-04-01 16:59:49 UTC,electronics.smartphone,asus,243.53,[1004413],LCD,6.2,2340.0,Snapdragon 636,6.0,128.0,48.0,13.0,Android,5000.0,True,False
+2020-03-03 13:16:44 UTC,electronics.smartphone,blackberry,308.63,[1004475],LCD,4.5,1620.0,Snapdragon,3.0,32.0,12.0,2.0,Android,3000.0,True,True
+2020-04-03 00:37:16 UTC,electronics.smartphone,blackberry,354.96,[1002550],LCD,4.5,1620.0,Snapdragon,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-03-04 10:19:16 UTC,electronics.smartphone,blackberry,375.56,[1003902],LCD,4.5,1620.0,Snapdragon,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-04-06 03:17:49 UTC,electronics.smartphone,blackberry,411.59,[1005277],LCD,4.5,1620.0,Snapdragon,4.0,32.0,12.0,2.0,Android,3000.0,True,True
+2019-10-04 10:23:10 UTC,electronics.smartphone,blackberry,487.76,[1003393],LCD,4.5,1620.0,Snapdragon 625,4.0,32.0,12.0,8.0,Android,3000.0,True,True
+2020-04-19 09:46:28 UTC,electronics.smartphone,blackberry,591.78,[1004418],LCD,4.5,1620.0,Qualcomm Snapdragon,6.0,128.0,12.0,8.0,Android,3000.0,True,True
+2020-04-07 09:55:33 UTC,electronics.smartphone,blackberry,643.26,[1004417],LCD,4.5,1620.0,Snapdragon 660,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-04-08 07:33:29 UTC,electronics.smartphone,blackberry,694.74,[1004419],LCD,4.5,1620.0,Snapdragon,6.0,128.0,12.0,8.0,Android,3000.0,True,True
+2019-12-17 05:54:00 UTC,electronics.smartphone,blackview,79.8,"[1004842, 1004841]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,3000.0,True,False
+2020-03-16 09:50:52 UTC,electronics.smartphone,blackview,115.83,[1004860],LCD,5.7,720.0,MediaTek,4.0,64.0,13.0,8.0,Android,4400.0,True,False
+2019-10-01 07:18:23 UTC,electronics.smartphone,bq,41.16,"[1005040, 1004822, 1004277, 1004444, 1004683, 1004415, 1004823, 1004348, 1004445, 1004826, 1004507, 1004567, 1004509, 1004508, 1004510, 1004516, 1004687, 1004710, 1004688, 1004620, 1004685, 1004284, 1004278, 1004612, 1004279, 1004082, 1004601, 1004615, 1004085, 1004616, 1004269, 1004270, 1005200, 1004825, 1004602, 1004295, 1003794]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,3000.0,True,False
+2020-04-09 14:54:43 UTC,electronics.smartphone,bq,62.58,"[1004557, 1002767, 1004110, 1004081, 1004689, 1004122, 1004124, 1004128, 1004684, 1004352, 1004281, 1004607, 1004282, 1004350, 1004400, 1004606, 1004098, 1004613, 1004099, 1004288, 1004609, 1004116, 1004100, 1004118, 1004120, 1004101, 1002808, 1004614, 1004273, 1004605, 1004103, 1004610, 1004611, 1004280, 1004690, 1004272, 1004691, 1004603]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,3000.0,True,False
+2019-10-01 12:30:56 UTC,electronics.smartphone,bq,83.09,"[1004107, 1004106, 1004308, 1004296, 1004276, 1004299, 1004300, 1004608, 1004115, 1004114, 1004123, 1004700, 1004698, 1004294, 1004089, 1004293, 1004292, 1004704, 1004096, 1004570, 1004094, 1004091]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,3000.0,True,False
+2019-10-17 13:24:17 UTC,electronics.smartphone,bq,106.03,"[1004104, 1004512, 1004088, 1004511, 1004668, 1004513, 1004303, 1004569, 1004568, 1004302, 1004301, 1005076, 1005078, 1005077, 1004697, 1004695, 1004696, 1004725, 1004702, 1004694, 1004112, 1004724]",LCD,5.2,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,3000.0,True,False
+2019-10-01 03:21:16 UTC,electronics.smartphone,bq,128.08,"[1004111, 1004349, 1004701, 1004703, 1004604, 1004693]",LCD,5.5,1080.0,Snapdragon 625,3.0,32.0,12.0,5.0,Android,3000.0,True,False
+2020-02-29 07:00:08 UTC,electronics.smartphone,bravis,59.18,"[1002779, 1003043, 1003090]",LCD,5.0,1280.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-01-12 13:08:45 UTC,electronics.smartphone,denzel,190.6,[50600032],LCD,6.1,1080.0,Snapdragon 665,4.0,64.0,12.0,8.0,Android,3500.0,True,False
+2020-04-01 06:18:44 UTC,electronics.smartphone,deppa,5.38,"[18001583, 18001590, 18001588, 18001599, 18001625, 18001629, 18001624, 18001674, 18001630, 18001622, 18001623, 18001631, 18001621, 100015433, 18001665, 100012612, 100014062, 100015375, 100014029]",LCD,5.0,720.0,Basic Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2019-10-01 00:18:58 UTC,electronics.smartphone,doogee,59.18,"[1004467, 1003625, 1003828, 1003820, 1004409, 1004908, 1004468, 1003981, 1004472, 1003631, 1003619, 1003633]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,3000.0,True,False
+2020-04-02 13:49:11 UTC,electronics.smartphone,doogee,84.69,"[1004471, 1003618, 1004760, 1004759]",LCD,6.1,720.0,MediaTek,3.0,32.0,8.0,5.0,Android,4000.0,True,False
+2019-10-01 14:50:58 UTC,electronics.smartphone,doogee,108.94,"[1005000, 1004998, 1004999, 1004997, 1004995, 1004996, 1003789, 1003632, 1004533, 1004532]",LCD,6.1,720.0,Octa-core,4.0,64.0,16.0,8.0,Android,4000.0,True,False
+2020-04-03 04:30:15 UTC,electronics.smartphone,doogee,133.12,"[1003622, 1003617]",LCD,6.3,1080.0,Octa-core,4.0,64.0,16.0,8.0,Android,4500.0,True,False
+2019-10-01 04:08:54 UTC,electronics.smartphone,doogee,154.19,"[1003614, 1003613, 1004264, 1003615]",LCD,6.3,1080.0,Octa-core,4.0,64.0,16.0,8.0,Android,4350.0,True,False
+2020-03-10 06:36:11 UTC,electronics.smartphone,doogee,180.16,[1003786],LCD,6.3,1080.0,Octa-core,6.0,128.0,16.0,8.0,Android,4500.0,True,False
+2019-10-07 13:41:24 UTC,electronics.smartphone,doogee,208.76,"[1004827, 1004470, 1004469]",LCD,6.3,1080.0,MediaTek,6.0,128.0,16.0,8.0,Android,4500.0,True,False
+2020-04-02 17:48:26 UTC,electronics.smartphone,doogee,383.52,[1004265],LCD,6.3,1080.0,Octa-core,6.0,128.0,48.0,16.0,Android,4500.0,True,False
+2020-04-16 17:10:27 UTC,electronics.smartphone,dub,6.22,"[18000932, 18000952, 18000951, 18000939, 18000934, 18001435, 18000949, 18000940, 18000941, 18000947, 18000936, 18000948, 18000950]",LCD,5.0,720.0,Quad-core,1.0,8.0,8.0,2.0,Android,2000.0,True,False
+2020-01-01 05:53:46 UTC,electronics.smartphone,fini,2267.5,[100048322],OLED,6.5,2340.0,Snapdragon 865,8.0,128.0,48.0,12.0,Android,4000.0,True,True
+2019-10-01 00:06:45 UTC,electronics.smartphone,fly,43.73,"[1004625, 1004624, 1004755]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-04-22 13:57:43 UTC,electronics.smartphone,fly,69.47,[1004027],LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-01-05 12:10:00 UTC,electronics.smartphone,fly,92.66,[1003783],LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-01-14 13:58:29 UTC,electronics.smartphone,fubag,171.82,[50600102],LCD,6.1,1080.0,Octa-core,4.0,64.0,12.0,8.0,Android,3500.0,True,False
+2020-04-07 15:12:43 UTC,electronics.smartphone,fubag,208.47,[50600101],LCD,6.1,1080.0,Octa-core,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-04-23 22:48:08 UTC,electronics.smartphone,gionee,51.46,"[1002845, 1002870]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,3000.0,True,False
+2019-10-01 04:24:49 UTC,electronics.smartphone,gionee,74.39,"[1004829, 1004830, 1003439, 1003438, 1004673, 1004674]",LCD,5.2,720.0,MediaTek,3.0,32.0,13.0,5.0,Android,3000.0,True,False
+2019-10-01 03:22:05 UTC,electronics.smartphone,gionee,95.21,"[1003203, 1004001]",LCD,5.5,720.0,Quad-core,2.0,16.0,13.0,5.0,Android,3000.0,True,False
+2019-10-01 03:22:36 UTC,electronics.smartphone,gionee,123.3,"[1005086, 1005087, 1003385, 1003143, 1003142, 1003823]",LCD,5.5,720.0,Quad-core,3.0,32.0,13.0,5.0,Android,3000.0,True,False
+2020-04-12 04:39:55 UTC,electronics.smartphone,gionee,167.06,"[1003821, 1003822]",LCD,5.5,720.0,MediaTek,3.0,32.0,13.0,8.0,Android,3000.0,True,False
+2020-04-09 16:47:01 UTC,electronics.smartphone,gionee,193.97,"[1003274, 1003275]",LCD,5.5,1080.0,Octa-core,4.0,64.0,13.0,8.0,Android,4000.0,True,False
+2019-10-01 02:49:02 UTC,electronics.smartphone,google,555.97,[1005148],OLED,5.7,2280.0,Qualcomm Snapdragon,6.0,64.0,12.0,8.0,Android,2800.0,True,True
+2019-10-01 02:37:20 UTC,electronics.smartphone,google,579.17,[1005038],OLED,5.7,1440.0,Snapdragon 855,6.0,64.0,12.0,8.0,Android,2800.0,True,True
+2020-04-14 19:25:50 UTC,electronics.smartphone,google,604.91,[1005039],OLED,6.0,3040.0,Snapdragon 855,6.0,128.0,12.0,8.0,Android,3700.0,True,True
+2020-04-14 18:52:38 UTC,electronics.smartphone,google,769.31,[1004583],OLED,6.0,1440.0,Qualcomm Snapdragon,6.0,128.0,12.0,8.0,Android,2800.0,True,True
+2020-04-14 05:27:07 UTC,electronics.smartphone,google,797.7,[1004465],OLED,6.0,1440.0,Snapdragon 855,6.0,128.0,12.0,8.0,Android,2800.0,True,True
+2020-04-01 07:17:21 UTC,electronics.smartphone,google,874.93,"[1004481, 1004482, 1003475]",OLED,6.0,3040.0,Qualcomm Snapdragon,8.0,128.0,12.0,8.0,Android,3500.0,True,True
+2020-04-01 07:34:56 UTC,electronics.smartphone,google,900.67,[1004477],OLED,6.3,1440.0,Snapdragon 865,8.0,128.0,12.0,8.0,Android,4000.0,True,True
+2020-02-17 18:04:41 UTC,electronics.smartphone,google,952.15,[1004485],OLED,6.0,1440.0,Snapdragon 855,6.0,128.0,12.0,8.0,Android,2800.0,True,True
+2020-04-07 07:27:22 UTC,electronics.smartphone,google,1055.11,[1004484],OLED,6.0,1440.0,Qualcomm Snapdragon,8.0,128.0,12.0,8.0,Android,3500.0,True,True
+2020-04-20 09:48:11 UTC,electronics.smartphone,gulliver,1.8,[100200871],LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-04-01 06:43:00 UTC,electronics.smartphone,haier,46.31,"[1004711, 1004717, 1004712]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2019-10-01 03:43:28 UTC,electronics.smartphone,haier,77.2,"[1004719, 1004713, 1004718, 1004802, 1004803]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,3000.0,True,False
+2019-10-01 03:25:13 UTC,electronics.smartphone,haier,115.81,"[1004714, 1004715, 1004800, 1004801, 1004798, 1004799]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,3000.0,True,False
+2019-10-01 03:02:25 UTC,electronics.smartphone,haier,172.43,[1004716],LCD,5.5,1920.0,Quad-core,3.0,32.0,12.0,5.0,Android,3000.0,True,False
+2020-04-06 20:02:19 UTC,electronics.smartphone,hasbro,10.3,"[100187857, 100187852, 100187854, 100187853, 100187856]",LCD,4.5,720.0,Basic Dual-Core,1.0,8.0,5.0,1.0,Android,1500.0,True,False
+2020-04-01 11:57:47 UTC,electronics.smartphone,hiper,72.05,[1003352],LCD,5.5,720.0,Quad-core,2.0,32.0,8.0,2.0,Android,2500.0,True,False
+2020-03-07 12:47:16 UTC,electronics.smartphone,hoco,6.41,"[18000609, 18000615, 18000611, 18000608, 18000610, 18000616]",LCD,5.0,720.0,Basic quad-core,1.0,8.0,8.0,2.0,Android,2000.0,True,False
+2019-10-01 05:06:46 UTC,electronics.smartphone,honor,102.94,"[1004865, 1004864, 1004866]",LCD,6.3,2340.0,Kirin 710,4.0,64.0,48.0,8.0,Android,3750.0,True,False
+2019-10-01 03:29:33 UTC,electronics.smartphone,honor,128.68,"[1005081, 1005079, 1005080]",LCD,6.3,2340.0,Kirin 710,4.0,64.0,48.0,8.0,Android,3400.0,True,False
+2019-10-01 02:34:42 UTC,electronics.smartphone,honor,154.19,"[1003811, 1003689, 1003687]",LCD,6.3,2340.0,Kirin 710,4.0,64.0,48.0,8.0,Android,3750.0,True,False
+2019-10-01 03:42:12 UTC,electronics.smartphone,honor,179.93,"[1004811, 1004812, 1004810, 1003418, 1003688, 1003511, 1004953]",LCD,6.3,2340.0,Kirin 710,4.0,64.0,48.0,8.0,Android,3750.0,True,True
+2020-04-06 15:01:38 UTC,electronics.smartphone,honor,205.9,"[1001894, 1003409, 1003408, 1005048]",LCD,6.3,2340.0,Kirin 710,4.0,128.0,48.0,8.0,Android,3750.0,True,True
+2019-10-01 02:23:27 UTC,electronics.smartphone,honor,231.64,"[1004814, 1003343, 1004815, 1002666, 1002665, 1003341, 1004323, 1004324]",LCD,6.3,2340.0,Kirin 710,4.0,64.0,48.0,8.0,Android,3750.0,True,True
+2020-04-05 07:15:18 UTC,electronics.smartphone,honor,254.32,"[1004595, 1004753, 1004754, 1004813]",LCD,6.3,2340.0,Kirin 710,4.0,128.0,48.0,8.0,Android,3750.0,True,True
+2020-01-10 15:19:49 UTC,electronics.smartphone,honor,275.43,"[1004546, 1004547, 1004307, 1002664]",LCD,6.3,2400.0,Kirin 710,4.0,128.0,48.0,16.0,Android,3750.0,True,True
+2020-04-13 16:34:03 UTC,electronics.smartphone,honor,298.33,[1005037],LCD,6.3,2340.0,Kirin 710,4.0,128.0,48.0,8.0,Android,3750.0,True,True
+2020-04-01 05:23:40 UTC,electronics.smartphone,honor,368.07,"[1004820, 1004598, 1004597, 1005041, 1004327, 1004372]",LCD,6.3,2400.0,Kirin 710,4.0,128.0,48.0,16.0,Android,3750.0,True,True
+2020-03-02 06:15:45 UTC,electronics.smartphone,honor,393.83,[1004331],LCD,6.3,1080.0,Kirin 710,4.0,128.0,48.0,16.0,Android,3750.0,True,True
+2020-04-01 03:54:41 UTC,electronics.smartphone,honor,488.82,"[1004742, 1004817]",LCD,6.3,2340.0,Kirin 710,4.0,128.0,48.0,8.0,Android,3750.0,True,False
+2019-10-01 02:32:18 UTC,electronics.smartphone,honor,643.49,"[1005082, 1005199, 1005083]",LCD,6.3,2340.0,Kirin 980,6.0,128.0,48.0,32.0,Android,3750.0,True,True
+2019-12-01 06:50:16 UTC,electronics.smartphone,htc,2.17,[18001084],LCD,5.0,1080.0,Snapdragon 625,4.0,64.0,12.0,5.0,Android,3000.0,True,True
+2020-04-18 06:20:24 UTC,electronics.smartphone,htc,90.07,[1003038],LCD,5.0,1920.0,Snapdragon,3.0,32.0,12.0,5.0,Android,3000.0,True,False
+2020-04-02 04:13:59 UTC,electronics.smartphone,htc,115.81,"[1002444, 1003023]",LCD,5.2,1920.0,Snapdragon 625,3.0,32.0,12.0,5.0,Android,3000.0,True,True
+2020-04-11 03:51:37 UTC,electronics.smartphone,htc,257.38,[1003099],LCD,6.0,1080.0,Snapdragon 600 series,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-01-11 15:42:56 UTC,electronics.smartphone,huawei,6.41,"[18000225, 18000226, 18000223, 18000224]",LCD,6.1,1080.0,Kirin 710,4.0,64.0,48.0,8.0,Android,3400.0,True,False
+2020-03-17 09:26:35 UTC,electronics.smartphone,huawei,76.94,"[1003920, 1003909, 1003435, 1005017, 1002497, 1005018]",LCD,5.5,720.0,Kirin 710,3.0,32.0,13.0,8.0,Android,4000.0,True,False
+2019-10-01 02:19:55 UTC,electronics.smartphone,huawei,101.11,"[1005001, 1003922, 1003906, 1003984, 1004462, 1004905, 1004904, 1004903, 1003983, 1003982, 1004215]",LCD,6.1,1080.0,Kirin 710,4.0,128.0,48.0,8.0,Android,3400.0,True,True
+2020-04-01 05:05:23 UTC,electronics.smartphone,huawei,122.92,"[1003195, 1004489, 1003907, 1003184, 1003183, 1003706, 1003235, 1003234, 1004723, 1004720, 1004748, 1004463]",LCD,6.1,2340.0,Kirin 710,4.0,128.0,48.0,8.0,Android,3400.0,True,True
+2020-04-01 03:59:36 UTC,electronics.smartphone,huawei,149.3,"[1002923, 1002974, 1004709, 1004708]",LCD,6.1,1080.0,Kirin 710,4.0,128.0,48.0,8.0,Android,3400.0,True,True
+2019-10-01 02:23:08 UTC,electronics.smartphone,huawei,177.2,"[1004566, 1004565, 1003705, 1003707, 1003013, 1003128, 1003079, 1003080, 1003770]",LCD,5.8,1080.0,Kirin 710,4.0,128.0,12.0,8.0,Android,3400.0,True,True
+2019-10-01 03:22:46 UTC,electronics.smartphone,huawei,231.38,"[1003524, 1003771, 1004321]",LCD,6.1,1080.0,Kirin 710,4.0,128.0,48.0,8.0,Android,3400.0,True,True
+2019-10-01 02:59:05 UTC,electronics.smartphone,huawei,257.12,"[1003772, 1005004, 1005003, 1005002]",LCD,6.1,2340.0,Kirin 980,6.0,128.0,40.0,24.0,Android,3650.0,True,True
+2019-10-01 01:40:04 UTC,electronics.smartphone,huawei,278.31,"[1004781, 1004785]",OLED,6.1,2340.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2019-10-01 02:27:46 UTC,electronics.smartphone,huawei,303.7,[1004322],OLED,6.1,2340.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2019-10-01 08:45:50 UTC,electronics.smartphone,huawei,334.6,"[1004790, 1003078]",OLED,6.1,2340.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2020-04-17 13:31:40 UTC,electronics.smartphone,huawei,406.7,"[1005042, 1004647, 1004427]",OLED,6.1,2340.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2020-04-09 10:44:58 UTC,electronics.smartphone,huawei,440.17,[1004338],OLED,6.1,2340.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2019-10-01 00:08:53 UTC,electronics.smartphone,huawei,463.07,[1003769],OLED,6.1,2340.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2019-10-01 02:19:40 UTC,electronics.smartphone,huawei,485.54,"[1003768, 1005026]",OLED,6.1,2340.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2020-04-16 15:12:46 UTC,electronics.smartphone,huawei,520.71,[100045400],OLED,6.1,2340.0,Kirin 990,8.0,128.0,40.0,32.0,Android,4200.0,True,True
+2019-10-01 00:00:11 UTC,electronics.smartphone,huawei,566.01,[1004545],OLED,6.1,2340.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2019-10-01 02:42:18 UTC,electronics.smartphone,huawei,609.72,[1004544],OLED,6.1,2340.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2019-10-01 02:29:21 UTC,electronics.smartphone,huawei,668.91,"[1004850, 1005279, 1005280, 1004848]",OLED,6.1,1080.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2019-10-01 02:19:09 UTC,electronics.smartphone,huawei,694.48,"[1003879, 1004428]",OLED,6.1,2340.0,Kirin 980,8.0,128.0,40.0,24.0,Android,3650.0,True,True
+2020-04-01 01:42:14 UTC,electronics.smartphone,huawei,771.96,"[1004652, 1003815]",OLED,6.1,2340.0,Kirin 990,8.0,128.0,40.0,32.0,Android,4200.0,True,True
+2019-10-01 02:18:57 UTC,electronics.smartphone,huawei,796.64,[1004536],OLED,6.47,2340.0,Kirin 980,8.0,128.0,40.0,32.0,Android,4200.0,True,True
+2020-04-28 17:09:53 UTC,electronics.smartphone,huawei,827.1,"[1004555, 1003834]",OLED,6.1,2340.0,Kirin 990,8.0,128.0,40.0,32.0,Android,4200.0,True,True
+2020-02-01 03:03:51 UTC,electronics.smartphone,huawei,900.64,[100082050],OLED,6.1,2340.0,Kirin 990,8.0,128.0,40.0,32.0,Android,4200.0,True,True
+2020-04-01 15:33:40 UTC,electronics.smartphone,huawei,945.97,"[1004897, 1004849, 1004840]",OLED,6.1,2340.0,Kirin 990,8.0,128.0,40.0,32.0,Android,4200.0,True,True
+2020-04-01 04:30:10 UTC,electronics.smartphone,huawei,1338.23,[1003583],OLED,6.5,2340.0,Kirin 990,8.0,128.0,40.0,24.0,Android,4200.0,True,True
+2020-04-08 05:58:27 UTC,electronics.smartphone,inoi,6.41,[18001538],LCD,5.0,720.0,Quad-core,1.0,8.0,5.0,2.0,Android,2000.0,True,False
+2019-10-01 03:01:30 UTC,electronics.smartphone,inoi,38.59,"[1005012, 1004627, 1004212, 1003948, 1004192, 1003949, 1005198, 1003947]",LCD,5.0,720.0,Quad-core,1.0,8.0,5.0,2.0,Android,2000.0,True,False
+2019-10-01 07:28:33 UTC,electronics.smartphone,inoi,61.92,"[1004266, 1004208, 1005085, 1005013, 1004679, 1004589, 1004553, 1004587, 1004588]",LCD,5.0,720.0,Quad-core,1.0,8.0,5.0,2.0,Android,2000.0,True,False
+2019-10-17 17:14:50 UTC,electronics.smartphone,inoi,84.66,[1005249],LCD,5.0,720.0,Quad-core,1.0,8.0,5.0,2.0,Android,2500.0,True,False
+2019-11-26 04:18:24 UTC,electronics.smartphone,inoi,165.18,[100017475],LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,3000.0,True,False
+2019-10-01 03:30:50 UTC,electronics.smartphone,irbis,39.88,"[1005025, 1005024, 1004090, 1004355, 1004093, 1004095]",LCD,5.5,1280.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2019-10-02 14:44:13 UTC,electronics.smartphone,irbis,60.48,"[1004952, 1004951, 1003807, 1004959, 1004593, 1004592, 1004594]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2019-10-01 06:11:25 UTC,electronics.smartphone,irbis,94.73,[1004579],LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-04-18 12:14:24 UTC,electronics.smartphone,iwalk,13.64,"[18000374, 18000621]",LCD,5.0,1280.0,Basic Quad-core,1.0,16.0,8.0,2.0,Android,2000.0,True,False
+2020-01-08 08:27:24 UTC,electronics.smartphone,janesper,20.59,"[18000854, 18000852, 18000853]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-03-18 13:21:31 UTC,electronics.smartphone,jinga,13.9,[1002900],LCD,5.0,720.0,Unknown,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2019-12-03 16:44:47 UTC,electronics.smartphone,jinga,36.01,"[1002720, 1004504, 1004880, 1004306]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-04-16 07:17:51 UTC,electronics.smartphone,jinga,64.33,"[1004305, 1004585, 1004491, 1002718]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,3000.0,True,False
+2020-04-23 13:53:17 UTC,electronics.smartphone,jinga,94.97,[1004464],LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,3000.0,True,False
+2020-03-02 05:49:31 UTC,electronics.smartphone,kajsa,18.02,[18000895],LCD,5.0,720.0,Basic Quad Core,2.0,16.0,8.0,2.0,Android,2000.0,True,False
+2020-04-05 11:53:55 UTC,electronics.smartphone,karya,14.16,"[36700017, 36700016, 36700018, 36700019, 36700014, 100101480, 36700020, 100101482, 100101483, 100101477, 100101481]",LCD,5.0,720.0,Quad-core 1.3 GHz,1.0,8.0,8.0,2.0,Android,2000.0,True,False
+2020-01-31 08:48:43 UTC,electronics.smartphone,keneksi,51.46,[1001901],LCD,5.0,720.0,Quad-core,1.0,8.0,8.0,2.0,Android,2000.0,True,False
+2020-02-13 11:09:07 UTC,electronics.smartphone,kisswill,1.81,[18001203],LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2019-10-01 07:45:49 UTC,electronics.smartphone,leagoo,150.17,[1003105],LCD,5.5,1920.0,Quad-core,4.0,64.0,13.0,8.0,Android,3000.0,True,False
+2020-04-03 08:11:24 UTC,electronics.smartphone,leeco,203.35,[1002828],LCD,5.5,1080.0,Snapdragon 652,3.0,32.0,16.0,8.0,Android,3000.0,True,False
+2019-10-04 05:04:34 UTC,electronics.smartphone,leeco,375.55,[1002827],LCD,5.5,1080.0,Snapdragon 652,3.0,32.0,16.0,8.0,Android,3000.0,True,True
+2020-04-01 00:32:00 UTC,electronics.smartphone,lego,9.24,"[100036005, 100036007, 100036002, 100158987, 100035978, 100035990, 100035984, 100044053, 100035980, 100035985, 100035988, 100200877]",LCD,4.5,720.0,Basic Quad-core,1.0,8.0,5.0,1.0,Android,2000.0,True,False
+2020-03-16 06:33:55 UTC,electronics.smartphone,lg,1.79,"[18001242, 18001270, 18001031]",LCD,6.1,2340.0,Snapdragon 675,4.0,64.0,16.0,8.0,Android,3500.0,True,False
+2020-04-23 07:31:05 UTC,electronics.smartphone,lg,25.71,[1002328],LCD,5.0,720.0,Quad-core,2.0,32.0,13.0,5.0,Android,2500.0,True,False
+2020-04-01 04:48:58 UTC,electronics.smartphone,lg,77.2,"[1003851, 1003887, 1003437]",LCD,5.7,720.0,Snapdragon 450,2.0,32.0,13.0,5.0,Android,3000.0,True,False
+2020-01-01 04:20:38 UTC,electronics.smartphone,lg,102.94,"[1003863, 1003014, 1003330]",LCD,5.7,720.0,Snapdragon 450,3.0,32.0,13.0,8.0,Android,3000.0,True,False
+2020-04-01 17:23:07 UTC,electronics.smartphone,lg,137.86,[1003015],LCD,6.1,2340.0,Octa-core,4.0,64.0,13.0,8.0,Android,3500.0,True,False
+2020-02-03 17:00:26 UTC,electronics.smartphone,lg,165.07,[1003673],LCD,6.1,2340.0,Snapdragon 665,4.0,64.0,13.0,8.0,Android,3500.0,True,False
+2020-04-15 16:28:27 UTC,electronics.smartphone,lg,187.21,"[1003735, 1003734, 1002310, 1002308]",LCD,6.1,2340.0,Snapdragon 675,4.0,64.0,13.0,8.0,Android,3500.0,True,False
+2019-10-01 02:18:49 UTC,electronics.smartphone,lg,216.2,"[1003991, 1003992]",LCD,6.1,2340.0,Snapdragon 675,4.0,64.0,16.0,8.0,Android,3500.0,True,True
+2020-04-01 02:42:34 UTC,electronics.smartphone,lg,324.31,[1003894],LCD,5.7,1080.0,Snapdragon 675,4.0,64.0,16.0,8.0,Android,3500.0,True,True
+2019-10-01 02:18:54 UTC,electronics.smartphone,lg,344.9,"[1003934, 1004907]",LCD,6.1,2340.0,Snapdragon 845,4.0,64.0,16.0,8.0,Android,3000.0,True,True
+2020-04-08 15:32:48 UTC,electronics.smartphone,lg,414.17,[1003487],OLED,6.1,2340.0,Snapdragon 765G,6.0,128.0,48.0,16.0,Android,4000.0,True,True
+2020-02-24 15:00:20 UTC,electronics.smartphone,lg,437.57,[1005257],OLED,6.1,2340.0,Snapdragon 765,6.0,128.0,48.0,16.0,Android,4000.0,True,True
+2020-04-03 08:54:53 UTC,electronics.smartphone,lg,514.56,[1004769],OLED,6.1,2340.0,Snapdragon 765,6.0,128.0,48.0,16.0,Android,4000.0,True,True
+2020-04-05 11:27:20 UTC,electronics.smartphone,lg,617.52,[1005051],OLED,6.1,3120.0,Snapdragon 865,8.0,128.0,48.0,16.0,Android,4000.0,True,True
+2019-10-01 02:18:35 UTC,electronics.smartphone,meizu,71.79,"[1004496, 1004495, 1003001]",LCD,5.5,1920.0,Snapdragon 625,3.0,32.0,12.0,5.0,Android,3000.0,True,False
+2019-10-01 02:37:22 UTC,electronics.smartphone,meizu,92.38,"[1004757, 1004756, 1003969, 1004187, 1003847, 1003974]",LCD,5.5,1920.0,Octa-core,4.0,64.0,12.0,5.0,Android,3000.0,True,False
+2019-10-01 02:29:28 UTC,electronics.smartphone,meizu,115.81,"[1004197, 1003610, 1004562, 1003867, 1003782, 1003608, 1004171, 1004347, 1003609, 1004152, 1002482, 1001588, 1004155, 1004154, 1003968, 1003848, 1004563, 1005095, 1004582, 1004564, 1004672, 1003074]",LCD,5.5,1920.0,Octa-core,4.0,64.0,12.0,5.0,Android,3000.0,True,False
+2020-04-05 10:12:53 UTC,electronics.smartphone,meizu,140.78,"[1003845, 1004340, 1003073, 1003611, 1003592]",LCD,6.2,1080.0,Snapdragon 665,4.0,64.0,48.0,20.0,Android,4000.0,True,False
+2019-10-01 03:20:59 UTC,electronics.smartphone,meizu,179.79,"[1002484, 1004783, 1004784]",LCD,6.2,1080.0,Snapdragon 675,4.0,64.0,48.0,20.0,Android,4000.0,True,False
+2019-10-01 03:57:11 UTC,electronics.smartphone,meizu,200.29,"[1004342, 1004341, 1004774, 1004317, 1003938, 1004033, 1002367, 1003612]",LCD,6.2,1080.0,Octa-core,4.0,64.0,12.0,8.0,Android,3500.0,True,False
+2019-10-01 02:59:41 UTC,electronics.smartphone,meizu,225.42,"[1003793, 1004852, 1002678, 1004843, 1004853, 1003598]",OLED,6.2,1080.0,Snapdragon 675,6.0,128.0,48.0,20.0,Android,4000.0,True,True
+2019-10-04 10:32:23 UTC,electronics.smartphone,meizu,257.15,"[1004845, 1004121, 1004443]",OLED,6.2,1080.0,Snapdragon 675,4.0,64.0,48.0,20.0,Android,3500.0,True,True
+2019-10-01 04:00:40 UTC,electronics.smartphone,meizu,308.5,"[1003096, 1004773, 1004780, 1004846, 1003415]",OLED,6.2,1080.0,Snapdragon 710,6.0,128.0,48.0,20.0,Android,4000.0,True,True
+2020-04-03 08:40:27 UTC,electronics.smartphone,meizu,334.35,"[1004454, 1004936, 1004185, 1004682]",OLED,6.2,1080.0,Snapdragon 845,8.0,128.0,48.0,20.0,Android,4000.0,True,True
+2020-04-03 15:50:22 UTC,electronics.smartphone,meizu,360.34,"[1004455, 1004440]",OLED,6.2,1080.0,Snapdragon 855,8.0,128.0,48.0,20.0,Android,4000.0,True,True
+2019-10-01 03:29:24 UTC,electronics.smartphone,meizu,386.08,[1004457],OLED,6.2,1080.0,Snapdragon 845,6.0,128.0,12.0,8.0,Android,3500.0,True,True
+2020-04-01 00:22:31 UTC,electronics.smartphone,meizu,406.5,"[1003416, 1003391, 1003428]",OLED,6.2,1080.0,Snapdragon 865,8.0,128.0,48.0,20.0,Android,4500.0,True,True
+2020-04-17 11:28:56 UTC,electronics.smartphone,metabo,278.77,[100095002],LCD,6.1,2400.0,Octa-core,4.0,64.0,12.0,8.0,Android,3500.0,True,True
+2020-04-13 05:17:57 UTC,electronics.smartphone,micromax,48.91,[1002824],LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,2500.0,True,False
+2019-10-01 05:55:36 UTC,electronics.smartphone,micromax,85.12,[1002929],LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,2500.0,True,False
+2020-04-02 17:47:57 UTC,electronics.smartphone,moshi,13.43,"[18000332, 18000325, 18000764]",LCD,5.5,720.0,Quad-core,3.0,32.0,12.0,5.0,Android,3000.0,True,False
+2020-04-20 08:59:12 UTC,electronics.smartphone,motorola,101.15,"[1004180, 1004177]",LCD,6.2,720.0,Snapdragon 665,4.0,64.0,16.0,8.0,Android,5000.0,True,False
+2020-04-19 15:48:57 UTC,electronics.smartphone,mujjo,38.59,"[18000681, 18000695, 18000679, 18000696, 18000698, 18000684, 18000675, 18000683, 18000672, 18000720, 18000716, 18000709, 18000703, 18000722]",LCD,5.5,1920.0,Snapdragon 625,4.0,64.0,12.0,5.0,Android,3000.0,True,False
+2020-03-05 18:20:23 UTC,electronics.smartphone,mujjo,60.46,"[18000704, 18000723]",LCD,4.7,1334.0,Unknown,2.0,64.0,12.0,5.0,iOS,1821.0,True,True
+2020-01-01 14:29:09 UTC,electronics.smartphone,nillkin,1.26,"[18001096, 18001072, 18001197, 18001239, 18001188, 18001262, 18000273, 18000282, 18001448, 18001449, 18001446, 18001455, 18001456]",LCD,5.5,1080.0,Snapdragon 625,4.0,64.0,12.0,5.0,Android,3000.0,True,False
+2020-03-19 20:29:22 UTC,electronics.smartphone,nokia,8.21,"[18000748, 18001126, 18000730, 18001162, 18001166, 18001161, 18001125, 18000747, 18001333, 18000742, 18000744, 18001165, 100062481]",LCD,5.0,720.0,Entry-level,1.0,8.0,5.0,2.0,Android,2000.0,True,False
+2020-04-01 10:01:48 UTC,electronics.smartphone,nokia,72.28,"[1003756, 1003757, 1004893, 1004854]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,3000.0,True,False
+2019-10-01 02:49:33 UTC,electronics.smartphone,nokia,101.65,"[1004198, 1005019, 1004167, 1005020, 1003173, 1005272, 1003447, 1003222, 1004035, 1003988, 1003910, 1003230, 1003360, 1004497, 1003233, 1003298]",LCD,5.5,720.0,Snapdragon 430,2.0,16.0,8.0,5.0,Android,3000.0,True,False
+2019-10-01 06:29:18 UTC,electronics.smartphone,nokia,127.36,"[1003177, 1003181, 1004988, 1003962, 1003221, 1005147, 1004962, 1003778, 1003172, 1003425, 1003777, 1003645, 1004014, 1004963, 1004525, 1004900, 1004524]",LCD,5.5,1080.0,Snapdragon 630,4.0,64.0,16.0,8.0,Android,3000.0,True,True
+2019-10-01 03:02:31 UTC,electronics.smartphone,nokia,154.0,"[1004955, 1004989, 1003989, 1004036]",LCD,5.5,1920.0,Snapdragon 630,4.0,64.0,16.0,8.0,Android,3000.0,True,True
+2020-04-03 17:42:38 UTC,electronics.smartphone,nokia,203.33,"[1003779, 1003231, 1004318, 1004523]",LCD,5.5,1080.0,Snapdragon 660,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-04-15 16:02:09 UTC,electronics.smartphone,nokia,231.6,"[1004498, 1003638, 1003377]",LCD,5.5,1080.0,Snapdragon 660,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2019-10-01 00:06:16 UTC,electronics.smartphone,nokia,257.38,[1004599],LCD,5.5,1080.0,Snapdragon,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-04-01 09:58:26 UTC,electronics.smartphone,nokia,290.11,"[1004169, 100015000]",LCD,5.5,1080.0,Snapdragon 660,4.0,64.0,13.0,8.0,Android,3000.0,True,True
+2019-10-01 02:21:55 UTC,electronics.smartphone,nokia,370.2,"[1003774, 1004452]",LCD,5.5,1080.0,Snapdragon 660,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2019-10-01 02:21:22 UTC,electronics.smartphone,nokia,407.11,[1003441],LCD,5.5,1080.0,Snapdragon 660,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-04-01 01:11:59 UTC,electronics.smartphone,nokia,573.17,[1003328],LCD,5.5,1080.0,Snapdragon 660,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-04-01 15:55:05 UTC,electronics.smartphone,nokia,630.65,[1003798],LCD,6.1,1080.0,Snapdragon 665,4.0,64.0,12.0,8.0,Android,3500.0,True,True
+2019-10-01 02:53:37 UTC,electronics.smartphone,nubia,159.57,[1005063],LCD,6.3,2340.0,Snapdragon 675,6.0,128.0,48.0,20.0,Android,4000.0,True,False
+2020-04-05 08:46:50 UTC,electronics.smartphone,oneplus,367.35,[1003291],OLED,6.55,2400.0,Snapdragon 865,8.0,128.0,48.0,16.0,Android,4300.0,True,True
+2019-10-01 02:26:45 UTC,electronics.smartphone,oneplus,450.2,"[1003954, 1003525, 1003499]",OLED,6.5,2340.0,Snapdragon 855,8.0,128.0,48.0,16.0,Android,3700.0,True,True
+2019-10-01 02:55:01 UTC,electronics.smartphone,oneplus,540.3,[1003898],OLED,6.4,2340.0,Snapdragon 855,8.0,128.0,48.0,16.0,Android,3700.0,True,True
+2019-10-01 00:04:00 UTC,electronics.smartphone,oneplus,591.75,"[1004993, 1004828, 1004994, 1002902, 1005050, 1003817]",OLED,6.41,2340.0,Snapdragon 855,8.0,128.0,48.0,16.0,Android,3700.0,True,True
+2019-10-01 03:43:04 UTC,electronics.smartphone,oneplus,646.37,"[1003978, 1005043]",OLED,6.41,2340.0,Snapdragon 855,8.0,128.0,48.0,16.0,Android,3700.0,True,True
+2020-04-01 05:03:42 UTC,electronics.smartphone,oneplus,679.55,[1004950],OLED,6.55,2400.0,Snapdragon 865,12.0,256.0,48.0,16.0,Android,4500.0,True,True
+2020-04-05 19:46:53 UTC,electronics.smartphone,oneplus,707.87,[1004548],OLED,6.55,2400.0,Snapdragon 865,8.0,128.0,48.0,16.0,Android,4300.0,True,True
+2019-10-01 00:03:39 UTC,electronics.smartphone,oneplus,746.22,"[1004946, 1004540]",OLED,6.41,2340.0,Snapdragon 855,8.0,128.0,48.0,16.0,Android,3700.0,True,True
+2019-10-01 02:21:31 UTC,electronics.smartphone,oneplus,800.12,[1004948],OLED,6.55,2400.0,Snapdragon 855+,8.0,128.0,48.0,16.0,Android,3800.0,True,True
+2019-10-01 02:26:28 UTC,electronics.smartphone,oneplus,836.57,"[1004831, 1004949, 1004947]",OLED,6.5,1440.0,Snapdragon 855,8.0,128.0,48.0,16.0,Android,4000.0,True,True
+2020-04-03 10:31:37 UTC,electronics.smartphone,oneplus,987.52,[1003899],OLED,6.5,2400.0,Snapdragon 865,12.0,256.0,48.0,16.0,Android,4500.0,True,True
+2020-04-01 11:03:04 UTC,electronics.smartphone,oppo,77.2,"[1003406, 1003843]",LCD,6.5,720.0,Snapdragon 450,4.0,64.0,13.0,8.0,Android,4000.0,True,False
+2020-04-10 16:12:33 UTC,electronics.smartphone,oppo,102.94,[1004189],LCD,6.4,2400.0,Snapdragon 665,4.0,64.0,48.0,16.0,Android,4000.0,True,False
+2019-10-01 02:47:08 UTC,electronics.smartphone,oppo,153.02,"[1004887, 1004886, 1003791, 1003795, 1003792]",LCD,6.4,1080.0,Snapdragon 665,4.0,64.0,48.0,16.0,Android,4000.0,True,False
+2019-10-01 00:02:34 UTC,electronics.smartphone,oppo,179.38,"[1004838, 1004961, 1004839, 1004188, 1003102]",LCD,6.4,2340.0,Snapdragon 665,4.0,64.0,48.0,16.0,Android,4000.0,True,False
+2020-04-01 09:28:57 UTC,electronics.smartphone,oppo,205.86,"[1004376, 1003600, 1003599]",LCD,6.4,1080.0,Snapdragon 665,4.0,64.0,48.0,16.0,Android,4000.0,True,False
+2020-04-01 16:22:48 UTC,electronics.smartphone,oppo,231.64,"[1004992, 1003864]",LCD,6.4,2400.0,Snapdragon 665,4.0,64.0,48.0,16.0,Android,4000.0,True,False
+2019-10-01 03:56:36 UTC,electronics.smartphone,oppo,254.58,"[1004375, 1004578, 1004990, 1004966]",LCD,6.4,1080.0,Snapdragon 665,4.0,64.0,48.0,16.0,Android,4000.0,True,False
+2019-10-01 02:35:37 UTC,electronics.smartphone,oppo,308.86,"[1004500, 1004501]",OLED,6.4,2340.0,Snapdragon 665,8.0,128.0,48.0,16.0,Android,4000.0,True,True
+2020-04-03 13:38:51 UTC,electronics.smartphone,oppo,334.6,[1003797],OLED,6.4,2400.0,Snapdragon 665,8.0,128.0,48.0,16.0,Android,4000.0,True,True
+2019-10-01 00:16:19 UTC,electronics.smartphone,oppo,386.06,"[1005021, 1005022, 1003520]",OLED,6.4,2340.0,Snapdragon 665,8.0,128.0,48.0,16.0,Android,4000.0,True,True
+2020-04-07 10:06:50 UTC,electronics.smartphone,oppo,435.87,[1004581],OLED,6.4,2400.0,Snapdragon 765G,8.0,128.0,48.0,32.0,Android,4025.0,True,True
+2019-10-01 02:59:00 UTC,electronics.smartphone,oppo,463.31,[1004502],OLED,6.4,2340.0,Snapdragon 665,8.0,128.0,48.0,16.0,Android,4000.0,True,True
+2019-10-01 06:33:10 UTC,electronics.smartphone,oppo,514.79,[1004503],OLED,6.4,2400.0,Snapdragon 730,8.0,128.0,48.0,32.0,Android,4000.0,True,True
+2019-10-01 00:13:21 UTC,electronics.smartphone,oppo,592.01,"[1004902, 1004901]",OLED,6.4,1080.0,Snapdragon 665,8.0,128.0,48.0,16.0,Android,4000.0,True,True
+2020-04-02 11:36:47 UTC,electronics.smartphone,oppo,776.08,"[1004385, 1004386]",OLED,6.4,2400.0,Snapdragon 765G,8.0,128.0,48.0,32.0,Android,4025.0,True,True
+2019-10-01 02:39:09 UTC,electronics.smartphone,oppo,952.37,"[1004965, 1004964]",OLED,6.4,2340.0,Snapdragon 855,8.0,128.0,48.0,16.0,Android,4000.0,True,True
+2020-04-01 15:31:45 UTC,electronics.smartphone,petek,16.47,"[36700003, 36700000, 100046137, 100046167, 100046148, 100046163, 100046152, 100000481, 18001316]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-04-02 09:43:55 UTC,electronics.smartphone,petek,40.16,"[100000562, 36700001, 36700009, 36700004, 36700011, 36700006]",LCD,5.0,720.0,Quad-core,2.0,32.0,8.0,2.0,Android,2500.0,True,False
+2020-04-01 13:30:47 UTC,electronics.smartphone,petek,61.78,[36700012],LCD,5.5,720.0,Quad-core 1.4 GHz,2.0,32.0,12.0,5.0,Android,3000.0,True,False
+2019-10-01 04:26:07 UTC,electronics.smartphone,philips,82.37,[1002225],LCD,5.5,720.0,Quad-core,2.0,32.0,13.0,5.0,Android,3000.0,True,False
+2020-02-10 16:12:54 UTC,electronics.smartphone,prestigio,12.84,[1003278],LCD,5.0,720.0,Quad-core,1.0,8.0,8.0,2.0,Android,2000.0,True,False
+2019-10-01 03:13:40 UTC,electronics.smartphone,prestigio,38.59,"[1005155, 1003877, 1003921, 1004309]",LCD,5.0,720.0,Quad-core,1.0,8.0,8.0,2.0,Android,2000.0,True,False
+2019-10-01 04:14:51 UTC,electronics.smartphone,prestigio,58.87,"[1003878, 1004488, 1002846, 1004223, 1003335, 1003297]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-02-25 21:41:32 UTC,electronics.smartphone,prestigio,80.95,"[1004222, 1004844, 1004134, 1003277, 1003249]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,2500.0,True,False
+2020-04-01 04:21:46 UTC,electronics.smartphone,prestigio,123.27,[1004847],LCD,5.5,720.0,Quad-core,2.0,32.0,8.0,2.0,Android,2500.0,True,False
+2020-03-01 02:02:54 UTC,electronics.smartphone,rapid,6.19,"[18001424, 18001527, 18001420, 18001422, 18001421, 18001425]",LCD,5.0,720.0,Basic Quad Core,1.0,8.0,5.0,2.0,Android,2000.0,True,False
+2019-12-06 12:26:27 UTC,electronics.smartphone,remax,5.12,"[18000791, 18001436, 18000255, 18000257, 18000256, 18000253, 18001175, 18000241]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-04-28 09:52:11 UTC,electronics.smartphone,rivacase,16.61,[18001427],LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-04-07 05:21:43 UTC,electronics.smartphone,samsung,0.81,"[18000384, 18001345, 18001342, 18001336, 18001268, 18001222, 18001348, 18000990, 18000077, 18000080, 18001105, 18001106, 18000991, 18000886, 18001044, 18000911, 18000909, 18000989, 18000994, 18000079, 18000995, 18000917, 18001107, 18000929, 18001027, 18000918, 18001023, 18001325, 18001025, 18001009, 18001158, 18000221, 18000258, 18000938, 18000084, 18000082, 18000033, 18001542, 18000009, 18000851, 18000010, 18000040, 18000011, 18000191, 18000093, 18000092, 18000753, 18000091, 18000086, 100015694, 18001153, 18001156, 18001155, 18000155, 18001022, 18000196, 18000130, 18000206, 18000142, 18000910, 18000143, 18001447, 18001594, 18001452, 18001450, 18001451, 18001024, 18000173, 18000123, 18000192, 18000137, 18001026, 18000671, 18000986, 18000657, 18000665, 18000667, 18000656, 18001353, 18001015, 18000993, 18000664, 18001013, 18000658, 18000988, 18000669, 18001064, 18001020, 18001000, 18000153, 18000157, 18000152, 18000151, 18000154, 18000150, 18000190, 18000992]",OLED,6.2,1440.0,Exynos 990,8.0,128.0,12.0,10.0,Android,4000.0,True,True
+2020-03-08 17:32:47 UTC,electronics.smartphone,samsung,21.85,"[18000666, 18000140, 18000162, 18000776, 18000055, 18000056, 18000053, 18000050, 18000035, 18000522, 18000159, 18000792, 18000138, 18000147, 18001021, 18000799, 18000972, 18000817, 18000797, 18001512, 18000103, 18000105, 18000101, 18000193, 18000057, 18000058, 100078379, 18001692]",LCD,5.0,720.0,Exynos,1.0,8.0,8.0,2.0,Android,2500.0,True,False
+2020-03-17 12:05:40 UTC,electronics.smartphone,samsung,43.73,"[18000846, 18000175, 18001043, 18000176, 18000803, 18000059, 18001045, 18000060, 18000734, 18001008, 18001157, 18001007, 18001173, 18000670]",LCD,5.0,720.0,Exynos,2.0,32.0,12.0,5.0,Android,2500.0,True,False
+2020-01-16 10:30:08 UTC,electronics.smartphone,samsung,71.2,"[18000789, 1002042, 1003224, 1004446, 1002757]",LCD,5.0,720.0,Exynos,2.0,32.0,13.0,5.0,Android,3000.0,True,False
+2019-10-01 00:04:37 UTC,electronics.smartphone,samsung,92.64,"[1004209, 1004210, 1004211, 1003908]",LCD,5.5,720.0,Exynos,2.0,32.0,13.0,5.0,Android,3000.0,True,False
+2020-04-01 20:08:52 UTC,electronics.smartphone,samsung,114.41,"[1002062, 1003738, 1003657, 1004857, 1004856]",LCD,5.8,720.0,Exynos,2.0,32.0,12.0,5.0,Android,3000.0,True,False
+2019-10-01 00:05:22 UTC,electronics.smartphone,samsung,134.42,"[1004858, 1003854, 1003866, 1005100, 1005098, 1005099]",OLED,6.2,1080.0,Exynos,4.0,64.0,12.0,8.0,Android,3500.0,True,True
+2019-10-01 02:22:48 UTC,electronics.smartphone,samsung,169.86,"[1004432, 1003859, 1004863, 1004833, 1004834, 1003911, 1003548, 1003532, 1004168, 1004435, 1003912]",OLED,6.1,2340.0,Exynos,4.0,64.0,12.0,8.0,Android,3100.0,True,True
+2019-10-01 02:23:12 UTC,electronics.smartphone,samsung,190.46,"[1004436, 1003952, 1002876, 1002877, 1004751, 1004750, 1003225, 1003913, 1003953, 1003951, 1004749, 1003209]",OLED,6.1,1080.0,Exynos,4.0,64.0,12.0,8.0,Android,3400.0,True,True
+2019-10-01 03:19:19 UTC,electronics.smartphone,samsung,217.04,"[1004424, 1004426, 1003208, 1003861, 1003860, 1004163, 1003852, 1004835, 1004888, 1004382, 1004381]",OLED,6.1,2340.0,Exynos,4.0,128.0,12.0,10.0,Android,3400.0,True,True
+2019-10-01 00:01:11 UTC,electronics.smartphone,samsung,241.19,"[1004836, 1005154, 1005168, 1005169, 1004766, 1004768, 1005171, 1004767, 1004434, 1004433, 1002905, 1003857]",OLED,6.1,1080.0,Exynos,4.0,64.0,12.0,10.0,Android,3400.0,True,True
+2020-04-01 06:33:06 UTC,electronics.smartphone,samsung,275.4,"[1003535, 1002266, 100045315, 100045333, 100045328, 1004529, 1004872, 1004871, 1004870]",OLED,6.2,1080.0,Exynos,4.0,128.0,12.0,8.0,Android,3500.0,True,True
+2019-10-01 02:51:44 UTC,electronics.smartphone,samsung,301.08,"[1003533, 1004164, 1002904]",OLED,6.2,2340.0,Exynos,8.0,128.0,12.0,10.0,Android,3400.0,True,True
+2019-10-01 09:47:25 UTC,electronics.smartphone,samsung,323.43,"[1002906, 1003210, 100045377, 1004530]",OLED,6.2,1440.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,3400.0,True,True
+2020-02-17 16:02:52 UTC,electronics.smartphone,samsung,344.53,[100045368],OLED,6.2,1440.0,Exynos,8.0,128.0,12.0,10.0,Android,4000.0,True,True
+2020-04-04 16:23:09 UTC,electronics.smartphone,samsung,370.41,"[1002102, 1002103, 1004528, 1004874, 100045396, 100045394, 100045389, 1004875, 1004873]",OLED,6.2,1080.0,Exynos,8.0,128.0,12.0,10.0,Android,4000.0,True,True
+2019-10-01 02:44:07 UTC,electronics.smartphone,samsung,409.02,"[1002101, 1002098, 1002100, 1002099]",OLED,6.1,3040.0,Exynos,8.0,128.0,12.0,10.0,Android,3400.0,True,True
+2020-04-01 11:44:59 UTC,electronics.smartphone,samsung,437.33,[1003549],OLED,6.2,1440.0,Exynos 990,8.0,128.0,12.0,10.0,Android,4000.0,True,True
+2020-04-02 16:55:53 UTC,electronics.smartphone,samsung,457.9,"[1003238, 1003534]",OLED,6.2,1440.0,Exynos,8.0,128.0,12.0,10.0,Android,4000.0,True,True
+2020-04-01 14:25:21 UTC,electronics.smartphone,samsung,514.53,"[1003237, 1003469]",OLED,6.2,1440.0,Exynos 990,8.0,128.0,12.0,10.0,Android,4000.0,True,True
+2020-04-01 12:37:53 UTC,electronics.smartphone,samsung,563.7,"[1004574, 1003718, 1003048, 1003049, 1003039, 1003604, 1003710]",OLED,6.2,1440.0,Exynos 990,8.0,128.0,12.0,10.0,Android,4000.0,True,True
+2020-04-03 02:19:46 UTC,electronics.smartphone,samsung,586.16,"[1003507, 1003051, 1003052, 1003285, 1005015]",OLED,6.2,1440.0,Exynos 990,8.0,128.0,12.0,10.0,Android,4000.0,True,True
+2019-10-01 00:58:11 UTC,electronics.smartphone,samsung,614.55,"[1005014, 1005016, 1003050, 1004648, 1004650]",OLED,6.1,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,3400.0,True,True
+2019-10-01 02:22:33 UTC,electronics.smartphone,samsung,636.05,"[1004653, 100047541, 100047534, 100047538, 1003966, 1003973]",OLED,6.1,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,3400.0,True,True
+2019-10-01 02:46:01 UTC,electronics.smartphone,samsung,669.23,[1003711],OLED,6.4,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,4100.0,True,True
+2019-10-01 02:50:07 UTC,electronics.smartphone,samsung,694.72,[1004015],OLED,6.4,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,4100.0,True,True
+2019-10-01 02:23:42 UTC,electronics.smartphone,samsung,715.02,"[1003709, 1004573, 100047554, 100047557, 1004987, 1003713, 100047559, 1003965, 1004016, 1003714, 1003716]",OLED,6.1,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,3400.0,True,True
+2019-10-01 03:52:27 UTC,electronics.smartphone,samsung,746.22,"[1003281, 1004157, 1003712, 1004159, 1004983]",OLED,6.4,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,4100.0,True,True
+2019-10-01 02:31:46 UTC,electronics.smartphone,samsung,771.93,"[1004978, 1004977, 1004630, 1004975, 1004628, 1004629, 1004659]",OLED,6.4,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,4100.0,True,True
+2019-10-01 00:13:39 UTC,electronics.smartphone,samsung,794.59,"[1004655, 1004657]",OLED,6.4,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,4100.0,True,True
+2019-10-01 07:16:30 UTC,electronics.smartphone,samsung,818.3,[1003715],OLED,6.4,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,4100.0,True,True
+2019-10-01 03:17:17 UTC,electronics.smartphone,samsung,849.13,"[1004944, 100047576, 100047572]",OLED,6.4,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,4100.0,True,True
+2019-10-01 01:37:45 UTC,electronics.smartphone,samsung,871.14,"[1004665, 1004661]",OLED,6.4,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,4100.0,True,True
+2019-10-01 09:21:00 UTC,electronics.smartphone,samsung,897.55,"[1004531, 1004663, 1004638, 1005011, 1004634, 1004979, 1004636]",OLED,6.2,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,3400.0,True,True
+2019-10-01 03:13:54 UTC,electronics.smartphone,samsung,920.33,[1004945],OLED,6.4,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,4100.0,True,True
+2020-04-01 15:16:57 UTC,electronics.smartphone,samsung,952.15,"[1004200, 1004158]",OLED,6.2,3200.0,Exynos 990,12.0,128.0,108.0,40.0,Android,5000.0,True,True
+2020-02-02 05:29:29 UTC,electronics.smartphone,samsung,977.86,"[100047586, 1004660, 100047578, 100047581]",OLED,6.2,3200.0,Exynos 990,12.0,128.0,108.0,10.0,Android,4000.0,True,True
+2020-02-01 07:52:22 UTC,electronics.smartphone,samsung,1029.34,"[1004640, 1004980, 1004974, 1004982, 100074201, 1004644, 1004642, 100036820, 1004984, 1005072, 1005071, 1005068]",OLED,6.2,3200.0,Exynos 990,12.0,128.0,108.0,10.0,Android,4000.0,True,True
+2020-04-01 23:47:09 UTC,electronics.smartphone,samsung,1062.83,"[100030560, 1005056, 1005055, 1005057]",OLED,6.2,3040.0,Exynos 990,12.0,128.0,108.0,10.0,Android,4000.0,True,True
+2020-04-13 16:19:23 UTC,electronics.smartphone,samsung,1093.98,"[1004201, 100030576, 1005180]",OLED,6.2,3200.0,Exynos 990,12.0,128.0,108.0,10.0,Android,5000.0,True,True
+2019-10-01 02:37:37 UTC,electronics.smartphone,samsung,1156.79,"[1004666, 1004762, 1004765, 1004662, 1004972, 1004973]",OLED,6.1,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,3400.0,True,True
+2019-10-01 00:00:57 UTC,electronics.smartphone,samsung,1207.71,"[1005073, 1005067]",OLED,6.4,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,4100.0,True,True
+2019-10-01 02:17:58 UTC,electronics.smartphone,samsung,1235.24,"[1005074, 100009964, 100009971, 1005060, 1005058, 1005059]",OLED,6.2,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,3400.0,True,True
+2019-10-01 02:24:42 UTC,electronics.smartphone,samsung,1286.75,[1004670],OLED,6.1,3040.0,Exynos 9820,8.0,128.0,12.0,10.0,Android,3400.0,True,True
+2020-02-13 06:11:50 UTC,electronics.smartphone,samsung,1415.45,"[1004763, 1004671, 1004764]",OLED,6.2,1440.0,Exynos,12.0,128.0,108.0,10.0,Android,4000.0,True,True
+2020-02-18 19:27:32 UTC,electronics.smartphone,smtt,5.12,[18001443],LCD,5.5,720.0,Quad-core,2.0,32.0,8.0,2.0,Android,2500.0,True,False
+2020-04-02 02:34:10 UTC,electronics.smartphone,sony,12.34,[1003368],LCD,5.5,1080.0,Snapdragon 665,4.0,64.0,12.0,8.0,Android,3000.0,True,False
+2019-12-24 13:49:21 UTC,electronics.smartphone,sony,49.13,"[18001441, 18001169]",LCD,5.5,1920.0,Snapdragon 625,3.0,32.0,13.0,5.0,Android,3000.0,True,False
+2020-04-26 12:21:30 UTC,electronics.smartphone,sony,102.71,"[1003168, 1003169]",LCD,5.5,1920.0,Snapdragon 665,4.0,64.0,12.0,8.0,Android,3500.0,True,True
+2020-02-01 09:40:54 UTC,electronics.smartphone,sony,123.56,"[1003159, 1003114, 1003727, 1003726, 1002442, 1003112]",LCD,6.0,1080.0,Snapdragon 665,4.0,64.0,12.0,8.0,Android,3500.0,True,True
+2019-10-01 02:18:55 UTC,electronics.smartphone,sony,179.88,"[1004727, 1004728, 1004729, 1004732, 1003158]",LCD,5.5,1920.0,Snapdragon 630,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-04-28 09:39:12 UTC,electronics.smartphone,sony,200.78,"[1003162, 1003748, 1004736, 1003302, 1003442, 1003373]",LCD,6.0,1080.0,Snapdragon 665,4.0,64.0,12.0,8.0,Android,3500.0,True,True
+2020-04-12 14:06:15 UTC,electronics.smartphone,sony,231.38,"[1004737, 1003750]",LCD,6.0,1080.0,Snapdragon 665,4.0,64.0,12.0,8.0,Android,3500.0,True,True
+2019-10-01 03:03:28 UTC,electronics.smartphone,sony,252.39,"[1002398, 1002684, 1003765, 1004395, 1004393, 1003752, 1003751]",LCD,6.0,1080.0,Snapdragon 855,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2019-10-01 04:05:28 UTC,electronics.smartphone,sony,275.55,"[1002396, 1003113, 1003747, 1004392, 1004394]",LCD,6.0,1080.0,Snapdragon 665,4.0,64.0,12.0,8.0,Android,3500.0,True,True
+2020-04-02 03:28:01 UTC,electronics.smartphone,sony,304.75,"[1003746, 1002494, 1004730, 1003374, 1000544]",LCD,6.0,2160.0,Snapdragon 845,6.0,128.0,12.0,8.0,Android,3300.0,True,True
+2019-10-01 03:24:24 UTC,electronics.smartphone,sony,385.83,"[1004733, 1004734]",LCD,6.0,1080.0,Snapdragon 845,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-04-26 09:48:25 UTC,electronics.smartphone,sony,409.28,"[1003763, 1003372, 1003371, 1003762]",LCD,6.1,2520.0,Snapdragon 865,8.0,128.0,12.0,8.0,Android,4000.0,True,True
+2019-11-04 14:04:00 UTC,electronics.smartphone,sony,445.34,"[1004399, 1003171, 1004738, 1004735]",LCD,6.0,1080.0,Snapdragon 845,4.0,64.0,12.0,8.0,Android,3000.0,True,True
+2020-04-03 17:56:52 UTC,electronics.smartphone,sony,488.56,[1003760],OLED,6.1,1080.0,Snapdragon 865,8.0,128.0,12.0,8.0,Android,4000.0,True,True
+2020-04-13 15:11:36 UTC,electronics.smartphone,sony,546.13,[1002724],OLED,6.5,3840.0,Snapdragon 865,8.0,128.0,12.0,8.0,Android,4000.0,True,True
+2020-03-09 09:32:55 UTC,electronics.smartphone,sony,640.94,[1004391],OLED,6.2,2340.0,Snapdragon 855,8.0,128.0,12.0,8.0,Android,3500.0,True,True
+2020-03-04 10:02:11 UTC,electronics.smartphone,sony,678.89,"[1003767, 1004390, 1004388, 1004389]",OLED,6.1,3840.0,Snapdragon 865,8.0,128.0,12.0,8.0,Android,4000.0,True,True
+2020-04-12 15:10:06 UTC,electronics.smartphone,sony,875.16,[1004009],OLED,6.1,3040.0,Snapdragon 865,8.0,128.0,12.0,8.0,Android,3500.0,True,True
+2020-02-03 10:53:02 UTC,electronics.smartphone,sony,926.41,[1005270],OLED,6.5,3840.0,Snapdragon 865,8.0,128.0,12.0,8.0,Android,4000.0,True,True
+2020-02-01 03:15:22 UTC,electronics.smartphone,sony,963.79,[1003761],OLED,6.5,3840.0,Snapdragon 865,8.0,128.0,12.0,8.0,Android,4000.0,True,True
+2019-10-01 02:38:40 UTC,electronics.smartphone,sony,1026.41,"[1004909, 1004911, 1000365, 1004910, 1004912]",OLED,6.5,3840.0,Snapdragon 855,8.0,128.0,12.0,8.0,Android,3300.0,True,True
+2020-01-01 07:08:23 UTC,electronics.smartphone,takeit,2.75,"[18001365, 18001457, 18001140]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2019-10-01 02:50:56 UTC,electronics.smartphone,tecno,66.67,"[1005090, 1005089, 1005091]",LCD,6.1,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,3000.0,True,False
+2020-04-01 16:38:42 UTC,electronics.smartphone,tecno,107.85,"[1005093, 1005092, 1005241, 1005094]",LCD,6.1,720.0,MediaTek,2.0,32.0,13.0,5.0,Android,3500.0,True,False
+2020-03-05 12:07:27 UTC,electronics.smartphone,texet,55.32,"[1002705, 1003956, 1003931, 1004315, 1000894, 1003957]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,3000.0,True,False
+2019-10-01 04:22:05 UTC,electronics.smartphone,texet,118.52,[1004097],LCD,5.5,1920.0,Quad-core,3.0,32.0,13.0,5.0,Android,3000.0,True,False
+2020-03-17 15:34:14 UTC,electronics.smartphone,toto,8.06,"[18001550, 18001551]",LCD,5.0,720.0,Basic Quad-core,1.0,8.0,5.0,2.0,Android,2000.0,True,False
+2019-10-01 05:12:04 UTC,electronics.smartphone,tp-link,58.94,"[1005053, 1005052, 1003885, 1004680, 1005054]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,3000.0,True,False
+2019-10-01 02:23:48 UTC,electronics.smartphone,tp-link,84.69,"[1005088, 1004175, 1004174]",LCD,5.0,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,3000.0,True,False
+2019-10-01 03:28:58 UTC,electronics.smartphone,tp-link,115.57,"[1004542, 1004543, 1003723, 1005097]",LCD,5.5,1920.0,Quad-core,3.0,32.0,13.0,5.0,Android,3000.0,True,False
+2019-10-01 05:33:34 UTC,electronics.smartphone,tp-link,136.17,"[1005096, 1004194, 1004193]",LCD,5.5,1920.0,Quad-core,3.0,32.0,13.0,5.0,Android,3000.0,True,False
+2019-10-01 04:01:00 UTC,electronics.smartphone,tp-link,167.06,"[1004596, 1005172]",LCD,5.5,1920.0,Quad-core,4.0,64.0,13.0,8.0,Android,3000.0,True,False
+2020-04-16 11:25:55 UTC,electronics.smartphone,ty,4.61,[100200847],LCD,5.5,720.0,Quad-core,2.0,32.0,8.0,2.0,Android,2500.0,True,False
+2020-04-11 10:35:28 UTC,electronics.smartphone,ubear,20.57,"[18001053, 18001055, 18001054, 18001057, 18001056, 18001051, 18001052, 18001058]",LCD,5.5,720.0,Quad-Core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-04-23 11:56:04 UTC,electronics.smartphone,usams,5.12,"[18000687, 18000714, 18000006]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2000.0,True,False
+2020-04-06 20:02:04 UTC,electronics.smartphone,vega,8.24,"[36700036, 36700034, 36700025, 36700029, 36700024, 36700027, 36700033, 36700023, 36700032, 36700044, 36700028, 36700031, 36700030, 36700026, 36700038, 36700037, 36700035, 36700042, 18000887]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2019-10-01 07:33:08 UTC,electronics.smartphone,vertex,95.19,"[1003547, 1003503]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-02-02 06:30:04 UTC,electronics.smartphone,vertex,117.02,[1003455],LCD,5.5,1920.0,Snapdragon 625,4.0,64.0,12.0,5.0,Android,3000.0,True,False
+2019-10-01 02:33:19 UTC,electronics.smartphone,vivo,141.29,"[1004939, 1004940]",LCD,6.2,720.0,Snapdragon 439,3.0,32.0,13.0,8.0,Android,4030.0,True,False
+2019-10-01 00:12:30 UTC,electronics.smartphone,vivo,167.03,"[1004935, 1004937]",LCD,6.22,720.0,Snapdragon 439,3.0,32.0,13.0,8.0,Android,4030.0,True,False
+2019-10-01 02:21:00 UTC,electronics.smartphone,vivo,231.64,"[1004934, 1004991]",LCD,6.2,720.0,Snapdragon 665,4.0,64.0,13.0,8.0,Android,5000.0,True,False
+2019-10-01 02:21:01 UTC,electronics.smartphone,vivo,321.73,"[1005069, 1005070]",OLED,6.2,1080.0,Snapdragon 665,4.0,64.0,13.0,8.0,Android,4500.0,True,False
+2020-04-01 10:57:38 UTC,electronics.smartphone,vivo,411.83,[1005243],OLED,6.5,2400.0,Snapdragon 865,8.0,128.0,48.0,32.0,Android,4500.0,True,True
+2019-10-01 00:11:48 UTC,electronics.smartphone,vivo,463.31,"[1004932, 1004931]",OLED,6.2,2340.0,Snapdragon 675,8.0,128.0,48.0,32.0,Android,4500.0,True,True
+2020-01-01 04:11:08 UTC,electronics.smartphone,vivo,797.94,[1005289],OLED,6.5,2400.0,Snapdragon 765G,8.0,128.0,48.0,32.0,Android,4500.0,True,True
+2020-01-30 14:49:05 UTC,electronics.smartphone,wuw,9.72,"[18001554, 18001553, 18001519, 18001549]",LCD,5.0,720.0,Basic Quad-core,1.0,8.0,8.0,2.0,Android,2000.0,True,False
+2020-02-12 10:46:26 UTC,electronics.smartphone,x-level,5.12,"[18001315, 18000876, 18000870, 18000868, 18000871, 18000926, 18000892, 18001431, 18000864, 18001439]",LCD,5.5,1920.0,Quad-core,2.0,16.0,8.0,2.0,Android,2500.0,True,False
+2020-04-22 19:33:34 UTC,electronics.smartphone,xiaomi,2.52,"[18001092, 18001399, 18000280, 18000283]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2019-10-01 00:19:03 UTC,electronics.smartphone,xiaomi,74.39,"[1004669, 1004743, 1004877, 1004876, 1004147, 1005006, 1005009]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2019-10-01 00:16:00 UTC,electronics.smartphone,xiaomi,96.53,"[1004161, 1004139, 1004136, 1004140, 1004131, 1005007, 1005103, 1005008, 1004034, 1004788, 1005030]",LCD,6.1,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2020-04-07 10:28:23 UTC,electronics.smartphone,xiaomi,118.02,"[1004019, 1003347, 1003537, 1004024, 1004809, 1003440, 1004855, 1005010, 1004130, 1004406, 1004143, 1004205, 1003530, 1003665, 1004133, 1004442, 1004025]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2019-10-01 02:20:04 UTC,electronics.smartphone,xiaomi,138.47,"[1004805, 1003856, 1003528, 1003855, 1004026, 1004162, 1004042, 1004791, 1004166, 1004173, 1004493, 1004429, 1004518, 1003572, 1003892, 1004156, 1003721, 1004038, 1002883, 1002996]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2020-04-02 20:48:36 UTC,electronics.smartphone,xiaomi,159.57,"[1004129, 1003816, 1004402, 1003338, 1003943, 1003647, 1004144, 1004145, 1004494, 1004681, 1003484, 1004777, 1004138, 1004218, 1004726, 1003509, 1003869]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2020-04-06 10:13:36 UTC,electronics.smartphone,xiaomi,179.9,"[1003882, 1003895, 1003890, 1003937, 1004405, 1004775, 1004819, 1004740, 1004981, 1004776, 1004190, 1004741, 1004816, 1003648, 1003942, 1003129, 1003571, 1003919, 1004320, 1004779, 1004739, 1003493, 1004191]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2019-10-01 03:06:44 UTC,electronics.smartphone,xiaomi,200.78,"[1003339, 1003527, 1003570, 1004450, 1002987, 1002662, 1004196, 1005031, 1004449, 1003944, 1004818, 1004808, 1005062, 1005064, 1004404, 1004407, 1004142]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2019-10-01 02:19:50 UTC,electronics.smartphone,xiaomi,221.34,"[1005084, 1003668, 1003656, 1003883, 1004796, 100015032, 1005159, 1005161, 1005160, 1005153, 1005065, 1005066]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,True
+2019-10-01 00:09:43 UTC,electronics.smartphone,xiaomi,241.96,"[1004794, 1004778, 1004795, 1003652, 1005035, 1005044, 1004066, 1003997, 1003862, 1002881, 1004403, 1004461]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,True
+2020-02-18 16:31:24 UTC,electronics.smartphone,xiaomi,267.7,"[1005034, 1004460, 1004895, 1004894, 1004206, 1005157]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2019-10-01 02:25:11 UTC,electronics.smartphone,xiaomi,295.76,"[1005164, 1005162, 1005163, 1004199, 1005158, 1005156]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,True
+2019-10-01 00:06:25 UTC,electronics.smartphone,xiaomi,321.5,"[1005165, 1005166, 1005167, 1004184, 1004837, 1004068, 1004149, 1003218, 1003870, 1004541, 1004214]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,True
+2020-04-01 18:57:28 UTC,electronics.smartphone,xiaomi,347.24,"[1004792, 1004797, 1004957, 1004061, 1004943, 1004958, 1004807, 1004060, 1004059]",LCD,6.3,2340.0,Snapdragon 720G,4.0,64.0,48.0,13.0,Android,5020.0,True,True
+2019-10-01 02:46:40 UTC,electronics.smartphone,xiaomi,373.21,"[1003461, 1004224, 1005032, 1004806, 1004219, 1005234]",LCD,6.3,2340.0,Snapdragon 660,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2019-10-01 02:23:53 UTC,electronics.smartphone,xiaomi,395.1,"[1004956, 1004062, 1004080, 1004078, 1004077]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,False
+2019-10-01 00:04:18 UTC,electronics.smartphone,xiaomi,423.95,"[1004869, 1004793, 1003936, 1004075, 1004063, 1005152, 1005151, 1003176, 1003551, 1005045]",LCD,6.3,2340.0,Snapdragon 665,4.0,64.0,48.0,13.0,Android,4000.0,True,True
+2020-04-03 10:55:34 UTC,electronics.smartphone,xiaomi,447.21,"[1005149, 1005101, 1005102, 1004505, 1004575, 1005033]",OLED,6.3,2340.0,Snapdragon 865,8.0,128.0,64.0,20.0,Android,4500.0,True,True
+2019-10-01 02:39:02 UTC,electronics.smartphone,xiaomi,478.43,"[1003896, 1005023, 1003636, 1003566, 1005254, 1004526, 1004216, 1005046, 1003901]",OLED,6.3,2340.0,Snapdragon 845,6.0,128.0,48.0,20.0,Android,4000.0,True,True
+2019-10-01 02:32:12 UTC,electronics.smartphone,xiaomi,499.37,"[1004617, 1004868, 1004867, 1004213, 1003293, 1004787]",OLED,6.3,2340.0,Snapdragon 855,6.0,128.0,48.0,20.0,Android,4000.0,True,True
+2019-10-01 02:33:51 UTC,electronics.smartphone,xiaomi,569.71,[1005150],OLED,6.3,2340.0,Snapdragon 855,6.0,128.0,48.0,20.0,Android,4000.0,True,True
+2020-02-27 06:05:13 UTC,electronics.smartphone,yotrix,7.06,[18000547],LCD,5.5,1920.0,Snapdragon 625,3.0,32.0,12.0,5.0,Android,3000.0,True,False
+2019-10-01 03:14:33 UTC,electronics.smartphone,zte,77.2,"[1004891, 1004892, 1003397, 1003398, 1004618, 1004619]",LCD,5.5,720.0,Quad-core,2.0,16.0,8.0,5.0,Android,3000.0,True,False
+2019-10-01 14:45:27 UTC,electronics.smartphone,zte,128.65,[1003523],LCD,5.5,1920.0,Quad-core,4.0,64.0,13.0,5.0,Android,3000.0,True,False
