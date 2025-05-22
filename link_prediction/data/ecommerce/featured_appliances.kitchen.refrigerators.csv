@@ -1,0 +1,1151 @@
+event_time,category_code,brand,price,product_id,energy_rating,capacity_liters,refrigerator_type,defrost_type,has_ice_maker,has_water_dispenser,has_smart_technology,is_energy_efficient,height_cm,width_cm,depth_cm
+2020-04-01 01:00:30 UTC,appliances.kitchen.refrigerators,acer,231.64,"[1480428, 1480429]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 03:21:08 UTC,appliances.kitchen.refrigerators,acer,254.55,"[1480160, 1480690, 1480166]",A++,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-04-13 08:02:35 UTC,appliances.kitchen.refrigerators,acer,283.12,"[1401333, 1480161]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-13 12:18:53 UTC,appliances.kitchen.refrigerators,acer,308.86,"[1401937, 1480167]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,65.0
+2020-04-01 00:23:03 UTC,appliances.kitchen.refrigerators,acer,366.78,"[1480647, 1480422]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:59:43 UTC,appliances.kitchen.refrigerators,acer,394.09,"[1480682, 100022210]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 02:48:00 UTC,appliances.kitchen.refrigerators,acer,514.79,[1480648],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 04:12:18 UTC,appliances.kitchen.refrigerators,acer,540.3,"[1480687, 1480615, 1480162, 100083075]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 04:58:51 UTC,appliances.kitchen.refrigerators,acer,566.04,[100082700],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 00:55:59 UTC,appliances.kitchen.refrigerators,acer,587.63,[1480600],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 00:50:04 UTC,appliances.kitchen.refrigerators,acer,612.99,"[100172161, 1480163, 1480685, 1480257]",A++,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,60.0
+2020-04-01 04:41:02 UTC,appliances.kitchen.refrigerators,acer,643.49,[100082723],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,65.0
+2020-04-01 06:01:26 UTC,appliances.kitchen.refrigerators,acer,669.23,"[100082348, 1480616]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 01:02:48 UTC,appliances.kitchen.refrigerators,acer,736.98,"[100093524, 1480683]",A+,500.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,75.0
+2020-04-01 01:08:45 UTC,appliances.kitchen.refrigerators,acer,771.94,"[1480171, 100022149, 100082266]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 00:12:16 UTC,appliances.kitchen.refrigerators,acer,797.94,[100076325],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 06:39:00 UTC,appliances.kitchen.refrigerators,acer,862.06,[100078784],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 04:44:53 UTC,appliances.kitchen.refrigerators,acer,900.67,[1480649],A+,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-01 03:02:36 UTC,appliances.kitchen.refrigerators,acer,926.64,[1480494],A+,450.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-01 03:01:21 UTC,appliances.kitchen.refrigerators,acer,1029.6,[100076292],A++,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 01:13:23 UTC,appliances.kitchen.refrigerators,acer,1080.83,"[1480423, 1480701]",A++,450.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,67.0
+2020-04-01 01:32:46 UTC,appliances.kitchen.refrigerators,acer,1338.49,[100076390],A+,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 00:33:18 UTC,appliances.kitchen.refrigerators,acer,2239.36,[1480492],A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-28 13:06:37 UTC,appliances.kitchen.refrigerators,adidas,58.15,"[100227134, 100227137]",B,120.0,Mini Fridge,Manual,False,False,False,False,85.0,55.0,60.0
+2020-04-06 09:55:28 UTC,appliances.kitchen.refrigerators,aeg,411.83,[2702418],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,59.5,67.5
+2020-04-01 06:31:29 UTC,appliances.kitchen.refrigerators,aero,360.37,[16800300],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,75.0
+2020-04-04 10:37:43 UTC,appliances.kitchen.refrigerators,aero,386.11,[16800572],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.0
+2020-04-22 20:09:23 UTC,appliances.kitchen.refrigerators,aero,643.52,"[100029000, 16800570]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-04-01 03:44:23 UTC,appliances.kitchen.refrigerators,aero,669.26,[16800568],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-02 13:04:10 UTC,appliances.kitchen.refrigerators,aero,695.0,"[16800299, 16800287]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 09:52:42 UTC,appliances.kitchen.refrigerators,aero,720.74,[16800502],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-04-09 13:18:52 UTC,appliances.kitchen.refrigerators,aero,759.35,"[16800306, 100017652, 100046143]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-03 08:33:39 UTC,appliances.kitchen.refrigerators,aero,797.96,"[16800401, 100119732, 16800292]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-06 18:21:18 UTC,appliances.kitchen.refrigerators,aero,836.57,[16800576],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-02 07:49:15 UTC,appliances.kitchen.refrigerators,aero,900.92,"[16800527, 16800525]",A++,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-01 17:36:57 UTC,appliances.kitchen.refrigerators,aero,1029.63,[16800293],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-26 07:15:19 UTC,appliances.kitchen.refrigerators,aero,1055.37,"[16800569, 16800305, 16800298, 16800498, 16800491]",A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 14:57:46 UTC,appliances.kitchen.refrigerators,aero,1106.85,"[16800304, 16800297, 16800495]",A++,350.0,French Door,Frost Free,True,True,False,True,178.0,90.0,70.0
+2020-04-01 08:33:28 UTC,appliances.kitchen.refrigerators,aero,1209.81,"[16800528, 100046512]",A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-04 05:01:10 UTC,appliances.kitchen.refrigerators,aero,1235.55,"[16800591, 16800524]",A++,350.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-01 17:49:12 UTC,appliances.kitchen.refrigerators,aero,1338.52,"[16800301, 100029056]",A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 17:00:18 UTC,appliances.kitchen.refrigerators,age,334.6,[1480390],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 07:38:04 UTC,appliances.kitchen.refrigerators,almacom,125.09,"[2701537, 2701553]",A+,250.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-01 05:00:22 UTC,appliances.kitchen.refrigerators,almacom,179.32,[2701560],A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 07:30:42 UTC,appliances.kitchen.refrigerators,almacom,210.39,"[2800498, 2702002, 2800351]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 04:24:43 UTC,appliances.kitchen.refrigerators,almacom,240.09,"[2800308, 2800309]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-02-10 19:42:49 UTC,appliances.kitchen.refrigerators,almacom,278.0,[2800420],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-10 17:41:23 UTC,appliances.kitchen.refrigerators,almacom,310.18,[2800497],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-03 15:18:16 UTC,appliances.kitchen.refrigerators,almacom,368.96,[2701695],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-12 13:49:09 UTC,appliances.kitchen.refrigerators,almacom,422.15,[2800499],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 04:44:53 UTC,appliances.kitchen.refrigerators,alpicool,753.84,[46800026],A++,50.0,Mini Fridge,Manual,False,False,False,True,58.0,32.5,32.5
+2020-04-01 03:41:00 UTC,appliances.kitchen.refrigerators,alpicool,812.53,[46800027],A++,40.0,Mini Fridge,Manual,False,False,False,True,58.42,34.29,45.72
+2020-03-04 05:19:55 UTC,appliances.kitchen.refrigerators,alser,411.83,[1480582],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-03-01 03:37:48 UTC,appliances.kitchen.refrigerators,alser,450.44,"[1480396, 1480214]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,60.0
+2020-04-02 17:14:44 UTC,appliances.kitchen.refrigerators,alser,471.03,"[1480397, 1480352]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-02 11:27:37 UTC,appliances.kitchen.refrigerators,alser,555.97,[1480227],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-02 12:33:58 UTC,appliances.kitchen.refrigerators,alser,710.42,[1480106],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,60.0
+2020-04-01 02:35:51 UTC,appliances.kitchen.refrigerators,alser,733.61,"[1480660, 1480394]",A++,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-05 13:47:29 UTC,appliances.kitchen.refrigerators,alser,756.75,[1480112],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,67.5
+2020-04-17 18:28:54 UTC,appliances.kitchen.refrigerators,alser,926.64,[1480581],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,67.5
+2020-01-01 07:45:15 UTC,appliances.kitchen.refrigerators,apple,282.86,[1003141],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-01 04:49:21 UTC,appliances.kitchen.refrigerators,apple,836.31,[1004930],A++,340.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 01:24:09 UTC,appliances.kitchen.refrigerators,apple,1003.86,[1480385],A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 00:00:01 UTC,appliances.kitchen.refrigerators,apple,1184.05,[1480477],A++,500.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 01:46:50 UTC,appliances.kitchen.refrigerators,apple,1544.18,[1401539],A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 00:02:02 UTC,appliances.kitchen.refrigerators,apple,1595.64,[1401577],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 00:01:03 UTC,appliances.kitchen.refrigerators,apple,1724.34,[1480473],A++,500.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-10 16:34:06 UTC,appliances.kitchen.refrigerators,apple,1930.53,[1401610],A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 00:00:20 UTC,appliances.kitchen.refrigerators,apple,2058.97,[1480474],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 02:56:50 UTC,appliances.kitchen.refrigerators,apple,2182.81,"[1480497, 1401609]",A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 12:00:32 UTC,appliances.kitchen.refrigerators,apple,2419.37,[1480476],A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 00:58:16 UTC,appliances.kitchen.refrigerators,apple,2573.53,"[1480475, 1480498, 1480499]",A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 04:44:24 UTC,appliances.kitchen.refrigerators,arb,1356.28,[100183187],A+,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,67.0
+2020-04-02 15:36:18 UTC,appliances.kitchen.refrigerators,arb,1413.05,[100186629],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 13:19:54 UTC,appliances.kitchen.refrigerators,arb,1568.55,[100183179],A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 12:42:44 UTC,appliances.kitchen.refrigerators,arb,1729.07,[100183182],A+,340.0,French Door,Frost Free,True,True,False,True,177.8,91.44,73.66
+2020-04-01 03:26:47 UTC,appliances.kitchen.refrigerators,arb,2132.1,[100183184],A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-02-20 14:31:58 UTC,appliances.kitchen.refrigerators,ardesia,1162.29,[2600265],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,67.5
+2020-02-05 12:24:14 UTC,appliances.kitchen.refrigerators,ardesia,1292.77,[2602091],A++,450.0,French Door,Frost Free,True,True,False,True,180.0,83.0,75.0
+2020-04-24 10:26:19 UTC,appliances.kitchen.refrigerators,ardo,318.32,[2700975],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 04:02:38 UTC,appliances.kitchen.refrigerators,arg,102.94,[2702610],A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 03:21:09 UTC,appliances.kitchen.refrigerators,arg,141.55,[2702611],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 02:23:10 UTC,appliances.kitchen.refrigerators,arg,167.29,"[2800656, 100144268]",A+,200.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-01 00:14:39 UTC,appliances.kitchen.refrigerators,arg,193.03,[2702628],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 06:54:26 UTC,appliances.kitchen.refrigerators,arg,231.64,"[2800654, 2800641]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-03 11:43:33 UTC,appliances.kitchen.refrigerators,arg,252.23,[2800645],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 05:05:09 UTC,appliances.kitchen.refrigerators,arg,283.12,[2800655],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-04-10 11:00:46 UTC,appliances.kitchen.refrigerators,arg,308.86,[100135377],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-04 06:48:11 UTC,appliances.kitchen.refrigerators,arg,347.47,[100161722],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 11:53:30 UTC,appliances.kitchen.refrigerators,arg,373.21,"[100136023, 100137332, 100142025]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 18:24:45 UTC,appliances.kitchen.refrigerators,arg,411.83,"[100135406, 100011816]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,60.0
+2020-04-01 07:03:36 UTC,appliances.kitchen.refrigerators,arg,437.57,[100151589],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 07:26:59 UTC,appliances.kitchen.refrigerators,arg,463.31,[100011948],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-04 17:09:05 UTC,appliances.kitchen.refrigerators,arg,514.79,[100159244],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 18:23:40 UTC,appliances.kitchen.refrigerators,arg,553.4,"[100168169, 100159107]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 03:33:50 UTC,appliances.kitchen.refrigerators,arg,643.49,[100167395],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 00:03:11 UTC,appliances.kitchen.refrigerators,arg,694.97,[100168381],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 07:07:41 UTC,appliances.kitchen.refrigerators,arg,720.71,[100168392],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-14 10:55:09 UTC,appliances.kitchen.refrigerators,artel,113.23,"[100038847, 100038854, 100032959]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-01-14 10:00:16 UTC,appliances.kitchen.refrigerators,artel,140.08,"[2601676, 2601582, 2602036]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-14 12:09:02 UTC,appliances.kitchen.refrigerators,artel,167.29,"[2701455, 2601421, 2702534, 2602079]",A+,200.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-14 10:57:09 UTC,appliances.kitchen.refrigerators,artel,190.46,"[2701565, 2701784, 2700592, 2701572, 100019949, 2601972, 2701947]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-14 12:12:37 UTC,appliances.kitchen.refrigerators,artel,216.76,"[2700597, 2701571, 100158621]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 16:15:46 UTC,appliances.kitchen.refrigerators,artel,241.29,"[2701783, 2702217, 2700595]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 04:30:37 UTC,appliances.kitchen.refrigerators,artel,262.3,"[2702563, 100038892, 2702597]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-02 17:06:09 UTC,appliances.kitchen.refrigerators,artel,317.14,[2701297],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 17:06:15 UTC,appliances.kitchen.refrigerators,artel,349.79,[2702617],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-04-01 08:14:30 UTC,appliances.kitchen.refrigerators,artel,385.85,"[2701518, 2702395, 100006645]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.5
+2019-11-26 08:09:57 UTC,appliances.kitchen.refrigerators,ascoli,661.79,[2702360],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-19 04:54:47 UTC,appliances.kitchen.refrigerators,ascoli,756.39,[2702358],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-01 14:02:34 UTC,appliances.kitchen.refrigerators,asrock,154.35,[100025025],A+,250.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-01 19:49:46 UTC,appliances.kitchen.refrigerators,asrock,183.53,[1480794],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 09:47:20 UTC,appliances.kitchen.refrigerators,asus,192.71,[1480358],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 02:58:17 UTC,appliances.kitchen.refrigerators,asus,297.01,[1400847],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 04:44:24 UTC,appliances.kitchen.refrigerators,asus,335.53,[1480752],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-02-03 19:29:11 UTC,appliances.kitchen.refrigerators,asus,410.38,[100066982],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-03-11 11:07:01 UTC,appliances.kitchen.refrigerators,asus,476.78,[100007576],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 05:41:46 UTC,appliances.kitchen.refrigerators,asus,550.4,[1480631],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.5
+2020-04-05 10:46:41 UTC,appliances.kitchen.refrigerators,asus,615.02,[100059030],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.5
+2020-04-01 03:33:33 UTC,appliances.kitchen.refrigerators,atlant,139.69,"[2701970, 2800501, 2701971]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 02:31:35 UTC,appliances.kitchen.refrigerators,atlant,180.94,"[2800500, 2800614]",A+,250.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-01 02:59:13 UTC,appliances.kitchen.refrigerators,atlant,226.49,"[2700071, 2700458, 2800615]",A+,350.0,Top Freezer,Manual,False,False,False,True,180.0,60.0,65.0
+2020-04-01 07:07:07 UTC,appliances.kitchen.refrigerators,atlant,248.14,"[2700196, 2800618, 2701042, 2800007, 2700537]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-03-13 10:26:10 UTC,appliances.kitchen.refrigerators,atlant,271.38,"[2800146, 2700478, 2700452, 2700371, 2700323, 2800395, 2700181, 2800087, 2800085, 2700813, 2700701]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 05:21:10 UTC,appliances.kitchen.refrigerators,atlant,293.19,"[2700517, 2700254, 2800182, 2700604, 2700333, 2800179, 2800616, 2701573, 2700459]",A+,250.0,Top Freezer,Manual,False,False,False,True,180.0,60.0,65.0
+2020-04-01 03:34:58 UTC,appliances.kitchen.refrigerators,atlant,319.16,"[2800128, 2700339, 2700239, 2800088, 2800565, 2702003, 2700184, 2700316, 2700485, 2800266, 2700176]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-13 05:11:40 UTC,appliances.kitchen.refrigerators,atlant,344.67,"[2702180, 2800617, 2702266, 2700162, 2702236, 2700724, 2700209]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2019-10-29 09:58:31 UTC,appliances.kitchen.refrigerators,atlant,367.32,"[2700649, 2700523, 2700811, 2701935, 2701934, 2701928, 2701939, 2700197]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:32:17 UTC,appliances.kitchen.refrigerators,atlant,393.73,"[2700257, 2702026, 2700128, 2701846, 2702179, 2700208, 2700125, 2700764, 2700360, 2700169, 2700752, 2701350]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 08:41:55 UTC,appliances.kitchen.refrigerators,atlant,431.57,"[2702207, 2700587, 100053554, 2700457, 2700182, 2701931, 2800637, 2800585, 2700890, 2702545, 2700525, 2700779]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:53:27 UTC,appliances.kitchen.refrigerators,atlant,454.58,"[2700568, 2702166, 2700699, 2700821, 2700648, 2700337, 2701844, 2702501, 2700389, 2700336, 2700658, 2700579]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:53:59 UTC,appliances.kitchen.refrigerators,atlant,477.23,"[2701938, 2700758, 2700574, 2700747, 2701933, 2702167]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 03:52:25 UTC,appliances.kitchen.refrigerators,atlant,506.71,"[2701654, 2701349, 2700780, 2700757]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 09:30:19 UTC,appliances.kitchen.refrigerators,atlant,549.3,"[2701677, 2700822, 2701936]",A+,320.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:55:30 UTC,appliances.kitchen.refrigerators,atlant,581.12,"[2700538, 2702249, 2701932]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 06:33:01 UTC,appliances.kitchen.refrigerators,atlant,607.48,"[2702116, 2702008, 2800472]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 04:18:32 UTC,appliances.kitchen.refrigerators,atlantic,149.27,[2702540],A+,200.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-02 20:01:17 UTC,appliances.kitchen.refrigerators,atlantic,175.55,[2800048],A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 01:42:10 UTC,appliances.kitchen.refrigerators,atlantic,218.77,[2800149],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 04:21:56 UTC,appliances.kitchen.refrigerators,atlantic,275.4,[2800454],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 04:02:45 UTC,appliances.kitchen.refrigerators,atlantic,319.16,[2800197],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 05:26:54 UTC,appliances.kitchen.refrigerators,atlantic,357.69,[2800174],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 16:57:22 UTC,appliances.kitchen.refrigerators,atlantic,401.53,"[2800198, 2800283]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 02:12:45 UTC,appliances.kitchen.refrigerators,atlantic,481.33,[2800482],A+,320.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-13 05:19:12 UTC,appliances.kitchen.refrigerators,ava,113.2,[2702362],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-02 08:28:54 UTC,appliances.kitchen.refrigerators,ava,149.27,[2601959],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-05 09:21:01 UTC,appliances.kitchen.refrigerators,ava,172.44,"[2601868, 2601871, 2702363]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-01-28 17:06:33 UTC,appliances.kitchen.refrigerators,ava,193.03,"[2601961, 2800592]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-02 07:26:27 UTC,appliances.kitchen.refrigerators,ava,225.43,[2800593],A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-02 05:42:00 UTC,appliances.kitchen.refrigerators,ava,247.86,"[100086068, 2600230]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-02 07:26:30 UTC,appliances.kitchen.refrigerators,ava,286.73,[100086044],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-13 18:02:29 UTC,appliances.kitchen.refrigerators,ava,1287.03,[2702369],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 00:21:50 UTC,appliances.kitchen.refrigerators,avalon,256.63,[1401528],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 03:49:43 UTC,appliances.kitchen.refrigerators,avalon,333.63,"[1401565, 1480322, 1401550, 1401568]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 03:06:00 UTC,appliances.kitchen.refrigerators,avalon,454.61,[1401562],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 01:59:21 UTC,appliances.kitchen.refrigerators,avalon,509.64,[1401584],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 01:58:30 UTC,appliances.kitchen.refrigerators,avalon,560.14,[1401587],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 03:25:40 UTC,appliances.kitchen.refrigerators,avalon,607.45,[1401563],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 00:22:32 UTC,appliances.kitchen.refrigerators,avalon,639.94,"[1401557, 1480775]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.5
+2020-04-01 02:44:12 UTC,appliances.kitchen.refrigerators,avalon,700.12,"[1401564, 1401566]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 02:53:03 UTC,appliances.kitchen.refrigerators,avalon,1002.88,[1401559],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-03 15:24:42 UTC,appliances.kitchen.refrigerators,avalon,1050.19,[1401582],A+,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,67.0
+2020-04-01 09:24:38 UTC,appliances.kitchen.refrigerators,baden,30.89,"[100181924, 100181914]",B,50.0,Mini Fridge,Manual,False,False,False,False,85.0,48.0,52.0
+2020-04-01 08:32:38 UTC,appliances.kitchen.refrigerators,baden,51.22,"[100072831, 100072829, 100072849, 100072825, 100072835, 100072847, 100072851, 100072854, 100072838, 100072827, 100072853, 100072852, 100132303, 100132307, 100132306, 100132304, 100132308, 100132298]",B,120.0,Mini Fridge,Manual,False,False,False,False,85.0,55.0,60.0
+2020-04-01 04:21:40 UTC,appliances.kitchen.refrigerators,barneo,99.36,"[16800473, 16800273, 16800517, 16800224, 16800222, 16800516]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-03 17:48:07 UTC,appliances.kitchen.refrigerators,barneo,123.3,"[16800221, 16800225, 100143434, 16800226]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-02 09:48:51 UTC,appliances.kitchen.refrigerators,barneo,162.68,"[16800219, 16800218, 16800515]",A+,200.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-01 12:21:10 UTC,appliances.kitchen.refrigerators,barneo,197.43,[16800220],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 05:58:39 UTC,appliances.kitchen.refrigerators,basic,334.37,"[1401845, 100007551]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-04-01 00:26:27 UTC,appliances.kitchen.refrigerators,basic,401.3,[1401959],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 05:29:57 UTC,appliances.kitchen.refrigerators,basic,463.07,[1480625],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,65.0
+2020-03-01 18:19:09 UTC,appliances.kitchen.refrigerators,basic,592.01,[1401906],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-03-04 19:15:57 UTC,appliances.kitchen.refrigerators,basic,679.53,[1401962],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,65.0
+2020-04-01 03:04:24 UTC,appliances.kitchen.refrigerators,beko,223.92,[2701819],A+,350.0,Top Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-01 01:32:45 UTC,appliances.kitchen.refrigerators,beko,249.4,"[2701683, 2701657, 2701882, 2701818]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,55.0,60.0
+2020-04-02 03:32:16 UTC,appliances.kitchen.refrigerators,beko,276.41,"[2701684, 2701880, 2601866]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 01:30:39 UTC,appliances.kitchen.refrigerators,beko,298.57,"[2701879, 2701727, 2701940]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 05:55:26 UTC,appliances.kitchen.refrigerators,beko,321.73,"[2701656, 2701550]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 03:30:11 UTC,appliances.kitchen.refrigerators,beko,342.33,"[2701886, 2800466, 2701680, 2701681, 2601778, 2701889, 2701887]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 01:42:49 UTC,appliances.kitchen.refrigerators,beko,373.21,"[2701876, 2701878]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 05:39:46 UTC,appliances.kitchen.refrigerators,beko,393.81,"[2800477, 2701679]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 03:22:04 UTC,appliances.kitchen.refrigerators,beko,424.72,"[2800331, 2701888]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,66.5
+2020-04-01 01:42:25 UTC,appliances.kitchen.refrigerators,beko,450.44,"[2701884, 2800327]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,65.0
+2020-01-01 01:27:09 UTC,appliances.kitchen.refrigerators,beko,839.12,[2601069],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,66.5
+2020-04-01 13:50:21 UTC,appliances.kitchen.refrigerators,beko,1003.86,[2701891],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,66.5
+2020-04-01 10:00:50 UTC,appliances.kitchen.refrigerators,beko,1070.79,[2700838],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,65.0
+2020-04-02 01:53:27 UTC,appliances.kitchen.refrigerators,beko,1279.29,"[2702001, 2701410, 2701400]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,65.0
+2020-03-02 16:41:39 UTC,appliances.kitchen.refrigerators,bompani,1334.17,[2702695],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,68.5
+2020-04-12 05:47:53 UTC,appliances.kitchen.refrigerators,bonvini,1019.33,[2800633],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-07 17:19:22 UTC,appliances.kitchen.refrigerators,bonvini,1142.89,[2800634],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,67.5
+2020-03-19 07:05:15 UTC,appliances.kitchen.refrigerators,bosch,344.67,"[2601351, 2601375, 2701564, 2601377]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-03 13:00:52 UTC,appliances.kitchen.refrigerators,bosch,389.71,"[2601349, 2701668, 2602084, 2701979]",A++,250.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-01 09:59:12 UTC,appliances.kitchen.refrigerators,bosch,416.97,"[2601477, 2701699, 2701980, 2601284, 2601409]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-08 04:34:32 UTC,appliances.kitchen.refrigerators,bosch,452.75,"[2601405, 2601728, 2701659, 2601577, 2701705]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 03:57:19 UTC,appliances.kitchen.refrigerators,bosch,474.38,"[2701789, 2601374, 2701698, 2701868]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-07 14:56:01 UTC,appliances.kitchen.refrigerators,bosch,510.74,"[2601407, 2701674, 2701703]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-01 05:54:30 UTC,appliances.kitchen.refrigerators,bosch,540.27,"[2701697, 2702263]",A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,60.0,65.0
+2020-04-07 11:59:33 UTC,appliances.kitchen.refrigerators,bosch,560.94,"[2701809, 2701704, 2601382, 2601638, 2700630, 2700664, 2702238, 2701834]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-28 15:33:45 UTC,appliances.kitchen.refrigerators,bosch,592.01,[2600484],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-01 01:35:49 UTC,appliances.kitchen.refrigerators,bosch,615.18,[2701952],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-02-01 03:30:07 UTC,appliances.kitchen.refrigerators,bosch,637.49,"[2601410, 2701832]",A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,177.0,60.0,65.0
+2020-04-01 05:08:05 UTC,appliances.kitchen.refrigerators,bosch,664.08,[2701892],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-17 10:38:56 UTC,appliances.kitchen.refrigerators,bosch,701.21,"[2601376, 2701318, 2601348, 2702164]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-01 09:09:36 UTC,appliances.kitchen.refrigerators,bosch,761.9,"[2702701, 2701907, 2602043]",A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,65.0
+2020-04-07 17:27:52 UTC,appliances.kitchen.refrigerators,bosch,787.4,[2601650],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-30 13:09:02 UTC,appliances.kitchen.refrigerators,bosch,810.26,"[2700486, 2601566, 2702241]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 16:13:35 UTC,appliances.kitchen.refrigerators,bosch,864.56,[2701929],A++,350.0,Bottom Freezer,Frost Free,False,True,False,True,180.0,60.0,65.0
+2020-04-01 05:57:29 UTC,appliances.kitchen.refrigerators,bosch,916.34,"[2701531, 2701037, 2701810]",A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,185.0,60.0,65.0
+2020-04-01 04:31:59 UTC,appliances.kitchen.refrigerators,bosch,939.28,[2702308],A++,450.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,70.0,68.0
+2020-04-01 08:39:55 UTC,appliances.kitchen.refrigerators,bosch,975.55,"[2702310, 100004243]",A++,400.0,Bottom Freezer,Frost Free,False,True,True,True,185.0,60.0,65.0
+2020-04-01 01:13:27 UTC,appliances.kitchen.refrigerators,bosch,1003.89,[2702681],A++,450.0,Bottom Freezer,Frost Free,True,False,False,True,185.0,70.0,68.0
+2020-04-01 07:42:14 UTC,appliances.kitchen.refrigerators,bosch,1029.6,"[2702246, 2702264, 100081590, 2702275]",A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,60.0,65.0
+2020-04-01 01:03:04 UTC,appliances.kitchen.refrigerators,bosch,1055.09,"[2702243, 100088983]",A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,68.0
+2020-04-01 10:45:50 UTC,appliances.kitchen.refrigerators,bosch,1147.85,[2701710],A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,68.0
+2020-04-01 08:14:48 UTC,appliances.kitchen.refrigerators,bosch,1196.68,[2701539],A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,70.0,68.0
+2020-04-01 01:12:32 UTC,appliances.kitchen.refrigerators,bosch,1258.69,[2701837],A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,65.0
+2020-04-08 14:33:00 UTC,appliances.kitchen.refrigerators,bosch,1287.01,[2701485],A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,70.0,68.0
+2020-03-17 13:09:49 UTC,appliances.kitchen.refrigerators,bosch,1327.64,[2701973],A++,350.0,Bottom Freezer,Frost Free,False,False,True,True,190.0,70.0,68.0
+2020-04-01 03:07:15 UTC,appliances.kitchen.refrigerators,bosch,1351.36,"[2702311, 2701368, 2701540]",A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,70.0,68.0
+2020-04-01 01:10:15 UTC,appliances.kitchen.refrigerators,bosch,1375.81,[2701557],A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,60.0,65.0
+2020-04-01 03:12:54 UTC,appliances.kitchen.refrigerators,bosch,1454.09,[2701384],A++,400.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,60.0,65.0
+2020-04-01 06:02:58 UTC,appliances.kitchen.refrigerators,bosch,1688.02,[100072072],A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,68.0
+2020-04-01 03:24:32 UTC,appliances.kitchen.refrigerators,bosch,1858.53,[2800588],A++,450.0,French Door,Frost Free,True,True,False,True,182.88,91.44,73.66
+2020-04-01 01:02:25 UTC,appliances.kitchen.refrigerators,bosch,1930.52,[2701604],A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,178.0,70.0,68.0
+2020-02-04 16:56:06 UTC,appliances.kitchen.refrigerators,bosher,275.17,[2600811],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-01 03:55:21 UTC,appliances.kitchen.refrigerators,bosher,431.23,"[2600565, 2601298]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-02-19 08:00:22 UTC,appliances.kitchen.refrigerators,bosher,514.56,[2600556],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-02-01 11:14:23 UTC,appliances.kitchen.refrigerators,bq,69.24,[1004823],A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 05:43:03 UTC,appliances.kitchen.refrigerators,brw,128.45,"[100073180, 100073172]",A+,200.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 09:59:27 UTC,appliances.kitchen.refrigerators,brw,154.19,"[100073176, 16800164]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 13:49:37 UTC,appliances.kitchen.refrigerators,brw,223.94,"[16800005, 16800022]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 10:00:51 UTC,appliances.kitchen.refrigerators,brw,398.47,[16800432],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 00:49:03 UTC,appliances.kitchen.refrigerators,bts,56.6,"[16800026, 100114229, 16800027, 16800033, 16800032]",B,120.0,Mini Fridge,Manual,False,False,False,False,85.0,55.0,60.0
+2020-04-01 02:27:28 UTC,appliances.kitchen.refrigerators,bts,94.98,"[16800035, 16800034, 16800036]",B,150.0,Mini Fridge,Manual,False,False,False,False,85.0,55.0,60.0
+2020-04-01 02:28:20 UTC,appliances.kitchen.refrigerators,bts,128.45,"[16800041, 16800038, 16800042]",A+,200.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-03-01 14:23:11 UTC,appliances.kitchen.refrigerators,cameron,615.18,[1401309],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-15 12:21:19 UTC,appliances.kitchen.refrigerators,cameron,875.16,[1480348],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 15:25:18 UTC,appliances.kitchen.refrigerators,candy,710.42,[2702607],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-03 14:15:30 UTC,appliances.kitchen.refrigerators,candy,733.58,"[2702602, 2702603]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,68.0
+2020-04-01 15:47:41 UTC,appliances.kitchen.refrigerators,candy,767.05,[2702623],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,59.5,67.5
+2020-04-01 14:41:42 UTC,appliances.kitchen.refrigerators,candy,795.36,[2702624],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,59.5,67.5
+2019-12-21 17:14:25 UTC,appliances.kitchen.refrigerators,carahardwood,286.24,[100047396],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 18:23:45 UTC,appliances.kitchen.refrigerators,caso,353.9,[2702150],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-06 16:25:37 UTC,appliances.kitchen.refrigerators,caso,571.41,[100131267],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,66.8
+2020-04-16 07:04:40 UTC,appliances.kitchen.refrigerators,caso,1028.57,[2702370],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-03-03 09:57:58 UTC,appliances.kitchen.refrigerators,cata,840.03,[2702566],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-03 18:21:20 UTC,appliances.kitchen.refrigerators,cavanova,303.47,[2702230],A+,200.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-03-02 03:37:16 UTC,appliances.kitchen.refrigerators,cavanova,404.7,[2702407],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-01 04:28:45 UTC,appliances.kitchen.refrigerators,cavanova,465.43,[2702227],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-30 22:43:25 UTC,appliances.kitchen.refrigerators,cavanova,505.92,"[2702224, 2702255, 2702225]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-11 10:46:28 UTC,appliances.kitchen.refrigerators,cavanova,566.66,[2702396],A+,250.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-04 15:31:15 UTC,appliances.kitchen.refrigerators,cavanova,597.03,[2702232],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,59.5,67.5
+2020-03-05 04:18:46 UTC,appliances.kitchen.refrigerators,cavanova,647.64,[2702408],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-05 06:32:43 UTC,appliances.kitchen.refrigerators,cavanova,748.86,"[2702226, 2702409]",A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,190.5,59.6,67.5
+2019-10-01 12:58:49 UTC,appliances.kitchen.refrigerators,cavanova,870.33,[2702228],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,59.6,67.5
+2020-02-01 06:23:38 UTC,appliances.kitchen.refrigerators,cavanova,931.07,[2702402],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,59.5,67.5
+2020-03-03 14:43:26 UTC,appliances.kitchen.refrigerators,cavanova,991.8,[2702194],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.0,70.0,68.0
+2020-03-05 15:06:25 UTC,appliances.kitchen.refrigerators,cavanova,1214.5,[2702196],A++,450.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2019-10-03 12:37:51 UTC,appliances.kitchen.refrigerators,cavanova,1325.85,"[2702231, 2702411]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,67.5
+2020-02-11 10:48:45 UTC,appliances.kitchen.refrigerators,cavanova,1376.46,[2702405],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,59.5,67.5
+2020-02-11 10:50:19 UTC,appliances.kitchen.refrigerators,cavanova,1416.95,[2702413],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-02-11 10:47:43 UTC,appliances.kitchen.refrigerators,cavanova,1457.44,[2702412],A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,185.0,59.5,66.8
+2020-02-03 13:34:17 UTC,appliances.kitchen.refrigerators,cavanova,1629.52,[2702223],A++,450.0,French Door,Frost Free,True,True,False,True,180.0,70.0,75.0
+2020-02-04 14:18:49 UTC,appliances.kitchen.refrigerators,cavanova,1659.89,[2702200],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-02-02 04:07:33 UTC,appliances.kitchen.refrigerators,cavanova,2024.3,[2702195],A++,350.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2019-10-09 13:59:37 UTC,appliances.kitchen.refrigerators,cavanova,2125.53,[2702202],A++,340.0,French Door,Frost Free,True,True,False,True,177.8,90.2,70.1
+2020-03-03 21:28:54 UTC,appliances.kitchen.refrigerators,cavanova,2250.45,[2702201],A++,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-02-11 10:49:28 UTC,appliances.kitchen.refrigerators,cavanova,2348.22,[2702198],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-02-02 17:30:26 UTC,appliances.kitchen.refrigerators,cavanova,2429.2,[2702197],A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,68.0
+2020-02-01 04:30:05 UTC,appliances.kitchen.refrigerators,cavanova,2469.69,[2702233],A++,350.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-01-31 09:34:32 UTC,appliances.kitchen.refrigerators,cezaris,136.14,"[2601467, 2601317, 2601661, 2601662, 2602001, 2601998, 2601659]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-18 09:04:03 UTC,appliances.kitchen.refrigerators,cezaris,156.22,"[2602000, 2601660, 2601631]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 04:59:44 UTC,appliances.kitchen.refrigerators,cezaris,179.39,[2601667],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-01 09:24:07 UTC,appliances.kitchen.refrigerators,climadiff,430.23,[2702483],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2019-11-20 17:57:50 UTC,appliances.kitchen.refrigerators,climadiff,574.69,[2702458],A++,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-03 21:49:31 UTC,appliances.kitchen.refrigerators,climadiff,611.24,[2702484],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-16 07:02:22 UTC,appliances.kitchen.refrigerators,climadiff,1569.77,[100005706],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,68.5
+2020-03-02 16:36:21 UTC,appliances.kitchen.refrigerators,climadiff,1745.51,[2702572],A++,350.0,French Door,Frost Free,True,True,False,True,180.0,70.0,67.5
+2020-03-01 15:01:48 UTC,appliances.kitchen.refrigerators,climadiff,2003.57,[2702612],A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,60.0,65.0
+2020-04-01 04:27:40 UTC,appliances.kitchen.refrigerators,coolfort,74.62,"[46800030, 46800028]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 03:17:10 UTC,appliances.kitchen.refrigerators,coolfort,102.94,[46800031],A+,200.0,Top Freezer,Automatic Defrost,False,False,False,True,150.0,60.0,65.0
+2020-04-10 08:51:07 UTC,appliances.kitchen.refrigerators,crosby,726.39,[100086436],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,60.0
+2020-03-05 09:44:46 UTC,appliances.kitchen.refrigerators,crown,233.98,[2601876],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-01-01 10:16:49 UTC,appliances.kitchen.refrigerators,daewoo,2471.08,[100048924],A++,450.0,French Door,Frost Free,True,True,False,True,180.0,83.0,73.0
+2020-01-15 09:10:18 UTC,appliances.kitchen.refrigerators,danke,395.63,[2601890],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-10 15:17:14 UTC,appliances.kitchen.refrigerators,danke,464.62,[2601854],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,60.0
+2020-03-02 02:42:29 UTC,appliances.kitchen.refrigerators,danke,490.36,[2601985],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-10 10:21:41 UTC,appliances.kitchen.refrigerators,darina,63.92,[2601591],A,120.0,Mini Fridge,Manual,False,False,False,True,85.0,48.0,50.0
+2020-02-20 02:34:51 UTC,appliances.kitchen.refrigerators,darina,124.38,[2600765],A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2019-12-03 14:37:07 UTC,appliances.kitchen.refrigerators,darina,210.8,[2601733],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-03 13:26:20 UTC,appliances.kitchen.refrigerators,darina,554.08,[2602061],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-14 10:45:29 UTC,appliances.kitchen.refrigerators,darina-rus,192.92,[100018477],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-03 10:09:55 UTC,appliances.kitchen.refrigerators,dauscher,20.08,"[2602134, 2602133]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 05:10:57 UTC,appliances.kitchen.refrigerators,dauscher,89.76,"[2702526, 2702286, 100014061]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 01:53:25 UTC,appliances.kitchen.refrigerators,dauscher,123.04,"[2702521, 2701661]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 05:36:48 UTC,appliances.kitchen.refrigerators,dauscher,154.42,"[2800473, 2800660, 2702527, 100054084]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 03:31:51 UTC,appliances.kitchen.refrigerators,dauscher,174.78,"[2702237, 2800476, 2702256, 2702582, 2800602]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 02:16:48 UTC,appliances.kitchen.refrigerators,dauscher,200.49,"[2702522, 2702538, 2602092, 2800475, 2800661, 2800613, 2702086]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 10:43:56 UTC,appliances.kitchen.refrigerators,dauscher,231.41,"[2702590, 100024979]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 02:58:36 UTC,appliances.kitchen.refrigerators,dauscher,256.09,"[2800474, 2601709, 2800595, 100025014, 2702309]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-15 12:19:48 UTC,appliances.kitchen.refrigerators,dauscher,282.63,"[2602123, 2702446, 2702682, 2702421, 2702420, 2702495, 2702422]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-03 14:10:48 UTC,appliances.kitchen.refrigerators,dauscher,319.16,"[2602121, 2702415, 2601704, 100053634, 100025024, 2800590, 100155002]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 02:41:33 UTC,appliances.kitchen.refrigerators,dauscher,341.03,[2800603],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2019-10-11 06:02:28 UTC,appliances.kitchen.refrigerators,dauscher,385.6,"[2702445, 2702449, 2702414, 2702448, 2702447, 2702450]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 09:01:35 UTC,appliances.kitchen.refrigerators,dauscher,411.83,"[2602125, 100051998, 2702454, 2702444]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-02 10:00:07 UTC,appliances.kitchen.refrigerators,dauscher,437.57,"[100052045, 2602127, 2602131]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-09 07:49:15 UTC,appliances.kitchen.refrigerators,dauscher,463.05,"[2702417, 2702443, 100025019]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 05:39:48 UTC,appliances.kitchen.refrigerators,dauscher,489.05,[2702419],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-03 18:15:38 UTC,appliances.kitchen.refrigerators,dauscher,514.79,"[2800601, 2602130]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 16:58:36 UTC,appliances.kitchen.refrigerators,dauscher,578.91,[100025012],A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,65.0
+2020-04-01 13:20:18 UTC,appliances.kitchen.refrigerators,dauscher,669.23,[100027868],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,68.6
+2020-04-01 13:23:20 UTC,appliances.kitchen.refrigerators,dauscher,689.82,"[2702565, 2702524, 2702547]",A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,190.5,70.0,67.5
+2020-04-02 10:01:17 UTC,appliances.kitchen.refrigerators,dauscher,720.71,"[2702525, 2702523]",A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-02 09:19:05 UTC,appliances.kitchen.refrigerators,dauscher,772.19,"[100026150, 100052035]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-03 10:55:42 UTC,appliances.kitchen.refrigerators,dauscher,810.81,"[2702496, 100025035]",A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 13:44:34 UTC,appliances.kitchen.refrigerators,dauscher,836.03,"[2702312, 2702528]",A++,450.0,French Door,Frost Free,True,True,False,True,180.0,83.0,75.0
+2020-04-01 08:56:11 UTC,appliances.kitchen.refrigerators,dauscher,861.52,[2702416],A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,190.5,70.0,67.5
+2020-04-01 01:52:40 UTC,appliances.kitchen.refrigerators,dauscher,887.9,"[2702529, 2702541]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-04-02 15:11:12 UTC,appliances.kitchen.refrigerators,dauscher,921.0,"[2702453, 2702451, 2702625]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-02 09:37:15 UTC,appliances.kitchen.refrigerators,dauscher,952.38,[2702452],A++,500.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 09:30:17 UTC,appliances.kitchen.refrigerators,dauscher,977.89,"[100026170, 100052019]",A++,340.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 03:49:45 UTC,appliances.kitchen.refrigerators,dauscher,1045.07,[2702494],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 00:39:10 UTC,appliances.kitchen.refrigerators,dauscher,1090.63,[2702546],A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-30 17:49:44 UTC,appliances.kitchen.refrigerators,decathlon,25.48,"[100232754, 100191554, 100232728, 100232736]",A+,50.0,Mini Fridge,Manual,False,False,False,True,85.0,49.5,50.0
+2020-02-01 20:00:24 UTC,appliances.kitchen.refrigerators,defacto,15.42,"[100090562, 100090420, 100090587]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 12:37:21 UTC,appliances.kitchen.refrigerators,dell,459.47,[100022221],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-28 19:43:34 UTC,appliances.kitchen.refrigerators,dell,519.34,"[100082914, 100022307, 1480482]",A++,500.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-03-01 19:53:22 UTC,appliances.kitchen.refrigerators,dell,553.42,"[1401693, 1480655, 1480486]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.0
+2020-04-03 07:41:04 UTC,appliances.kitchen.refrigerators,dell,580.45,[1480651],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,60.0
+2020-04-01 05:40:04 UTC,appliances.kitchen.refrigerators,dell,617.52,"[1480663, 100091355]",A+,340.0,Top Freezer,Frost Free,True,False,False,True,170.0,70.0,68.0
+2020-04-01 06:01:02 UTC,appliances.kitchen.refrigerators,dell,643.26,[1480662],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-01 21:01:40 UTC,appliances.kitchen.refrigerators,dell,666.68,[100097403],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 06:10:07 UTC,appliances.kitchen.refrigerators,dell,701.43,"[1480665, 100021986, 100023757, 1480766]",A+,350.0,Top Freezer,Frost Free,True,False,False,True,180.0,70.0,65.0
+2020-04-01 06:42:04 UTC,appliances.kitchen.refrigerators,dell,761.67,"[100022182, 100023739]",A+,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-01 07:03:19 UTC,appliances.kitchen.refrigerators,dell,799.95,[1480620],A+,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-01 06:14:36 UTC,appliances.kitchen.refrigerators,dell,824.24,[1480483],A+,340.0,Top Freezer,Frost Free,True,False,False,True,170.0,70.0,67.0
+2020-04-01 06:23:20 UTC,appliances.kitchen.refrigerators,dell,867.37,"[1480481, 1480480]",A++,350.0,Bottom Freezer,Frost Free,False,True,False,True,180.0,70.0,75.0
+2020-04-01 09:36:38 UTC,appliances.kitchen.refrigerators,dell,888.05,[1480181],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,67.5
+2020-04-01 13:55:02 UTC,appliances.kitchen.refrigerators,dell,952.72,[100082816],A+,450.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-01 09:37:03 UTC,appliances.kitchen.refrigerators,dell,1873.61,[1401533],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 09:25:02 UTC,appliances.kitchen.refrigerators,dometic,79.51,"[46800010, 46800009]",A+,50.0,Mini Fridge,Manual,False,False,False,True,50.0,45.0,40.0
+2020-04-02 09:31:28 UTC,appliances.kitchen.refrigerators,dometic,115.4,"[46800011, 46800012]",A+,50.0,Mini Fridge,Manual,False,False,False,True,50.0,48.0,45.0
+2020-02-03 05:30:07 UTC,appliances.kitchen.refrigerators,dometic,180.7,"[100088914, 46800013]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-04 18:22:10 UTC,appliances.kitchen.refrigerators,dometic,221.7,"[46800014, 46800015]",A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-02-10 01:58:51 UTC,appliances.kitchen.refrigerators,dometic,350.56,[46800016],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-07 10:07:58 UTC,appliances.kitchen.refrigerators,dometic,556.36,[46800017],A+,250.0,Top Freezer,Automatic Defrost,False,False,False,True,150.0,60.0,65.0
+2020-04-10 10:13:45 UTC,appliances.kitchen.refrigerators,dometic,592.4,"[46800018, 46800019]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-19 06:50:45 UTC,appliances.kitchen.refrigerators,dometic,910.89,[46800021],A++,250.0,Top Freezer,Automatic Defrost,False,False,False,True,150.0,60.0,65.0
+2020-04-10 12:27:01 UTC,appliances.kitchen.refrigerators,dometic,973.0,[46800020],A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2019-10-01 02:44:13 UTC,appliances.kitchen.refrigerators,dometic,1148.7,[46800022],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-04 18:21:40 UTC,appliances.kitchen.refrigerators,dometic,1223.2,[46800023],A++,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 12:10:12 UTC,appliances.kitchen.refrigerators,dometic,1407.37,[46800024],A++,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 22:48:52 UTC,appliances.kitchen.refrigerators,domini,90.09,"[100147864, 16800511]",A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-03-07 10:31:35 UTC,appliances.kitchen.refrigerators,domini,141.57,[16800335],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-03-01 05:08:10 UTC,appliances.kitchen.refrigerators,domini,200.78,[16800478],A++,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-07 17:39:34 UTC,appliances.kitchen.refrigerators,domini,223.94,"[16800251, 16800385]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-30 05:32:40 UTC,appliances.kitchen.refrigerators,domini,248.4,"[16800252, 16800254, 16800312]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 04:37:36 UTC,appliances.kitchen.refrigerators,domini,275.51,"[16800313, 16800243, 16800286, 16800310]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-03 14:19:46 UTC,appliances.kitchen.refrigerators,domini,298.59,"[16800245, 16800253, 16800348, 16800315]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-03-04 15:03:56 UTC,appliances.kitchen.refrigerators,domini,339.78,"[16800353, 16800240, 16800237, 16800311]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 01:58:26 UTC,appliances.kitchen.refrigerators,domini,380.77,"[16800352, 16800351]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 01:59:31 UTC,appliances.kitchen.refrigerators,domini,411.72,"[16800155, 16800238, 16800154, 16800244]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 00:49:04 UTC,appliances.kitchen.refrigerators,domini,551.03,"[16800239, 16800248, 16800249, 16800403]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-02 11:07:42 UTC,appliances.kitchen.refrigerators,domini,617.78,[16800421],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-04-05 16:11:46 UTC,appliances.kitchen.refrigerators,domini,643.52,[16800347],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 00:53:23 UTC,appliances.kitchen.refrigerators,domini,742.96,[16800422],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-04-01 05:39:46 UTC,appliances.kitchen.refrigerators,domyos,13.9,"[100177276, 100177280]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 00:06:08 UTC,appliances.kitchen.refrigerators,domyos,64.09,[100180577],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 19:39:41 UTC,appliances.kitchen.refrigerators,dsp,40.93,[2602282],B,50.0,Mini Fridge,Manual,False,False,False,False,85.0,48.0,50.0
+2020-03-01 02:45:40 UTC,appliances.kitchen.refrigerators,dunavox,600.1,[2702569],A+,200.0,Mini Fridge,Automatic Defrost,False,False,False,True,85.0,60.0,60.0
+2020-03-03 08:47:24 UTC,appliances.kitchen.refrigerators,dunavox,1141.86,[2702571],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-01 02:09:35 UTC,appliances.kitchen.refrigerators,ecolight,12.1,"[25200365, 25200366, 25200355, 25200356, 25200357]",A+,50.0,Mini Fridge,Manual,False,False,False,True,85.0,48.0,52.0
+2020-02-02 06:39:35 UTC,appliances.kitchen.refrigerators,ecolight,35.21,"[25200362, 25200360, 25200361]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-02-01 03:18:17 UTC,appliances.kitchen.refrigerators,eglo,43.76,[100075193],B,90.0,Mini Fridge,Manual,False,False,False,False,85.0,48.0,52.0
+2020-02-02 05:18:31 UTC,appliances.kitchen.refrigerators,eglo,123.81,[100073992],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-25 06:55:02 UTC,appliances.kitchen.refrigerators,elanda,383.54,[100118870],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.0
+2020-04-01 13:17:14 UTC,appliances.kitchen.refrigerators,electrolux,330.11,[2600863],A+,340.0,Top Freezer,Frost Free,False,False,False,True,172.72,70.1,67.31
+2020-04-11 17:51:25 UTC,appliances.kitchen.refrigerators,electrolux,469.06,"[2601534, 2601834]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 11:01:41 UTC,appliances.kitchen.refrigerators,electrolux,494.2,[2800657],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-01-01 08:17:21 UTC,appliances.kitchen.refrigerators,electrolux,514.79,"[2601308, 2601590]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-02-01 14:23:12 UTC,appliances.kitchen.refrigerators,electrolux,550.82,[2602250],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,75.0
+2020-03-25 13:39:56 UTC,appliances.kitchen.refrigerators,electrolux,597.16,[2602188],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-02-01 15:35:15 UTC,appliances.kitchen.refrigerators,electrolux,638.34,"[2602184, 100016932]",A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,185.0,59.5,66.8
+2020-03-26 05:39:38 UTC,appliances.kitchen.refrigerators,electrolux,661.23,"[2602187, 100072536, 2701908]",A+,340.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,60.0,67.0
+2020-03-08 18:02:48 UTC,appliances.kitchen.refrigerators,electrolux,697.55,[2602192],A+,350.0,Top Freezer,Frost Free,True,False,False,True,180.0,70.0,65.0
+2020-04-06 11:16:19 UTC,appliances.kitchen.refrigerators,electrolux,732.44,[2800352],A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,185.0,70.0,68.0
+2020-04-01 08:38:28 UTC,appliances.kitchen.refrigerators,electrolux,772.19,[2702606],A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-18 05:54:45 UTC,appliances.kitchen.refrigerators,electrolux,805.66,"[2602249, 2601864, 2800673]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,66.8
+2020-04-01 06:53:50 UTC,appliances.kitchen.refrigerators,electrolux,903.69,[2701653],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,66.8
+2020-04-01 11:00:06 UTC,appliances.kitchen.refrigerators,electrolux,944.66,[2800012],A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,185.0,59.5,66.8
+2020-04-02 16:58:20 UTC,appliances.kitchen.refrigerators,electrolux,1019.31,[2702636],A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,59.5,66.8
+2019-11-28 16:04:57 UTC,appliances.kitchen.refrigerators,electrolux,1133.08,[100016836],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-04 05:00:44 UTC,appliances.kitchen.refrigerators,electrolux,1178.64,"[2701489, 2701711]",A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,75.0
+2020-04-01 08:39:44 UTC,appliances.kitchen.refrigerators,electrolux,1230.38,"[2702601, 2702584]",A++,340.0,Bottom Freezer,Frost Free,False,True,False,True,190.5,70.0,67.5
+2020-04-02 09:45:21 UTC,appliances.kitchen.refrigerators,electrolux,1250.97,[2702600],A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 13:21:50 UTC,appliances.kitchen.refrigerators,electrolux,1292.16,[2702118],A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,70.0,68.0
+2020-04-01 04:49:43 UTC,appliances.kitchen.refrigerators,electrolux,1323.05,"[2701570, 2701740, 2702337]",A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-01 06:53:37 UTC,appliances.kitchen.refrigerators,electrolux,1343.64,[2701733],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2019-11-27 10:37:33 UTC,appliances.kitchen.refrigerators,electrolux,1368.18,"[100016847, 2700750]",A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,190.5,70.0,67.5
+2020-04-02 09:41:00 UTC,appliances.kitchen.refrigerators,electrolux,1407.99,"[2702341, 2702344, 2702342]",A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-02 01:37:57 UTC,appliances.kitchen.refrigerators,electrolux,1467.19,[2702343],A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-01 10:41:39 UTC,appliances.kitchen.refrigerators,electrolux,1498.08,[2800369],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-08 15:17:04 UTC,appliances.kitchen.refrigerators,electrolux,1570.16,"[2702111, 2701493]",A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,182.88,91.44,73.66
+2020-04-02 14:20:34 UTC,appliances.kitchen.refrigerators,electrolux,1781.23,[2702599],A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,68.5
+2020-04-01 05:19:36 UTC,appliances.kitchen.refrigerators,electrolux,1979.43,[2702635],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-02-01 05:28:43 UTC,appliances.kitchen.refrigerators,elektrostandard,59.2,[100074921],B,50.0,Mini Fridge,Manual,False,False,False,False,85.0,48.0,50.0
+2020-04-09 11:15:36 UTC,appliances.kitchen.refrigerators,elenberg,82.34,[2700985],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-06 09:13:36 UTC,appliances.kitchen.refrigerators,elenberg,128.68,[2700959],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 15:23:45 UTC,appliances.kitchen.refrigerators,elenberg,162.14,"[2800247, 2701521, 2800228]",A+,200.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-05 05:09:54 UTC,appliances.kitchen.refrigerators,elenberg,205.9,"[2800227, 2601379]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-02 11:58:47 UTC,appliances.kitchen.refrigerators,elenberg,231.64,"[2800229, 2601338]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 12:01:05 UTC,appliances.kitchen.refrigerators,elenberg,257.38,[2800246],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-23 10:48:30 UTC,appliances.kitchen.refrigerators,elenberg,295.97,[2800230],A+,240.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-04-03 13:10:34 UTC,appliances.kitchen.refrigerators,elenberg,347.47,[2601593],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 11:28:54 UTC,appliances.kitchen.refrigerators,elenberg,398.95,[2601592],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 05:02:06 UTC,appliances.kitchen.refrigerators,escan,51.22,"[100112770, 100140861, 100112746, 100112730, 100140880, 100140875, 100112773, 100112739, 100112737, 100140877, 100140871, 100140874]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-15 19:23:07 UTC,appliances.kitchen.refrigerators,eurosvet,68.73,"[25200368, 25200343]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 03:48:59 UTC,appliances.kitchen.refrigerators,evrika,257.15,[100019972],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-04-01 08:50:30 UTC,appliances.kitchen.refrigerators,evrika,926.41,[1401954],A++,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 01:04:31 UTC,appliances.kitchen.refrigerators,ezetil,87.49,[46800007],A+,40.0,Mini Fridge,Manual,False,False,False,True,50.0,45.0,40.0
+2020-02-02 06:55:34 UTC,appliances.kitchen.refrigerators,ezetil,120.96,[46800035],A+,50.0,Mini Fridge,Manual,False,False,False,True,50.0,48.0,45.0
+2020-04-18 16:21:18 UTC,appliances.kitchen.refrigerators,ezetil,146.7,"[46800039, 46800038]",A+,50.0,Mini Fridge,Manual,False,False,False,True,50.0,45.0,40.0
+2020-04-01 03:18:01 UTC,appliances.kitchen.refrigerators,ezetil,180.16,"[46800036, 46800034, 46800037]",A+,50.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-05 05:07:17 UTC,appliances.kitchen.refrigerators,ezetil,205.9,"[46800040, 46800005]",A+,50.0,Mini Fridge,Manual,False,False,False,True,50.0,45.0,40.0
+2020-04-10 02:08:38 UTC,appliances.kitchen.refrigerators,ezetil,241.94,"[46800006, 46800004]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 09:00:23 UTC,appliances.kitchen.refrigerators,ezetil,746.45,[46800002],A++,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 12:27:51 UTC,appliances.kitchen.refrigerators,ezetil,772.22,[46800008],A++,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 04:49:14 UTC,appliances.kitchen.refrigerators,ezetil,823.68,[46800001],A++,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 03:59:33 UTC,appliances.kitchen.refrigerators,ezetil,875.16,[46800003],A++,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 10:30:43 UTC,appliances.kitchen.refrigerators,ezetil,1003.86,[46800000],A++,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-25 06:22:42 UTC,appliances.kitchen.refrigerators,fiesta,182.24,"[2601633, 2601822, 2602011]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2019-12-30 03:57:32 UTC,appliances.kitchen.refrigerators,fiesta,205.9,"[2601828, 2601719]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-02-04 10:37:58 UTC,appliances.kitchen.refrigerators,fiesta,226.52,[2601725],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-06 12:17:56 UTC,appliances.kitchen.refrigerators,fiesta,296.02,[2601847],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-11 10:47:36 UTC,appliances.kitchen.refrigerators,flama,66.15,"[2601856, 2601502]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-05 10:20:55 UTC,appliances.kitchen.refrigerators,flama,120.21,"[2600468, 2602082, 2600173, 2601874, 2601089, 2600140, 2601026, 2600857]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-02-03 07:51:15 UTC,appliances.kitchen.refrigerators,flama,149.81,"[2601781, 2601770, 2601771, 2600207, 2602217]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-23 15:53:25 UTC,appliances.kitchen.refrigerators,flama,174.01,"[2601526, 2600647]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-04-28 20:02:13 UTC,appliances.kitchen.refrigerators,flex,49.91,[100128757],A+,90.0,Mini Fridge,Manual,False,False,False,True,85.0,48.5,52.0
+2020-01-01 00:37:09 UTC,appliances.kitchen.refrigerators,fly,43.73,"[1004624, 1004755]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-27 14:42:24 UTC,appliances.kitchen.refrigerators,franke,923.11,[100223496],A++,350.0,Bottom Freezer,Frost Free,False,True,False,True,190.5,70.0,67.5
+2020-04-20 05:40:17 UTC,appliances.kitchen.refrigerators,franke,1321.42,[2800643],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-02 11:27:26 UTC,appliances.kitchen.refrigerators,franke,1585.71,[2702583],A++,340.0,Bottom Freezer,Frost Free,False,False,True,True,190.5,70.0,67.5
+2020-02-03 08:44:28 UTC,appliances.kitchen.refrigerators,freya,167.31,[100055817],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-04 17:48:21 UTC,appliances.kitchen.refrigerators,frostor,371.38,[2800212],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-01-01 06:05:57 UTC,appliances.kitchen.refrigerators,gefest,48.39,[2601292],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 20:51:49 UTC,appliances.kitchen.refrigerators,gefest,180.7,"[2601536, 2600485, 2601900]",A+,250.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-01-02 12:02:24 UTC,appliances.kitchen.refrigerators,gefest,201.81,"[2601099, 2601084]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-04-08 05:17:28 UTC,appliances.kitchen.refrigerators,gefest,229.32,"[2600939, 2600559, 2601842, 2600963, 2600570]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-01 13:46:44 UTC,appliances.kitchen.refrigerators,gefest,250.2,"[2601556, 2601855]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-01-02 19:04:56 UTC,appliances.kitchen.refrigerators,gefest,273.31,[2601288],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-03 08:17:28 UTC,appliances.kitchen.refrigerators,gefest,328.97,"[2601082, 2601141]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 20:17:14 UTC,appliances.kitchen.refrigerators,gefest,361.14,"[2601136, 2601618]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-09 13:47:17 UTC,appliances.kitchen.refrigerators,gefest,382.76,[2601142],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-08 05:32:53 UTC,appliances.kitchen.refrigerators,gefest,415.26,"[2601269, 2600547]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-02-01 12:30:37 UTC,appliances.kitchen.refrigerators,gefest,462.56,[2601201],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-10 05:59:57 UTC,appliances.kitchen.refrigerators,gefest,613.74,[2601454],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-08 16:14:25 UTC,appliances.kitchen.refrigerators,gigabyte,125.56,"[1480724, 1400864]",B,120.0,Mini Fridge,Manual,False,False,False,False,85.0,55.0,60.0
+2020-04-01 02:49:15 UTC,appliances.kitchen.refrigerators,gigabyte,154.19,"[1401292, 1401497]",A+,200.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 02:51:05 UTC,appliances.kitchen.refrigerators,gigabyte,249.92,"[1480781, 1480652]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-02-01 10:28:33 UTC,appliances.kitchen.refrigerators,gigabyte,286.36,[1480750],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 06:48:10 UTC,appliances.kitchen.refrigerators,gigabyte,310.74,[1480636],A+,210.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-09 11:35:15 UTC,appliances.kitchen.refrigerators,gigabyte,342.24,[1401631],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-01 04:56:37 UTC,appliances.kitchen.refrigerators,gigabyte,447.19,[1480634],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 06:22:57 UTC,appliances.kitchen.refrigerators,gigabyte,716.34,[1480635],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-02 02:29:00 UTC,appliances.kitchen.refrigerators,gomeldrev,1202.09,[16800607],A++,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-07 17:52:08 UTC,appliances.kitchen.refrigerators,gomeldrev,1441.48,[100051050],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-16 09:51:03 UTC,appliances.kitchen.refrigerators,google,952.38,[100078542],A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-01-01 03:55:34 UTC,appliances.kitchen.refrigerators,gorenje,127.39,[2601970],A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2019-10-02 10:52:06 UTC,appliances.kitchen.refrigerators,gorenje,270.25,"[2800586, 2800062, 100146563]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-02 17:14:16 UTC,appliances.kitchen.refrigerators,gorenje,295.99,"[2602055, 2800131, 2601758]",A++,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,60.0
+2020-04-02 04:04:20 UTC,appliances.kitchen.refrigerators,gorenje,360.11,"[2601017, 2601838]",A++,320.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,64.0
+2020-04-01 14:15:54 UTC,appliances.kitchen.refrigerators,gorenje,422.15,[2800008],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-01 11:35:57 UTC,appliances.kitchen.refrigerators,gorenje,450.44,"[2601765, 2601729, 2601969, 100183527]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,64.0
+2020-03-30 12:08:25 UTC,appliances.kitchen.refrigerators,gorenje,489.05,"[2601813, 2800009, 2602120, 2601816]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,64.0
+2020-04-02 03:30:06 UTC,appliances.kitchen.refrigerators,gorenje,514.79,"[100004214, 2702177, 2702178, 2702176, 100175124]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-03-15 01:33:53 UTC,appliances.kitchen.refrigerators,gorenje,540.3,"[2700665, 2601774, 2800635]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-03-20 16:33:58 UTC,appliances.kitchen.refrigerators,gorenje,754.18,[100026988],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,64.0
+2020-04-01 07:34:23 UTC,appliances.kitchen.refrigerators,gorenje,797.93,"[2701713, 100026997]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,64.0
+2020-04-02 12:27:13 UTC,appliances.kitchen.refrigerators,gorenje,833.97,"[2701051, 2702058]",A++,320.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,64.0
+2020-04-10 04:54:03 UTC,appliances.kitchen.refrigerators,gorenje,913.77,[100024237],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,64.0
+2020-04-01 01:12:15 UTC,appliances.kitchen.refrigerators,gorenje,978.12,[2701975],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,64.0
+2020-04-01 05:39:56 UTC,appliances.kitchen.refrigerators,gorenje,1061.77,[2800547],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,64.0
+2020-04-01 06:54:47 UTC,appliances.kitchen.refrigerators,gorenje,1126.12,"[2702173, 2701761]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-01 11:17:09 UTC,appliances.kitchen.refrigerators,gorenje,1235.55,[2700489],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-02-15 07:13:29 UTC,appliances.kitchen.refrigerators,greta,124.84,"[2601973, 2600885, 2600016, 2601990]",A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-03-21 05:09:09 UTC,appliances.kitchen.refrigerators,greta,159.04,"[2600463, 2600459]",A+,250.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-01 02:11:09 UTC,appliances.kitchen.refrigerators,haier,193.03,"[2800428, 2800424]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-04 08:03:15 UTC,appliances.kitchen.refrigerators,haier,231.64,[2800425],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 06:02:02 UTC,appliances.kitchen.refrigerators,haier,257.38,[2800433],A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-05 20:00:04 UTC,appliances.kitchen.refrigerators,haier,308.86,[2800427],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-04 05:18:59 UTC,appliances.kitchen.refrigerators,haier,328.94,[2702665],A+,240.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 10:33:24 UTC,appliances.kitchen.refrigerators,haier,360.34,[2800426],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 07:03:37 UTC,appliances.kitchen.refrigerators,haier,437.57,[2800467],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 03:20:55 UTC,appliances.kitchen.refrigerators,haier,489.05,"[2701587, 2702615, 2701782]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:30:03 UTC,appliances.kitchen.refrigerators,haier,514.79,[2800468],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-23 19:53:05 UTC,appliances.kitchen.refrigerators,haier,540.53,[2702616],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 05:13:55 UTC,appliances.kitchen.refrigerators,haier,604.88,"[2701422, 2701690, 2701459, 2701753]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 06:26:55 UTC,appliances.kitchen.refrigerators,haier,643.49,"[2701460, 2702627]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 06:29:41 UTC,appliances.kitchen.refrigerators,haier,669.23,"[2701423, 2701462]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-07 13:00:22 UTC,appliances.kitchen.refrigerators,haier,694.97,"[2702644, 2701426, 2701599]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-04-01 06:54:05 UTC,appliances.kitchen.refrigerators,haier,720.71,[2701999],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 20:33:39 UTC,appliances.kitchen.refrigerators,haier,772.19,"[2701606, 2701595]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-04-01 11:48:31 UTC,appliances.kitchen.refrigerators,haier,797.94,[2701594],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-04-01 11:38:12 UTC,appliances.kitchen.refrigerators,haier,823.68,[2702663],A++,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 14:28:25 UTC,appliances.kitchen.refrigerators,haier,849.42,"[2702654, 100092094, 2702641, 2702656, 2702153, 2702658, 2702659]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-04-02 14:33:51 UTC,appliances.kitchen.refrigerators,haier,875.16,[2701607],A+,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,67.0
+2020-04-01 17:31:50 UTC,appliances.kitchen.refrigerators,haier,900.9,"[2702642, 2702643, 2702662]",A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,67.5
+2020-04-01 14:47:08 UTC,appliances.kitchen.refrigerators,haier,952.38,"[2702657, 2702660]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-01 13:33:30 UTC,appliances.kitchen.refrigerators,haier,1003.86,[2702653],A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,60.0,65.0
+2020-04-09 06:55:31 UTC,appliances.kitchen.refrigerators,haier,1029.6,"[2702664, 2702608, 2702645, 2702652, 2702661, 2702655]",A+,320.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-01 02:22:44 UTC,appliances.kitchen.refrigerators,haier,1209.79,[2702667],A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-01 08:26:29 UTC,appliances.kitchen.refrigerators,haier,1415.71,"[2702151, 2702152]",A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,190.0,70.0,68.0
+2020-04-02 08:41:40 UTC,appliances.kitchen.refrigerators,haier,1544.42,[2702130],A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,190.5,70.0,67.5
+2020-04-10 13:37:18 UTC,appliances.kitchen.refrigerators,haier,2574.04,[2702129],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-11 12:23:54 UTC,appliances.kitchen.refrigerators,halmar,291.28,"[16800181, 16800009, 16800519]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-15 04:34:44 UTC,appliances.kitchen.refrigerators,halmar,397.85,[16800199],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-03 06:14:41 UTC,appliances.kitchen.refrigerators,halmar,660.76,[16800274],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-02-28 11:37:37 UTC,appliances.kitchen.refrigerators,hansa,180.0,[2600341],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-06 11:26:41 UTC,appliances.kitchen.refrigerators,hansa,251.54,"[2800536, 2600511, 2800533, 2602074]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-06 09:08:25 UTC,appliances.kitchen.refrigerators,hansa,308.63,"[2601976, 2800534, 2600608, 2600354]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-06 17:54:09 UTC,appliances.kitchen.refrigerators,hansa,360.32,"[2701491, 2601126, 2800672]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:59:46 UTC,appliances.kitchen.refrigerators,hansa,411.83,[2800511],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-08 06:49:33 UTC,appliances.kitchen.refrigerators,hansa,460.24,"[2601922, 2601293, 2700325]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:07:30 UTC,appliances.kitchen.refrigerators,hansa,592.01,"[2800535, 2600706]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-02 05:15:12 UTC,appliances.kitchen.refrigerators,hansa,643.23,[2701296],A++,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 01:07:16 UTC,appliances.kitchen.refrigerators,hansa,772.19,[2701299],A++,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-01 05:51:25 UTC,appliances.kitchen.refrigerators,hitachi,617.52,[2702259],A++,350.0,Top Freezer,Frost Free,True,False,False,True,170.0,60.0,65.0
+2020-02-02 09:55:18 UTC,appliances.kitchen.refrigerators,hitachi,797.7,[2702260],A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,68.0
+2020-04-04 13:36:31 UTC,appliances.kitchen.refrigerators,hitachi,932.17,"[2702366, 2702475]",A++,450.0,French Door,Frost Free,True,True,False,True,177.8,91.44,73.66
+2020-04-18 13:56:39 UTC,appliances.kitchen.refrigerators,hitachi,1003.04,"[2701795, 2702497]",A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 17:54:39 UTC,appliances.kitchen.refrigerators,hitachi,1029.6,[2702258],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,72.5
+2020-02-02 15:24:22 UTC,appliances.kitchen.refrigerators,hitachi,1055.21,"[2701796, 2701794]",A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-03-01 05:58:25 UTC,appliances.kitchen.refrigerators,hitachi,1154.25,[2702367],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,72.5
+2020-04-04 08:17:30 UTC,appliances.kitchen.refrigerators,hitachi,1235.27,[2702498],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-18 13:58:05 UTC,appliances.kitchen.refrigerators,hitachi,1258.69,[100125915],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,73.0
+2020-04-01 09:48:23 UTC,appliances.kitchen.refrigerators,hitachi,1279.05,"[2702262, 2701798, 2702261]",A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-02 15:17:55 UTC,appliances.kitchen.refrigerators,hitachi,1391.97,"[100126031, 2702268]",A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 11:57:27 UTC,appliances.kitchen.refrigerators,hitachi,1412.88,"[2702499, 2702269]",A++,500.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-04 10:57:56 UTC,appliances.kitchen.refrigerators,hitachi,1448.94,[2702637],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-03-06 04:46:03 UTC,appliances.kitchen.refrigerators,hitachi,1476.27,[2701801],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 15:34:29 UTC,appliances.kitchen.refrigerators,hitachi,1515.87,"[2702638, 2702500]",A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-18 13:57:08 UTC,appliances.kitchen.refrigerators,hitachi,1562.46,"[2701805, 2701806]",A++,500.0,French Door,Frost Free,True,True,False,True,178.0,91.0,72.0
+2020-02-04 04:39:22 UTC,appliances.kitchen.refrigerators,hitachi,1644.0,[2702596],A++,500.0,French Door,Frost Free,True,True,False,True,178.0,91.0,73.0
+2020-04-07 02:45:14 UTC,appliances.kitchen.refrigerators,hitachi,1750.34,[100160622],A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-03 11:50:56 UTC,appliances.kitchen.refrigerators,hitachi,1801.85,[2701916],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,73.0
+2019-10-01 18:16:14 UTC,appliances.kitchen.refrigerators,hitachi,1908.58,[2701800],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-03-01 06:53:05 UTC,appliances.kitchen.refrigerators,hitachi,1930.55,[2701917],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-18 12:49:29 UTC,appliances.kitchen.refrigerators,hitachi,1984.7,[2701911],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 00:07:33 UTC,appliances.kitchen.refrigerators,hitachi,2290.9,"[2702271, 2702270]",A++,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-09 15:50:27 UTC,appliances.kitchen.refrigerators,hitachi,2426.02,"[2702273, 2702272]",A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-01-01 00:31:02 UTC,appliances.kitchen.refrigerators,honor,128.68,[1003811],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-20 17:47:38 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,260.73,[2700972],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-01 05:32:27 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,332.03,[2701829],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2019-12-25 14:46:22 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,355.2,[2701811],A+,340.0,Top Freezer,Frost Free,False,False,False,True,175.0,60.0,65.0
+2020-03-02 10:46:59 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,380.94,[2701950],A+,340.0,Top Freezer,Frost Free,False,False,False,True,175.0,60.0,65.0
+2020-04-25 08:21:40 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,401.53,"[2701058, 2701395]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-01 17:53:51 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,424.72,"[2701443, 2601999]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 16:55:52 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,450.43,[2701969],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-15 09:29:45 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,478.75,"[2602009, 2800612]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,68.0
+2020-04-01 07:19:31 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,501.94,"[2701864, 2701865]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 10:01:46 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,545.68,"[2702163, 100184205, 2701912, 2701396]",A+,320.0,Top Freezer,Frost Free,False,False,False,True,175.0,60.0,65.0
+2020-04-01 07:19:22 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,572.7,[2700950],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 14:22:01 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,611.31,"[2701382, 2701482]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-03-05 14:38:10 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,639.37,"[2701533, 2702122, 2701722]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.0,60.0,68.0
+2020-04-02 15:34:22 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,674.38,"[2702648, 2702146, 2701723]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-13 10:34:13 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,723.29,"[2700295, 2702015]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,68.0
+2020-04-02 04:20:05 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,749.67,"[2702155, 2701724]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,64.5
+2020-04-01 20:00:34 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,781.84,"[2702115, 2701144]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,68.0
+2020-04-01 17:42:56 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,803.08,[2701913],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,68.5
+2020-04-02 09:57:30 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,830.11,[2702014],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,68.0
+2020-04-07 01:36:20 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,975.49,[2701721],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,68.0
+2020-04-01 11:51:51 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,1060.23,[2701808],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.0,60.0,68.0
+2020-04-01 06:24:10 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,1176.27,"[100183561, 2702161]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,59.5,68.2
+2020-03-27 20:26:01 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,1495.51,"[2701568, 100218805]",A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,190.5,70.0,68.5
+2020-04-01 06:06:09 UTC,appliances.kitchen.refrigerators,hotpoint-ariston,1756.22,[2702509],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,68.6
+2020-04-03 12:24:21 UTC,appliances.kitchen.refrigerators,hp,15.42,"[2601343, 2601342, 2601339, 2601340]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,50.0,55.0
+2020-04-04 10:04:23 UTC,appliances.kitchen.refrigerators,hp,231.64,[1401417],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 02:05:37 UTC,appliances.kitchen.refrigerators,hp,352.89,[1401924],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-04-01 03:48:29 UTC,appliances.kitchen.refrigerators,hp,385.85,"[1480654, 1480697, 1480567, 1480323]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-20 08:28:49 UTC,appliances.kitchen.refrigerators,hp,414.68,"[1480571, 1401332]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 02:47:01 UTC,appliances.kitchen.refrigerators,hp,466.68,"[1480788, 1480623]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 01:41:59 UTC,appliances.kitchen.refrigerators,hp,506.83,"[1480675, 100046251, 1480412, 1480782, 100045493, 100022125, 100123847]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-02 03:30:06 UTC,appliances.kitchen.refrigerators,hp,527.5,"[1480763, 1480755, 100044203, 1480466]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-06 09:03:54 UTC,appliances.kitchen.refrigerators,hp,556.98,[1480789],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 11:43:34 UTC,appliances.kitchen.refrigerators,hp,580.45,"[100025215, 100046241]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-03-01 01:56:04 UTC,appliances.kitchen.refrigerators,hp,604.65,"[1480485, 1480177, 100045455, 1480700, 1480680]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 02:33:51 UTC,appliances.kitchen.refrigerators,hp,625.24,"[1480694, 1480773]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-02 15:22:26 UTC,appliances.kitchen.refrigerators,hp,645.83,"[1480343, 100046231, 1401727, 1401076, 100045469, 1480552]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-23 08:53:28 UTC,appliances.kitchen.refrigerators,hp,666.43,"[1480383, 1480772, 1480791]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-08 06:04:35 UTC,appliances.kitchen.refrigerators,hp,687.02,"[1480668, 100145808]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-13 04:58:45 UTC,appliances.kitchen.refrigerators,hp,717.58,"[1480559, 1480310, 100112968, 1480612, 100083691, 1480653, 1480178, 100046247]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 01:20:03 UTC,appliances.kitchen.refrigerators,hp,746.22,"[100046245, 100022231, 100063234, 1480342, 1480674]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.5
+2020-04-01 01:01:58 UTC,appliances.kitchen.refrigerators,hp,767.05,"[100146273, 1480677, 1480661, 1480670, 100082837]",A+,350.0,Top Freezer,Frost Free,True,False,False,True,170.0,70.0,70.0
+2020-04-01 02:29:14 UTC,appliances.kitchen.refrigerators,hp,793.72,"[1480392, 1480173, 100040206, 1401723, 100018504, 100046258]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-04-13 14:04:17 UTC,appliances.kitchen.refrigerators,hp,815.72,"[100045440, 1480584, 1480699, 1401706, 100063174, 1480292, 1401652, 100040158]",A++,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.0
+2020-04-01 02:47:27 UTC,appliances.kitchen.refrigerators,hp,835.85,"[100040166, 1480033, 100083671, 1480778]",A+,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-06 10:12:55 UTC,appliances.kitchen.refrigerators,hp,858.38,"[100022249, 1480311, 100046238, 100022283]",A++,350.0,French Door,Frost Free,True,True,False,True,180.0,70.0,75.0
+2020-04-01 03:39:46 UTC,appliances.kitchen.refrigerators,hp,890.25,"[1480681, 100056527, 100063251, 100040185, 1480776, 100092195]",A+,350.0,French Door,Frost Free,True,True,False,True,180.0,70.0,75.0
+2020-04-01 06:14:12 UTC,appliances.kitchen.refrigerators,hp,916.11,"[100046244, 100063260, 100145911]",A+,340.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-01 06:54:48 UTC,appliances.kitchen.refrigerators,hp,943.14,"[100028397, 1401726, 1480176]",A++,350.0,French Door,Frost Free,True,True,False,True,177.8,90.2,76.2
+2020-04-08 07:59:49 UTC,appliances.kitchen.refrigerators,hp,967.59,[100104689],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-07 12:49:43 UTC,appliances.kitchen.refrigerators,hp,990.44,"[1480560, 1480718, 1480172, 100162789]",A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 07:47:40 UTC,appliances.kitchen.refrigerators,hp,1080.85,"[1480719, 1480657, 100162808]",A++,340.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 06:35:49 UTC,appliances.kitchen.refrigerators,hp,1104.02,"[1480676, 100024957, 1480282]",A++,450.0,French Door,Frost Free,True,True,False,True,178.0,83.0,75.0
+2020-04-01 10:49:45 UTC,appliances.kitchen.refrigerators,hp,1140.72,"[100011600, 1480720, 100063171, 100063048]",A+,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-01 05:19:24 UTC,appliances.kitchen.refrigerators,hp,1165.8,"[100162861, 100022263, 100042637]",A++,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-01 04:13:55 UTC,appliances.kitchen.refrigerators,hp,1209.55,"[100162842, 100063167]",A++,340.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 05:16:36 UTC,appliances.kitchen.refrigerators,hp,1235.3,[100062843],A+,340.0,French Door,Frost Free,True,True,False,True,180.0,82.5,76.2
+2020-04-01 06:46:55 UTC,appliances.kitchen.refrigerators,hp,1261.27,"[100145778, 1480673, 100069919]",A+,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-02 10:37:16 UTC,appliances.kitchen.refrigerators,hp,1286.78,"[1480340, 100024934]",A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-06 14:49:12 UTC,appliances.kitchen.refrigerators,hp,1364.0,"[100191346, 1401637, 100145876]",A+,350.0,French Door,Frost Free,True,True,False,True,180.0,70.0,75.0
+2020-04-03 14:20:01 UTC,appliances.kitchen.refrigerators,hp,1389.74,"[100188766, 1480765]",A+,450.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-04-05 16:40:21 UTC,appliances.kitchen.refrigerators,hp,1410.33,"[100046262, 100145949, 100063155]",A+,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-01 04:24:22 UTC,appliances.kitchen.refrigerators,hp,1569.92,"[100151922, 1480764, 1401649]",A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 04:14:45 UTC,appliances.kitchen.refrigerators,hp,1685.29,[1480622],A++,450.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-01 01:25:57 UTC,appliances.kitchen.refrigerators,hp,1804.21,[1480621],A++,450.0,French Door,Frost Free,True,True,True,True,180.0,90.0,75.0
+2020-04-01 03:35:01 UTC,appliances.kitchen.refrigerators,hp,1838.66,[1401730],A++,500.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 04:42:14 UTC,appliances.kitchen.refrigerators,hp,2059.0,[1401728],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-05 21:48:09 UTC,appliances.kitchen.refrigerators,hp,2298.39,[1480278],A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-27 08:42:08 UTC,appliances.kitchen.refrigerators,htc,172.44,[1004716],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 07:33:21 UTC,appliances.kitchen.refrigerators,huawei,89.81,[100081512],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-01 00:10:27 UTC,appliances.kitchen.refrigerators,huawei,154.42,[1004321],A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-01-01 10:02:21 UTC,appliances.kitchen.refrigerators,huawei,231.64,[1003771],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-03 14:03:01 UTC,appliances.kitchen.refrigerators,huawei,282.86,[1004790],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-01 03:40:39 UTC,appliances.kitchen.refrigerators,huawei,411.57,[1004544],A+,350.0,Bottom Freezer,Frost Free,False,False,True,True,180.0,70.0,65.0
+2020-04-01 00:54:20 UTC,appliances.kitchen.refrigerators,huawei,720.48,[1004536],A++,350.0,Bottom Freezer,Frost Free,True,True,True,True,190.0,70.0,68.0
+2020-04-16 14:35:25 UTC,appliances.kitchen.refrigerators,huawei,818.32,[1005049],A++,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-01-23 13:33:29 UTC,appliances.kitchen.refrigerators,ikea,77.09,"[100019873, 100019895, 100015968, 100008673, 100015959]",A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-27 02:59:42 UTC,appliances.kitchen.refrigerators,ikea,116.82,[100021314],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-23 07:54:27 UTC,appliances.kitchen.refrigerators,ikea,140.19,[100019705],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-01-24 08:30:13 UTC,appliances.kitchen.refrigerators,ikea,163.56,"[100020963, 100019904]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-01-24 12:28:36 UTC,appliances.kitchen.refrigerators,ikea,186.93,"[100019852, 100011593]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-01-22 20:29:47 UTC,appliances.kitchen.refrigerators,ikea,233.67,"[100019898, 100019902, 100019867]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-29 18:00:45 UTC,appliances.kitchen.refrigerators,ikea,280.4,"[100019854, 100019879, 100019900]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-24 15:53:56 UTC,appliances.kitchen.refrigerators,ikea,303.77,[100019872],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-23 13:57:17 UTC,appliances.kitchen.refrigerators,ikea,350.51,[100017613],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-23 17:51:52 UTC,appliances.kitchen.refrigerators,ikea,373.88,[100019901],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-01-23 08:03:31 UTC,appliances.kitchen.refrigerators,ikea,397.25,"[100023551, 100019763]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-01-23 17:51:19 UTC,appliances.kitchen.refrigerators,ikea,467.36,"[100019897, 100024773, 100013967]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-23 17:43:15 UTC,appliances.kitchen.refrigerators,ikea,514.09,"[100017200, 100017467]",A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.0,60.0,65.0
+2020-01-03 06:18:37 UTC,appliances.kitchen.refrigerators,ikea,537.46,[100013911],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-01-01 20:23:53 UTC,appliances.kitchen.refrigerators,ikea,630.94,[100013974],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-02 07:59:23 UTC,appliances.kitchen.refrigerators,ikea,701.05,[100018322],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-01-01 14:10:15 UTC,appliances.kitchen.refrigerators,ikea,771.15,[100014177],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-01-02 08:36:05 UTC,appliances.kitchen.refrigerators,ikea,817.89,[100013945],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-01-24 10:47:54 UTC,appliances.kitchen.refrigerators,ikea,934.74,[100018007],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-01-01 15:17:48 UTC,appliances.kitchen.refrigerators,ikea,1098.32,[100014034],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,67.5
+2020-01-24 08:58:56 UTC,appliances.kitchen.refrigerators,ikea,1168.43,[100019859],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-01-08 19:53:26 UTC,appliances.kitchen.refrigerators,ikea,1215.16,[100013987],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.5,59.5,66.8
+2020-01-12 08:54:24 UTC,appliances.kitchen.refrigerators,ikea,1285.27,[100014023],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,67.5
+2020-04-21 07:58:35 UTC,appliances.kitchen.refrigerators,imperial,120.18,"[100112017, 16800593, 16800588]",A+,250.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-02-01 09:43:54 UTC,appliances.kitchen.refrigerators,imperial,410.27,[100084513],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-02-01 15:31:30 UTC,appliances.kitchen.refrigerators,imperial,482.67,"[100015984, 100019709, 100019856, 100019880]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 03:35:16 UTC,appliances.kitchen.refrigerators,indesit,209.21,"[2800004, 100014162, 2700349, 2700438, 2700932]",A+,250.0,Top Freezer,Automatic Defrost,False,False,False,True,150.0,60.0,65.0
+2020-04-01 04:13:50 UTC,appliances.kitchen.refrigerators,indesit,230.12,"[2800207, 2700437, 2700673, 2701638]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 04:05:09 UTC,appliances.kitchen.refrigerators,indesit,254.03,"[2701672, 2701639, 100023278, 2800232]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 03:19:52 UTC,appliances.kitchen.refrigerators,indesit,277.74,"[2800605, 2701646, 2800381, 2800002, 2700414, 2701648, 2702666]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 01:24:19 UTC,appliances.kitchen.refrigerators,indesit,298.56,"[2700588, 2800434, 2701642, 2702474, 2701658, 2700609, 2600179, 2800587, 2800594, 2800636, 100019319, 2702640]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 04:32:59 UTC,appliances.kitchen.refrigerators,indesit,318.9,"[2701673, 2701754, 2701650, 2800003, 2701647, 2700598, 2700619, 2701399, 2702691, 2701651]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 03:36:00 UTC,appliances.kitchen.refrigerators,indesit,342.09,"[2701685, 2700616, 2701664, 2700618, 2700610, 100014086, 2700611, 2800333, 2701773]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:32:13 UTC,appliances.kitchen.refrigerators,indesit,362.69,"[2700614, 2800380, 2800600, 2701450, 2701774, 2701379]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 02:11:36 UTC,appliances.kitchen.refrigerators,indesit,383.51,"[2800611, 2700856, 2601760, 2700613, 2701408, 2700615]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:05:44 UTC,appliances.kitchen.refrigerators,indesit,406.16,"[2701385, 2700612]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 06:26:32 UTC,appliances.kitchen.refrigerators,indesit,429.87,"[2701605, 2702692, 2701303]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-21 10:39:46 UTC,appliances.kitchen.refrigerators,indesit,581.46,"[2702057, 2702668]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-15 10:30:24 UTC,appliances.kitchen.refrigerators,indesit,639.91,[2700018],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.0,60.0,65.0
+2020-04-01 19:26:52 UTC,appliances.kitchen.refrigerators,indesit,1426.37,[100018155],A++,320.0,Bottom Freezer,Frost Free,False,False,False,True,190.0,60.0,68.0
+2020-04-01 07:45:31 UTC,appliances.kitchen.refrigerators,indesit,1673.12,[100014122],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,59.5,67.5
+2020-04-01 16:46:32 UTC,appliances.kitchen.refrigerators,kaiser,1204.98,[2702671],A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-02 17:39:27 UTC,appliances.kitchen.refrigerators,king,132.56,"[2600870, 2600690, 2601143]",A+,200.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-06 08:14:09 UTC,appliances.kitchen.refrigerators,king,156.25,[2601296],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 08:24:02 UTC,appliances.kitchen.refrigerators,kitfort,221.82,[2702573],A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 19:44:49 UTC,appliances.kitchen.refrigerators,kitfort,283.15,[100169382],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 03:50:48 UTC,appliances.kitchen.refrigerators,kitfort,389.2,[2702574],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 19:24:40 UTC,appliances.kitchen.refrigerators,kitfort,1312.78,[100169386],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,68.6
+2020-04-01 06:57:36 UTC,appliances.kitchen.refrigerators,kitfort,1853.33,[100168159],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 05:20:16 UTC,appliances.kitchen.refrigerators,kitfort,2213.7,[100168164],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,68.0
+2020-03-01 11:54:05 UTC,appliances.kitchen.refrigerators,komfort-s,39.36,"[16800592, 16800587]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 08:43:05 UTC,appliances.kitchen.refrigerators,konov,200.26,[2700576],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 05:40:54 UTC,appliances.kitchen.refrigerators,konov,250.97,[2800682],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 09:42:02 UTC,appliances.kitchen.refrigerators,konov,287.64,[2800109],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2019-10-11 21:36:05 UTC,appliances.kitchen.refrigerators,korting,932.23,[2702242],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-04 15:51:46 UTC,appliances.kitchen.refrigerators,korting,1082.72,[2702240],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-01 01:15:02 UTC,appliances.kitchen.refrigerators,kristal,169.63,"[2800172, 2800042]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 06:50:50 UTC,appliances.kitchen.refrigerators,kristal,231.41,"[2800041, 2800357]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 09:23:14 UTC,appliances.kitchen.refrigerators,kristal,270.02,[2800478],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 10:41:28 UTC,appliances.kitchen.refrigerators,kristal,308.63,"[2800173, 2800444]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 10:28:48 UTC,appliances.kitchen.refrigerators,kristal,352.39,"[2800446, 2800445]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 03:06:40 UTC,appliances.kitchen.refrigerators,kristal,378.13,"[2702215, 2800261]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 10:34:04 UTC,appliances.kitchen.refrigerators,kristal,398.72,"[2800447, 2800043]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-04-01 16:51:34 UTC,appliances.kitchen.refrigerators,kristal,456.81,[2800448],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-02-17 13:24:41 UTC,appliances.kitchen.refrigerators,kuppersberg,1388.71,[2701771],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2019-10-01 17:26:15 UTC,appliances.kitchen.refrigerators,kuppersberg,1504.32,[2700885],A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,68.5
+2020-01-09 08:34:47 UTC,appliances.kitchen.refrigerators,kuppersbusch,843.3,[2701008],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2019-10-01 09:46:55 UTC,appliances.kitchen.refrigerators,kuppersbusch,1505.83,[2800190],A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,65.0
+2019-10-02 19:51:26 UTC,appliances.kitchen.refrigerators,kuppersbusch,1704.03,[2700873],A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,185.0,60.0,65.0
+2019-10-01 18:52:47 UTC,appliances.kitchen.refrigerators,kuppersbusch,1897.09,[2800191],A++,450.0,French Door,Frost Free,True,True,False,True,182.0,91.5,70.5
+2020-02-21 10:06:41 UTC,appliances.kitchen.refrigerators,kuppersbusch,2239.44,"[2700874, 2702031]",A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-01 09:39:04 UTC,appliances.kitchen.refrigerators,leadbros,119.44,"[2701025, 2700589]",A+,200.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-01 07:09:21 UTC,appliances.kitchen.refrigerators,leadbros,144.41,"[2701024, 2800118]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-02 00:14:52 UTC,appliances.kitchen.refrigerators,leadbros,176.84,"[2702686, 2800429, 2702687, 2800597, 2800680, 2800591, 2702689]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 17:27:28 UTC,appliances.kitchen.refrigerators,leadbros,205.41,"[100017008, 2701022, 2800629]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 14:48:29 UTC,appliances.kitchen.refrigerators,leadbros,229.61,"[2800640, 2800239, 2800531]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-06 04:33:42 UTC,appliances.kitchen.refrigerators,leadbros,249.68,[2800537],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-04-10 11:56:41 UTC,appliances.kitchen.refrigerators,leadbros,270.28,"[2800111, 2800627]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-10 11:00:26 UTC,appliances.kitchen.refrigerators,leadbros,294.73,"[2800530, 2800297]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-14 06:29:08 UTC,appliances.kitchen.refrigerators,leadbros,316.58,[2800683],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 04:11:15 UTC,appliances.kitchen.refrigerators,leadbros,339.75,[2702684],A+,210.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-13 08:47:26 UTC,appliances.kitchen.refrigerators,leadbros,374.53,"[2800681, 2800117]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-02 09:58:47 UTC,appliances.kitchen.refrigerators,leadbros,405.67,"[2800241, 2702550, 2702359]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 16:45:19 UTC,appliances.kitchen.refrigerators,leadbros,577.62,"[2800685, 2800684]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-04 13:16:38 UTC,appliances.kitchen.refrigerators,leadbros,633.22,"[2800120, 2800243]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-01-07 18:27:46 UTC,appliances.kitchen.refrigerators,leadbros,698.6,"[100023542, 2702551, 2702690]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 05:10:48 UTC,appliances.kitchen.refrigerators,leadbros,761.92,"[2800244, 2702552]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-09 12:49:56 UTC,appliances.kitchen.refrigerators,leadbros,941.85,"[2702704, 2800632]",A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,185.5,59.5,67.5
+2020-04-06 10:56:07 UTC,appliances.kitchen.refrigerators,leadbros,1209.81,[2800245],A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-01 06:55:16 UTC,appliances.kitchen.refrigerators,lenovo,77.2,[1001820],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-03 19:03:16 UTC,appliances.kitchen.refrigerators,lenovo,308.86,[1480197],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 05:07:16 UTC,appliances.kitchen.refrigerators,lenovo,334.6,"[1480194, 100083674]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 01:01:32 UTC,appliances.kitchen.refrigerators,lenovo,385.85,[1480790],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 01:02:05 UTC,appliances.kitchen.refrigerators,lenovo,411.59,"[100057270, 100010016]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 01:01:23 UTC,appliances.kitchen.refrigerators,lenovo,456.9,"[100044666, 1480206, 100229941, 1480737]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-02 12:04:00 UTC,appliances.kitchen.refrigerators,lenovo,514.79,[1480195],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 04:51:15 UTC,appliances.kitchen.refrigerators,lenovo,537.95,"[100062790, 1480717]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 10:44:45 UTC,appliances.kitchen.refrigerators,lenovo,590.03,"[100119083, 100119043, 100090370]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 02:38:07 UTC,appliances.kitchen.refrigerators,lenovo,617.75,"[1480770, 100119070, 1480373, 1480738]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 04:52:01 UTC,appliances.kitchen.refrigerators,lenovo,643.26,"[100119049, 1480716, 1480192]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,65.0
+2020-04-01 04:14:01 UTC,appliances.kitchen.refrigerators,lenovo,669.0,"[100118973, 100119107, 100119018]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-03-01 08:34:49 UTC,appliances.kitchen.refrigerators,lenovo,697.86,"[100007894, 1480736]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,60.0
+2020-04-01 04:48:59 UTC,appliances.kitchen.refrigerators,lenovo,720.48,[1480769],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,65.0
+2020-03-01 13:52:08 UTC,appliances.kitchen.refrigerators,lenovo,778.86,"[100083686, 100092322, 100083683]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-12 06:03:13 UTC,appliances.kitchen.refrigerators,lenovo,849.19,[100070701],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-04-01 06:55:50 UTC,appliances.kitchen.refrigerators,lenovo,882.2,"[100083678, 1480735]",A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-03 17:32:28 UTC,appliances.kitchen.refrigerators,lenovo,910.19,"[1480774, 100011587]",A++,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 00:41:36 UTC,appliances.kitchen.refrigerators,lenovo,970.45,[100119105],A++,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 01:47:04 UTC,appliances.kitchen.refrigerators,lenovo,1003.86,"[1480207, 1480779]",A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 16:47:51 UTC,appliances.kitchen.refrigerators,lenovo,1029.37,"[100093503, 1480369]",A++,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,75.0
+2020-04-01 00:42:18 UTC,appliances.kitchen.refrigerators,lenovo,1106.59,"[100103632, 1480405]",A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 04:51:55 UTC,appliances.kitchen.refrigerators,lenovo,1146.98,[100007868],A+,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-09 04:21:25 UTC,appliances.kitchen.refrigerators,lenovo,1180.93,[100083680],A++,450.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 00:45:05 UTC,appliances.kitchen.refrigerators,lenovo,1209.55,[1480252],A++,340.0,French Door,Frost Free,True,True,False,True,177.8,90.2,70.5
+2020-04-01 09:27:29 UTC,appliances.kitchen.refrigerators,lenovo,1381.17,[1480371],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 07:09:19 UTC,appliances.kitchen.refrigerators,lenovo,1647.33,[1480372],A+,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 04:03:20 UTC,appliances.kitchen.refrigerators,lenovo,2316.4,[1480603],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-02-01 06:49:45 UTC,appliances.kitchen.refrigerators,leran,450.2,[2702357],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 06:31:14 UTC,appliances.kitchen.refrigerators,lg,334.6,[1003934],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-04-01 00:15:55 UTC,appliances.kitchen.refrigerators,lg,471.03,"[2702277, 2701608]",A+,320.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,75.0
+2020-03-01 20:22:01 UTC,appliances.kitchen.refrigerators,lg,501.94,"[2702051, 2702050, 2702331, 2701478]",A+,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,75.0
+2020-04-01 01:08:19 UTC,appliances.kitchen.refrigerators,lg,526.91,"[2702053, 2702332]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 01:45:11 UTC,appliances.kitchen.refrigerators,lg,555.97,"[2702347, 2702248, 100169564, 2701618, 2702349, 2700117]",A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.5,68.5
+2020-04-01 04:48:00 UTC,appliances.kitchen.refrigerators,lg,590.72,"[2700548, 2701622, 2702107, 100173553]",A+,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,68.0
+2020-04-01 02:22:03 UTC,appliances.kitchen.refrigerators,lg,610.8,"[2702339, 2702064, 2702071]",A+,340.0,Bottom Freezer,Frost Free,True,False,False,True,178.0,70.0,68.0
+2020-04-01 03:22:47 UTC,appliances.kitchen.refrigerators,lg,634.35,"[2700244, 100169596, 2702340]",A+,500.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-03 10:29:52 UTC,appliances.kitchen.refrigerators,lg,669.23,"[100123572, 2702531]",A+,280.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-04-01 00:18:56 UTC,appliances.kitchen.refrigerators,lg,692.4,"[2702279, 2702594, 100142028]",A++,350.0,French Door,Frost Free,True,True,True,True,177.8,90.2,70.1
+2020-04-01 04:53:50 UTC,appliances.kitchen.refrigerators,lg,719.43,"[2702530, 2701314, 2702280]",A++,340.0,French Door,Frost Free,True,True,True,True,178.0,91.0,74.0
+2020-04-29 01:32:14 UTC,appliances.kitchen.refrigerators,lg,746.26,[2702108],A++,400.0,Bottom Freezer,Frost Free,True,False,True,True,178.0,70.0,68.0
+2020-04-01 04:50:13 UTC,appliances.kitchen.refrigerators,lg,769.62,"[2702278, 2701612, 2702348]",A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,75.0
+2020-03-06 07:34:48 UTC,appliances.kitchen.refrigerators,lg,795.13,"[2701610, 2701623]",A+,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 04:52:21 UTC,appliances.kitchen.refrigerators,lg,823.68,[100108833],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 02:25:03 UTC,appliances.kitchen.refrigerators,lg,900.38,[2701763],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,83.0,75.0
+2020-04-01 03:57:55 UTC,appliances.kitchen.refrigerators,lg,926.64,"[2701741, 2701609]",A+,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 04:53:19 UTC,appliances.kitchen.refrigerators,lg,964.99,"[2702352, 2701731, 2702290]",A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 04:54:13 UTC,appliances.kitchen.refrigerators,lg,1029.37,"[2702353, 100014004]",A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-11 18:04:10 UTC,appliances.kitchen.refrigerators,lg,1081.08,"[2701617, 2701616]",A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 03:39:46 UTC,appliances.kitchen.refrigerators,lg,1134.39,[2701736],A+,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 04:54:17 UTC,appliances.kitchen.refrigerators,lg,1157.53,"[2702593, 2701730, 2701613]",A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 04:50:40 UTC,appliances.kitchen.refrigerators,lg,1286.75,[100081598],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 01:40:12 UTC,appliances.kitchen.refrigerators,lg,1363.97,"[2701732, 2701392]",A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 04:54:15 UTC,appliances.kitchen.refrigerators,lg,1415.48,"[2701735, 2701390]",A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 02:49:07 UTC,appliances.kitchen.refrigerators,lg,1465.91,[2701391],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 02:25:24 UTC,appliances.kitchen.refrigerators,lg,1544.42,[2702336],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 03:22:45 UTC,appliances.kitchen.refrigerators,lg,1874.27,"[2701414, 100223840, 2701627]",A++,400.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-16 14:55:30 UTC,appliances.kitchen.refrigerators,lg,1907.49,[2700199],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 00:07:50 UTC,appliances.kitchen.refrigerators,lg,2004.92,[2702282],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2019-10-01 15:36:07 UTC,appliances.kitchen.refrigerators,liebherr,308.89,"[2702090, 2702089]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-16 15:45:38 UTC,appliances.kitchen.refrigerators,liebherr,362.94,"[2700863, 2800016, 2800189]",A++,250.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-06 21:37:57 UTC,appliances.kitchen.refrigerators,liebherr,456.84,[2800293],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 10:48:59 UTC,appliances.kitchen.refrigerators,liebherr,787.67,[2800295],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-27 09:40:18 UTC,appliances.kitchen.refrigerators,liebherr,854.59,"[2700993, 2800523, 2800575]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 11:44:44 UTC,appliances.kitchen.refrigerators,liebherr,916.37,[2701869],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2019-10-01 03:43:45 UTC,appliances.kitchen.refrigerators,liebherr,1184.07,[2702335],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-01 11:45:34 UTC,appliances.kitchen.refrigerators,liebherr,1235.55,[2701870],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-03 00:35:19 UTC,appliances.kitchen.refrigerators,liebherr,1256.15,"[2701447, 2701989]",A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,60.0,65.0
+2020-03-05 14:08:12 UTC,appliances.kitchen.refrigerators,liebherr,1467.22,"[2702397, 2701990]",A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,60.0,65.0
+2019-10-27 04:28:11 UTC,appliances.kitchen.refrigerators,liebherr,1624.24,"[2700995, 2701918]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-03 08:20:40 UTC,appliances.kitchen.refrigerators,liebherr,1741.95,[2701924],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 20:12:02 UTC,appliances.kitchen.refrigerators,liebherr,2131.33,"[100150862, 2701987, 2701988, 2702334]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-01 00:06:06 UTC,appliances.kitchen.refrigerators,liebherr,2346.75,[2701757],A++,350.0,Bottom Freezer,Frost Free,False,True,False,True,180.0,60.0,65.0
+2020-02-29 06:37:07 UTC,appliances.kitchen.refrigerators,line,31.54,[25200275],B,50.0,Mini Fridge,Manual,False,False,False,False,85.0,48.0,50.0
+2020-04-17 09:26:10 UTC,appliances.kitchen.refrigerators,listvig,126.13,"[16800434, 16800436, 16800437, 100034218]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-08 15:41:02 UTC,appliances.kitchen.refrigerators,listvig,169.89,"[16800438, 16800435, 16800532, 16800535]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-03 04:11:17 UTC,appliances.kitchen.refrigerators,listvig,220.86,"[16800530, 16800537]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-28 11:48:45 UTC,appliances.kitchen.refrigerators,m-city,141.6,[100086439],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-28 11:22:28 UTC,appliances.kitchen.refrigerators,marko,50.94,"[100175054, 100175052, 100175053, 100175046, 100175045, 100175047, 100175040, 100175032, 100175031, 100175039, 100175041, 100175042, 100175026, 100175027, 100175028, 100175029]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 16:48:11 UTC,appliances.kitchen.refrigerators,maunfeld,956.01,[2701772],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-03 13:56:54 UTC,appliances.kitchen.refrigerators,maytag,2450.49,[2702137],A++,532.0,French Door,Frost Free,True,True,False,True,178.0,91.0,75.0
+2020-04-17 19:11:03 UTC,appliances.kitchen.refrigerators,mebels,130.74,[16800585],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-23 15:07:49 UTC,appliances.kitchen.refrigerators,mebelson,49.91,[100126537],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 14:41:56 UTC,appliances.kitchen.refrigerators,mebelson,154.16,"[16800583, 16800580, 16800582]",A+,220.0,Top Freezer,Manual,False,False,False,True,170.0,60.0,65.0
+2020-01-01 06:46:54 UTC,appliances.kitchen.refrigerators,meizu,149.47,[1003073],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-01 04:23:42 UTC,appliances.kitchen.refrigerators,meizu,231.41,[1005193],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-01-01 03:29:30 UTC,appliances.kitchen.refrigerators,micromax,83.47,[1002929],A+,200.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-01 03:33:36 UTC,appliances.kitchen.refrigerators,midea,110.43,"[2700185, 2702351, 2700214, 2702480]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-03-01 04:46:47 UTC,appliances.kitchen.refrigerators,midea,134.5,"[2700857, 2702471, 2700553, 2701739, 2800545, 2701954, 2702472, 2700206]",A+,90.0,Mini Fridge,Manual,False,False,False,True,85.0,48.0,52.0
+2020-04-01 00:18:57 UTC,appliances.kitchen.refrigerators,midea,160.62,"[2702481, 100006135, 2702559, 100154918, 2701962]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-10 05:24:20 UTC,appliances.kitchen.refrigerators,midea,184.22,"[2800028, 2800470, 2800049, 100154979, 100011531, 2701556, 100154968, 100088595]",A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 03:29:15 UTC,appliances.kitchen.refrigerators,midea,205.67,"[100006662, 2702056, 2701769, 2702476, 2800674, 2800659, 2702350, 2800020, 100003841, 2800156]",A+,210.0,Top Freezer,Frost Free,False,False,False,True,150.0,55.0,60.0
+2020-04-01 04:09:29 UTC,appliances.kitchen.refrigerators,midea,226.52,"[2800677, 100107297, 100018773, 2701997, 100151590, 100154964, 100062836, 2702020]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-24 17:06:51 UTC,appliances.kitchen.refrigerators,midea,262.53,"[2800157, 2800624, 2702587, 2800093, 2702678, 100100931, 2800678, 2800103, 100011588]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 08:41:20 UTC,appliances.kitchen.refrigerators,midea,283.12,"[100014488, 2800037, 2800619, 100005575, 100018684]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 07:21:06 UTC,appliances.kitchen.refrigerators,midea,308.63,"[100114130, 100018269, 100063518, 100023425, 100023377]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 05:15:25 UTC,appliances.kitchen.refrigerators,midea,334.6,"[100151611, 100023253, 2800334, 100007039, 2800563]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 08:12:01 UTC,appliances.kitchen.refrigerators,midea,358.28,"[2700958, 2702634, 100035523, 2800159]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 03:26:14 UTC,appliances.kitchen.refrigerators,midea,386.08,"[2701424, 100061935, 2701955, 2701957, 2702019]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,175.0,60.0,65.0
+2020-04-23 09:49:42 UTC,appliances.kitchen.refrigerators,midea,411.59,"[2800025, 2702567, 2701958, 2800686, 100011623, 2800032, 100014838, 2702591, 2701949]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 10:11:26 UTC,appliances.kitchen.refrigerators,midea,436.46,"[2701948, 2701956, 2702537, 100020679, 100103524]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 02:17:36 UTC,appliances.kitchen.refrigerators,midea,463.33,"[2702649, 100014815, 2800194, 100107353]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 06:19:50 UTC,appliances.kitchen.refrigerators,midea,579.14,[100109800],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 11:05:53 UTC,appliances.kitchen.refrigerators,midea,617.78,[2702650],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 06:21:16 UTC,appliances.kitchen.refrigerators,midea,663.18,[100077234],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 03:33:27 UTC,appliances.kitchen.refrigerators,midea,695.0,"[100088720, 2702580, 2702154]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-18 10:17:56 UTC,appliances.kitchen.refrigerators,midea,772.22,"[2702365, 2702632]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.5
+2020-04-20 16:18:13 UTC,appliances.kitchen.refrigerators,midea,849.42,"[2700790, 2702100]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 13:41:04 UTC,appliances.kitchen.refrigerators,midea,882.88,"[2702560, 100052106, 2702578, 100039269, 2702630]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-17 10:37:40 UTC,appliances.kitchen.refrigerators,midea,926.59,"[2702700, 100129483, 2702631]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 08:40:17 UTC,appliances.kitchen.refrigerators,midea,994.93,"[100014418, 100004572, 100014404]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,68.0
+2020-04-01 09:13:00 UTC,appliances.kitchen.refrigerators,midea,1019.33,"[100088570, 2701669]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 03:46:58 UTC,appliances.kitchen.refrigerators,midea,1050.22,[100129248],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 07:15:13 UTC,appliances.kitchen.refrigerators,midea,1132.56,[2701959],A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,190.5,70.0,67.5
+2020-04-01 05:17:15 UTC,appliances.kitchen.refrigerators,midea,1188.94,[2702556],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.5,59.5,68.2
+2020-04-01 08:35:55 UTC,appliances.kitchen.refrigerators,midea,1286.78,"[100059183, 2700920]",A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,190.5,70.5,67.5
+2020-01-20 05:13:44 UTC,appliances.kitchen.refrigerators,milano,210.54,[2602201],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-03-02 08:13:37 UTC,appliances.kitchen.refrigerators,milano,571.2,[2602204],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-01-12 04:24:58 UTC,appliances.kitchen.refrigerators,milano,594.59,[2602200],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-02-01 16:31:14 UTC,appliances.kitchen.refrigerators,modern,130.22,[25200332],A+,200.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 07:21:55 UTC,appliances.kitchen.refrigerators,mystar,92.41,"[100069943, 100069962]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 04:24:34 UTC,appliances.kitchen.refrigerators,mystar,141.32,"[100069899, 100069875, 100069934, 100069900]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-13 12:31:53 UTC,appliances.kitchen.refrigerators,neo,244.51,[2800599],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-02 17:14:26 UTC,appliances.kitchen.refrigerators,neo,386.08,[1480153],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,60.0
+2020-04-04 12:00:08 UTC,appliances.kitchen.refrigerators,neo,411.83,[1480151],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-01 13:27:29 UTC,appliances.kitchen.refrigerators,neo,494.2,[1480140],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 03:08:17 UTC,appliances.kitchen.refrigerators,neo,519.94,[1480325],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-29 07:14:35 UTC,appliances.kitchen.refrigerators,neo,579.14,"[1480138, 1480141]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,175.0,70.0,67.5
+2020-04-03 02:03:24 UTC,appliances.kitchen.refrigerators,neo,643.49,[1480327],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-02 15:09:45 UTC,appliances.kitchen.refrigerators,neo,664.06,[1480156],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 07:42:57 UTC,appliances.kitchen.refrigerators,neo,942.08,"[1480149, 1480133]",A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,68.0
+2020-04-06 10:11:53 UTC,appliances.kitchen.refrigerators,neo,993.56,[1480137],A++,350.0,Bottom Freezer,Frost Free,False,True,False,True,180.0,70.0,68.0
+2020-04-03 05:41:55 UTC,appliances.kitchen.refrigerators,neo,1014.16,[1480150],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-02 07:27:32 UTC,appliances.kitchen.refrigerators,neo,1145.43,[1480134],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-28 08:07:02 UTC,appliances.kitchen.refrigerators,neo,1235.53,[1480155],A+,340.0,Bottom Freezer,Frost Free,True,False,False,True,190.5,70.0,67.5
+2020-04-15 16:31:39 UTC,appliances.kitchen.refrigerators,neo,1287.03,[2800598],A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,68.0
+2020-04-04 05:51:22 UTC,appliances.kitchen.refrigerators,neo,1389.97,[1480326],A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-04-01 14:43:18 UTC,appliances.kitchen.refrigerators,netechnics,180.16,[100114601],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 16:11:31 UTC,appliances.kitchen.refrigerators,netechnics,257.38,[100114596],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-03 14:38:41 UTC,appliances.kitchen.refrigerators,netechnics,437.59,[100114589],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 12:48:12 UTC,appliances.kitchen.refrigerators,netechnics,579.14,[100114581],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 05:44:42 UTC,appliances.kitchen.refrigerators,netechnics,604.88,[100114575],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-02 12:57:58 UTC,appliances.kitchen.refrigerators,netechnics,643.49,[1480555],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 03:12:10 UTC,appliances.kitchen.refrigerators,netechnics,733.58,[1401872],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,67.5
+2020-04-02 15:11:33 UTC,appliances.kitchen.refrigerators,netechnics,785.07,[1480556],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-01 05:19:49 UTC,appliances.kitchen.refrigerators,netechnics,965.25,[1480557],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,67.5
+2020-04-01 08:44:40 UTC,appliances.kitchen.refrigerators,netechnics,1209.79,[1480558],A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-02 10:23:00 UTC,appliances.kitchen.refrigerators,netechnics,2290.92,[100113807],A++,450.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-01-01 01:55:24 UTC,appliances.kitchen.refrigerators,nokia,89.81,"[1004893, 1003178]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-01 03:35:25 UTC,appliances.kitchen.refrigerators,nokia,205.64,[100022552],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 15:37:20 UTC,appliances.kitchen.refrigerators,nokia,257.38,[1004452],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-02 14:43:10 UTC,appliances.kitchen.refrigerators,nokia,370.2,[1003774],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 04:49:11 UTC,appliances.kitchen.refrigerators,nubia,165.31,[1005063],A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-01-01 17:33:50 UTC,appliances.kitchen.refrigerators,nutrend,18.02,[100008994],B,50.0,Mini Fridge,Manual,False,False,False,False,85.0,49.5,53.5
+2020-01-04 13:19:13 UTC,appliances.kitchen.refrigerators,odeonlight,156.76,"[100063419, 100064143]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 08:24:41 UTC,appliances.kitchen.refrigerators,oneplus,540.55,[1004993],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 00:22:22 UTC,appliances.kitchen.refrigerators,oneplus,743.91,[1004949],A++,350.0,French Door,Frost Free,True,True,False,True,180.0,70.0,75.0
+2020-01-01 00:09:04 UTC,appliances.kitchen.refrigerators,oneplus,1093.98,[100014343],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-01-01 00:46:42 UTC,appliances.kitchen.refrigerators,oppo,566.27,[1004902],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.5
+2020-04-02 08:50:10 UTC,appliances.kitchen.refrigerators,optima,82.11,[2602076],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-03-04 17:54:59 UTC,appliances.kitchen.refrigerators,optima,154.42,[2701981],A+,250.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-02-02 03:19:11 UTC,appliances.kitchen.refrigerators,optima,193.03,"[2800670, 100003580]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-01 12:34:04 UTC,appliances.kitchen.refrigerators,optima,231.67,"[2701982, 100053623]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-06 17:19:38 UTC,appliances.kitchen.refrigerators,optima,252.23,"[100099130, 2701330]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-03-04 14:22:16 UTC,appliances.kitchen.refrigerators,optima,273.24,[2800623],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 07:17:57 UTC,appliances.kitchen.refrigerators,optima,333.53,"[100067767, 100067745]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-03 05:41:57 UTC,appliances.kitchen.refrigerators,optima,374.44,[100150885],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-07 12:37:54 UTC,appliances.kitchen.refrigerators,optima,514.6,[100067831],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,68.0
+2020-02-01 17:45:37 UTC,appliances.kitchen.refrigerators,optima,941.66,[100077666],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,68.0
+2020-04-23 10:54:09 UTC,appliances.kitchen.refrigerators,optima,1840.43,[100217866],A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,67.5
+2020-03-05 13:13:37 UTC,appliances.kitchen.refrigerators,orion,197.8,[2800576],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2019-10-01 11:14:47 UTC,appliances.kitchen.refrigerators,orion,288.16,[2800577],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 08:04:47 UTC,appliances.kitchen.refrigerators,oukitel,115.58,[1005061],A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-02-25 07:31:47 UTC,appliances.kitchen.refrigerators,panasonic,967.61,[2701742],A+,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,68.0
+2020-04-01 07:15:47 UTC,appliances.kitchen.refrigerators,panasonic,1286.78,[2701747],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-02 12:13:29 UTC,appliances.kitchen.refrigerators,panasonic,1315.56,[2701746],A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,178.0,70.0,68.0
+2020-04-13 14:34:57 UTC,appliances.kitchen.refrigerators,panasonic,2129.17,[2701689],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-02-01 04:29:41 UTC,appliances.kitchen.refrigerators,pozis,180.96,"[2700681, 2700390, 2700913]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-02-20 09:01:09 UTC,appliances.kitchen.refrigerators,pozis,204.64,"[2700717, 2800081, 2701435, 2702004, 2700682, 2702354]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 03:20:44 UTC,appliances.kitchen.refrigerators,pozis,232.44,"[2800083, 2800057, 2700275]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 03:48:58 UTC,appliances.kitchen.refrigerators,pozis,257.38,"[2700274, 2701716, 2800359, 2700276, 2701524, 2701016]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-01 08:12:35 UTC,appliances.kitchen.refrigerators,pozis,279.03,"[2701082, 2800162, 2700792, 2700283, 2701017]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 02:36:08 UTC,appliances.kitchen.refrigerators,pozis,303.2,"[2800504, 2701411, 2700964, 2800161, 2700961, 2700976, 2700494, 2700480, 2701066]",A+,250.0,Top Freezer,Manual,False,False,False,True,170.0,60.0,65.0
+2020-04-12 12:33:36 UTC,appliances.kitchen.refrigerators,pozis,324.08,"[2701483, 2700492, 2700968, 2700791, 100027923, 2700973, 2700963]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,60.0
+2020-04-19 10:36:56 UTC,appliances.kitchen.refrigerators,pozis,346.26,"[2700477, 2700534, 2800099, 2800096, 2700284, 2701743, 2702457, 2700969, 2700584, 2701744, 2701815, 2701436]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 12:35:10 UTC,appliances.kitchen.refrigerators,pozis,367.06,"[2702247, 2701715, 2701566, 2700282, 2700910, 2700967, 2701019, 2700938, 2700966, 2702553]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-04 12:33:08 UTC,appliances.kitchen.refrigerators,pozis,387.4,"[2702283, 2800216]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-05 17:42:08 UTC,appliances.kitchen.refrigerators,pozis,415.07,[2800098],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-20 04:50:05 UTC,appliances.kitchen.refrigerators,pozis,440.68,"[2800097, 2702549, 2701581, 2800160]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-22 11:03:35 UTC,appliances.kitchen.refrigerators,pozis,462.71,[2701872],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-02 09:37:53 UTC,appliances.kitchen.refrigerators,pozis,515.21,[2702533],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-02 10:11:17 UTC,appliances.kitchen.refrigerators,pozis,582.42,[2701352],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-24 16:56:13 UTC,appliances.kitchen.refrigerators,pozis,790.5,[2702532],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 05:21:56 UTC,appliances.kitchen.refrigerators,pozis,890.74,[2701343],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 01:50:31 UTC,appliances.kitchen.refrigerators,pulser,152.71,"[100059170, 100029725]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 04:11:55 UTC,appliances.kitchen.refrigerators,pulser,182.39,[100141304],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-03 09:45:29 UTC,appliances.kitchen.refrigerators,pulser,230.02,"[100010084, 100010078, 100034381]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 04:17:41 UTC,appliances.kitchen.refrigerators,pulser,262.89,"[100010073, 100008587]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 01:25:27 UTC,appliances.kitchen.refrigerators,pulser,298.62,[100010164],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-07 10:02:07 UTC,appliances.kitchen.refrigerators,pulser,319.16,"[100010188, 100010064, 100010130, 100082415, 100010161, 100010110]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 02:55:28 UTC,appliances.kitchen.refrigerators,pulser,358.5,"[100057065, 100010151, 100010158, 100051493]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 01:25:55 UTC,appliances.kitchen.refrigerators,pulser,378.61,"[100083471, 100065587, 100008440]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,65.0
+2020-04-01 00:42:00 UTC,appliances.kitchen.refrigerators,pulser,409.51,"[100008570, 100031546, 100010087, 100055454]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 01:24:32 UTC,appliances.kitchen.refrigerators,pulser,455.8,"[100036768, 100008576]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 00:41:20 UTC,appliances.kitchen.refrigerators,pulser,492.08,"[100114445, 100008433, 100058755, 100039522]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 00:41:26 UTC,appliances.kitchen.refrigerators,pulser,523.67,"[100010141, 100120410, 100114452]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-04-01 05:42:40 UTC,appliances.kitchen.refrigerators,pulser,545.72,[100120419],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-04-01 00:07:02 UTC,appliances.kitchen.refrigerators,pulser,580.49,[100008550],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,65.0
+2020-04-01 11:11:07 UTC,appliances.kitchen.refrigerators,pulser,612.3,"[100109567, 1480705, 1480707, 1480706]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-04 09:06:15 UTC,appliances.kitchen.refrigerators,pulser,656.36,[1480709],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 00:28:31 UTC,appliances.kitchen.refrigerators,pulser,697.19,"[100097319, 1480729]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 18:35:21 UTC,appliances.kitchen.refrigerators,pulser,720.71,"[100021126, 100084367]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-15 15:34:05 UTC,appliances.kitchen.refrigerators,pulser,741.34,"[100058771, 100081723]",A++,450.0,French Door,Frost Free,True,True,False,True,180.0,70.0,75.0
+2020-04-01 01:08:57 UTC,appliances.kitchen.refrigerators,pulser,764.95,"[100081399, 1480712]",A+,340.0,Top Freezer,Frost Free,True,False,False,True,170.0,70.0,65.0
+2020-04-01 19:05:25 UTC,appliances.kitchen.refrigerators,pulser,785.07,"[1480744, 1480710, 100132447]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 00:23:26 UTC,appliances.kitchen.refrigerators,pulser,808.23,"[1480713, 100109549, 100181368]",A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,75.0
+2020-04-08 15:45:20 UTC,appliances.kitchen.refrigerators,pulser,833.46,"[100081923, 1480771]",A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-04-01 00:46:03 UTC,appliances.kitchen.refrigerators,pulser,857.46,"[100120426, 1480759, 1480711]",A++,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-03-01 03:22:39 UTC,appliances.kitchen.refrigerators,pulser,900.9,"[100027452, 100181347]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-04 08:50:31 UTC,appliances.kitchen.refrigerators,pulser,926.64,[100007450],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-01 17:44:45 UTC,appliances.kitchen.refrigerators,pulser,952.38,"[1480747, 100109543]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.0
+2020-04-02 05:20:50 UTC,appliances.kitchen.refrigerators,pulser,998.71,"[1480757, 100049804]",A++,450.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,68.0
+2020-04-01 22:47:55 UTC,appliances.kitchen.refrigerators,pulser,1029.6,"[1480734, 1480715]",A++,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,70.0
+2020-04-01 01:09:30 UTC,appliances.kitchen.refrigerators,pulser,1052.07,"[100080350, 100109538, 100055476, 1480714]",A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,67.5
+2020-04-01 01:46:49 UTC,appliances.kitchen.refrigerators,pulser,1078.55,"[100181390, 1480439, 1480746]",A+,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,65.0
+2020-04-01 00:56:51 UTC,appliances.kitchen.refrigerators,pulser,1107.01,[100117174],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,67.5
+2020-04-01 12:06:11 UTC,appliances.kitchen.refrigerators,pulser,1171.18,[1480758],A+,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,65.0
+2020-04-01 04:00:05 UTC,appliances.kitchen.refrigerators,pulser,1211.99,[100082412],A++,500.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-01 02:52:57 UTC,appliances.kitchen.refrigerators,pulser,1236.9,"[100096264, 1480731]",A+,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,67.0
+2020-04-01 01:09:08 UTC,appliances.kitchen.refrigerators,pulser,1273.02,[100091326],A+,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,68.0
+2020-04-01 01:09:21 UTC,appliances.kitchen.refrigerators,pulser,1299.65,[100097597],A++,500.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-02 12:32:42 UTC,appliances.kitchen.refrigerators,pulser,1335.92,"[100081404, 100091305, 1480726]",A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-12 12:20:57 UTC,appliances.kitchen.refrigerators,pulser,1364.23,[1480741],A+,340.0,Top Freezer,Frost Free,True,False,False,True,180.0,70.0,65.0
+2020-04-10 23:30:52 UTC,appliances.kitchen.refrigerators,pulser,1389.97,[1480748],A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 01:05:26 UTC,appliances.kitchen.refrigerators,pulser,1416.86,[100109560],A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,70.0,68.0
+2020-04-01 00:35:58 UTC,appliances.kitchen.refrigerators,pulser,1437.08,[100082254],A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,60.0,65.0
+2020-04-01 01:46:30 UTC,appliances.kitchen.refrigerators,pulser,1518.67,"[1480742, 100132439]",A+,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-02 11:41:27 UTC,appliances.kitchen.refrigerators,pulser,1670.49,[100084688],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 11:21:53 UTC,appliances.kitchen.refrigerators,pulser,1711.73,[1480740],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 00:34:29 UTC,appliances.kitchen.refrigerators,pulser,1819.52,[100084648],A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-22 09:02:06 UTC,appliances.kitchen.refrigerators,pulser,1840.43,"[1480727, 1480638, 100129348]",A+,340.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,67.0
+2020-04-03 11:18:01 UTC,appliances.kitchen.refrigerators,pulser,1936.03,[100112996],A++,450.0,French Door,Frost Free,True,True,False,True,180.0,90.0,70.0
+2020-04-09 11:33:42 UTC,appliances.kitchen.refrigerators,pulser,2033.49,[100084713],A++,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-02 08:14:14 UTC,appliances.kitchen.refrigerators,pulser,2525.15,"[100148821, 100085447]",A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 04:42:38 UTC,appliances.kitchen.refrigerators,remix,75.97,[1401129],B,120.0,Mini Fridge,Manual,False,False,False,False,85.0,55.0,60.0
+2020-04-05 16:52:59 UTC,appliances.kitchen.refrigerators,renova,156.76,"[2800377, 2800556]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2019-11-17 13:25:52 UTC,appliances.kitchen.refrigerators,renova,200.01,[2800375],A+,250.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 06:31:45 UTC,appliances.kitchen.refrigerators,renova,257.15,[2800555],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-03-01 13:29:41 UTC,appliances.kitchen.refrigerators,respect,27.8,"[28714862, 28714869, 28714867, 28709552, 28710841, 28703206, 28703207, 28709555, 28709553]",B,50.0,Mini Fridge,Manual,False,False,False,False,85.0,48.0,52.0
+2020-04-22 13:18:05 UTC,appliances.kitchen.refrigerators,respect,48.39,"[28708251, 28708253, 28708499, 28708250]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-02-01 09:09:04 UTC,appliances.kitchen.refrigerators,rieker,47.62,"[28711930, 28711933, 28711932, 28709658]",B,120.0,Mini Fridge,Manual,False,False,False,False,85.0,55.0,60.0
+2020-04-23 05:39:36 UTC,appliances.kitchen.refrigerators,rieker,76.96,"[100133957, 100133958, 100133952, 100133959, 100133960, 100133961, 28706728, 100232651, 100232684, 100138174, 100138173, 100134741, 100134740, 100134739, 100184145, 100184144, 100184146, 100184151, 100184143, 100184148, 100184149, 28706217, 28706215, 28706214, 100137072, 28706216]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-03 17:35:57 UTC,appliances.kitchen.refrigerators,rieker,97.56,"[100172940, 100172938, 100172939, 100172935, 100172937, 100134735, 100134742]",A+,200.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-02-10 07:38:10 UTC,appliances.kitchen.refrigerators,rika,102.71,"[2601886, 2601548]",A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-02-01 06:29:49 UTC,appliances.kitchen.refrigerators,rika,143.0,"[2600456, 2601686]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-02-01 05:31:01 UTC,appliances.kitchen.refrigerators,rika,166.13,"[2601675, 2600217]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-23 08:37:16 UTC,appliances.kitchen.refrigerators,roison,193.15,[2602211],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-23 15:54:27 UTC,appliances.kitchen.refrigerators,romer,90.09,"[100077021, 100077022, 100076979, 100077935, 100076242, 100076228, 100076974]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-02-01 10:33:48 UTC,appliances.kitchen.refrigerators,sabyrzhanayrin,12.87,"[100036255, 100036253, 100036238, 100036239]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 12:11:52 UTC,appliances.kitchen.refrigerators,samsung,213.62,[1000978],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 03:25:49 UTC,appliances.kitchen.refrigerators,samsung,514.53,[1005174],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-02 07:10:56 UTC,appliances.kitchen.refrigerators,samsung,537.72,"[2701388, 2701306, 2701403, 2701305]",A+,350.0,Bottom Freezer,Frost Free,True,True,False,True,178.0,70.0,68.0
+2020-04-01 05:42:31 UTC,appliances.kitchen.refrigerators,samsung,566.27,"[2700978, 2701588, 2700984]",A+,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 04:26:57 UTC,appliances.kitchen.refrigerators,samsung,643.23,"[1005173, 1005175, 2701286]",A+,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 05:31:41 UTC,appliances.kitchen.refrigerators,samsung,682.1,"[2701994, 2701707, 2701995]",A+,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 02:02:46 UTC,appliances.kitchen.refrigerators,samsung,707.61,"[2701706, 1005185, 1005187, 1005186]",A+,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 01:11:57 UTC,appliances.kitchen.refrigerators,samsung,797.94,[2701977],A+,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 03:17:10 UTC,appliances.kitchen.refrigerators,samsung,823.68,"[2702564, 2702646]",A+,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 04:33:15 UTC,appliances.kitchen.refrigerators,samsung,849.16,"[1005178, 1005179, 1005176]",A+,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 02:31:52 UTC,appliances.kitchen.refrigerators,samsung,875.16,"[2701288, 2701289]",A+,340.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-02 10:38:19 UTC,appliances.kitchen.refrigerators,samsung,926.64,[2702074],A+,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 02:15:20 UTC,appliances.kitchen.refrigerators,samsung,949.83,"[2700120, 2701972]",A+,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-02 18:42:53 UTC,appliances.kitchen.refrigerators,samsung,977.86,"[1005184, 1005183, 1005181]",A+,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 01:13:55 UTC,appliances.kitchen.refrigerators,samsung,1003.6,"[2701333, 2702028]",A++,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 21:06:18 UTC,appliances.kitchen.refrigerators,samsung,1029.34,"[1005182, 2701590, 2701116, 2702557]",A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 08:30:27 UTC,appliances.kitchen.refrigerators,samsung,1055.34,"[100018840, 2701589]",A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 03:49:59 UTC,appliances.kitchen.refrigerators,samsung,1081.08,[2701603],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-08 10:05:10 UTC,appliances.kitchen.refrigerators,samsung,1106.82,[2701367],A++,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 07:05:01 UTC,appliances.kitchen.refrigerators,samsung,1158.31,[100034295],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,72.0
+2020-04-24 18:40:44 UTC,appliances.kitchen.refrigerators,samsung,1183.99,[2702052],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 02:21:52 UTC,appliances.kitchen.refrigerators,samsung,1209.79,"[2701985, 2701728, 2701778]",A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 05:16:45 UTC,appliances.kitchen.refrigerators,samsung,1235.53,[2701780],A++,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 01:40:37 UTC,appliances.kitchen.refrigerators,samsung,1261.27,[2702703],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 03:43:21 UTC,appliances.kitchen.refrigerators,samsung,1467.19,[2702467],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-02 07:47:48 UTC,appliances.kitchen.refrigerators,samsung,1518.67,[2701779],A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,72.5
+2020-01-01 03:44:09 UTC,appliances.kitchen.refrigerators,samsung,1544.16,"[1005216, 2702468]",A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 03:16:27 UTC,appliances.kitchen.refrigerators,samsung,1673.12,[2702469],A++,530.0,French Door,Frost Free,True,True,True,True,177.8,91.4,76.2
+2019-11-04 10:36:29 UTC,appliances.kitchen.refrigerators,samsung,1698.6,[2702473],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-01 00:40:50 UTC,appliances.kitchen.refrigerators,samsung,1776.08,[2702470],A+,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,72.0
+2020-04-08 12:43:05 UTC,appliances.kitchen.refrigerators,samsung,1853.3,[2701776],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-01-30 08:56:22 UTC,appliances.kitchen.refrigerators,scarlett,15.16,"[2601920, 2601832, 2601833, 2601919]",A+,50.0,Mini Fridge,Manual,False,False,False,True,85.0,48.0,52.0
+2020-04-01 02:23:36 UTC,appliances.kitchen.refrigerators,sharp,1621.51,"[100079197, 100079236]",A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 07:21:26 UTC,appliances.kitchen.refrigerators,sharp,1660.12,[100065791],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 08:01:19 UTC,appliances.kitchen.refrigerators,sharp,2033.39,[100065800],A++,500.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2019-12-01 17:21:01 UTC,appliances.kitchen.refrigerators,shivaki,122.01,[2602272],A+,200.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-03-25 09:57:58 UTC,appliances.kitchen.refrigerators,shivaki,168.45,"[2602175, 2701751, 2601819, 2602199, 2701927]",A+,250.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-02 03:39:09 UTC,appliances.kitchen.refrigerators,shivaki,193.03,"[2602180, 100019325]",A+,250.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-01 10:16:57 UTC,appliances.kitchen.refrigerators,shivaki,213.46,"[2701688, 2701845, 2701991, 2702503]",A+,250.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-02-01 03:25:38 UTC,appliances.kitchen.refrigerators,shivaki,238.2,"[2701687, 2702092]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-16 06:01:08 UTC,appliances.kitchen.refrigerators,shivaki,262.53,[2701686],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-02 14:20:43 UTC,appliances.kitchen.refrigerators,siemens,1703.36,[2701729],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-17 19:06:44 UTC,appliances.kitchen.refrigerators,signal,127.88,[16800557],A+,180.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-14 22:42:33 UTC,appliances.kitchen.refrigerators,signal,194.65,[16800556],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-16 15:25:47 UTC,appliances.kitchen.refrigerators,signal,248.65,"[100200429, 16800182]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 05:49:30 UTC,appliances.kitchen.refrigerators,signal,291.28,"[16800471, 16800559]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-14 18:19:15 UTC,appliances.kitchen.refrigerators,signal,355.22,"[16800285, 16800011]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-14 18:48:07 UTC,appliances.kitchen.refrigerators,signal,561.25,[16800201],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-02-14 05:02:46 UTC,appliances.kitchen.refrigerators,simfer,302.54,[2800569],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 02:45:13 UTC,appliances.kitchen.refrigerators,skyworth,127.42,[100021796],A+,200.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 05:15:13 UTC,appliances.kitchen.refrigerators,skyworth,488.79,"[2702101, 2702102]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2019-11-01 13:03:13 UTC,appliances.kitchen.refrigerators,skyworth,723.06,[2701831],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 01:52:50 UTC,appliances.kitchen.refrigerators,skyworth,746.22,[2702063],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 06:42:23 UTC,appliances.kitchen.refrigerators,skyworth,875.16,[100129525],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,75.0
+2019-10-01 04:03:02 UTC,appliances.kitchen.refrigerators,smalvic,675.47,[2701941],A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,67.5
+2020-03-02 15:19:02 UTC,appliances.kitchen.refrigerators,smart,306.44,[1480491],A+,250.0,Top Freezer,Frost Free,False,False,True,True,170.0,60.0,65.0
+2020-04-02 10:44:29 UTC,appliances.kitchen.refrigerators,smart,489.05,"[1480433, 1480435]",A+,350.0,Bottom Freezer,Frost Free,True,True,True,True,180.0,70.0,68.0
+2020-04-02 14:30:28 UTC,appliances.kitchen.refrigerators,smart,526.65,[1480438],A+,350.0,French Door,Frost Free,True,True,True,True,180.0,70.0,75.0
+2020-04-01 18:33:09 UTC,appliances.kitchen.refrigerators,smart,643.49,[1480432],A+,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-02 10:28:12 UTC,appliances.kitchen.refrigerators,smart,781.49,"[1480537, 1480424]",A+,340.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-08 17:18:35 UTC,appliances.kitchen.refrigerators,smart,939.51,[1480544],A+,450.0,French Door,Frost Free,True,True,True,True,180.0,90.0,75.0
+2020-04-02 11:30:35 UTC,appliances.kitchen.refrigerators,smart,1006.59,"[1480479, 1480536]",A++,450.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-04-15 12:56:39 UTC,appliances.kitchen.refrigerators,smart,1544.42,[1480627],A++,500.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 09:31:00 UTC,appliances.kitchen.refrigerators,smart,1885.63,[1480702],A++,450.0,French Door,Frost Free,True,True,True,True,180.0,90.0,70.0
+2020-04-01 08:58:37 UTC,appliances.kitchen.refrigerators,smart,2213.67,[1480434],A++,500.0,French Door,Frost Free,True,True,True,True,178.0,91.0,70.0
+2020-03-01 03:08:45 UTC,appliances.kitchen.refrigerators,smeg,502.32,"[2702466, 2702561]",A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 05:19:18 UTC,appliances.kitchen.refrigerators,smeg,631.97,"[2701171, 2701170]",A++,280.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-05 08:24:38 UTC,appliances.kitchen.refrigerators,smeg,664.88,"[2701147, 2800463]",A++,320.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-03-01 14:37:41 UTC,appliances.kitchen.refrigerators,smeg,807.68,[2702403],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2019-12-07 06:07:06 UTC,appliances.kitchen.refrigerators,smeg,835.84,"[2701146, 2702209, 2701168, 2701163, 2701162, 2701166, 2701160]",A+,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-04 20:04:14 UTC,appliances.kitchen.refrigerators,smeg,860.01,"[2701165, 2701167, 2701849, 2702208, 2702562, 2702188, 2702184, 2702460, 2702461]",A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,60.0,65.0
+2020-02-01 16:17:50 UTC,appliances.kitchen.refrigerators,smeg,894.03,"[2702519, 2702464, 2702539, 2702502, 2702518, 2702189, 2702516, 2702190, 2702595, 2702186, 2702187, 2702185, 2701161]",A++,250.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-06 16:02:51 UTC,appliances.kitchen.refrigerators,smeg,916.92,"[2702462, 2702463]",A++,340.0,French Door,Frost Free,True,True,False,True,182.88,83.82,76.2
+2020-03-04 21:39:51 UTC,appliances.kitchen.refrigerators,smeg,949.02,"[2702465, 2701148, 100077760]",A++,320.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-26 14:57:09 UTC,appliances.kitchen.refrigerators,smeg,978.79,[2702191],A++,350.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-02-03 06:31:06 UTC,appliances.kitchen.refrigerators,smeg,1032.83,"[2701269, 2701263]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 14:25:53 UTC,appliances.kitchen.refrigerators,smeg,1177.49,"[2701173, 2701174]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,66.0
+2020-02-01 17:50:15 UTC,appliances.kitchen.refrigerators,smeg,1235.59,"[2701176, 2701164, 2701151, 2701156, 2701279]",A++,350.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-03-05 07:54:18 UTC,appliances.kitchen.refrigerators,smeg,1277.66,"[2702368, 2701149]",A++,340.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-03-02 17:28:13 UTC,appliances.kitchen.refrigerators,smeg,1307.1,"[2702386, 2702374, 2702373, 2702393, 2702382, 2702376, 2702387, 2702383, 2702377, 2702381]",A++,350.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-04-25 20:07:28 UTC,appliances.kitchen.refrigerators,smeg,1354.78,"[2702380, 2702388, 2702389, 2702391, 2702372, 2702379, 2702390]",A++,350.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,60.0,65.0
+2020-04-01 12:05:31 UTC,appliances.kitchen.refrigerators,smeg,1378.66,"[2701278, 2702394]",A++,350.0,French Door,Frost Free,True,True,False,True,182.88,91.44,73.66
+2020-03-02 06:55:23 UTC,appliances.kitchen.refrigerators,smeg,1402.51,"[2702375, 2702007, 2702392, 2702371]",A++,340.0,French Door,Frost Free,True,True,False,True,182.88,83.82,76.2
+2020-03-01 05:42:08 UTC,appliances.kitchen.refrigerators,smeg,1431.35,"[2701978, 2800281, 2800280, 2800277, 2800278, 2800282]",A++,340.0,Bottom Freezer,Frost Free,True,True,False,True,182.0,60.0,64.5
+2020-03-01 07:31:25 UTC,appliances.kitchen.refrigerators,smeg,1455.22,"[2702404, 2702378, 2702361]",A++,320.0,French Door,Frost Free,True,True,False,True,182.88,83.82,76.2
+2020-04-21 15:43:11 UTC,appliances.kitchen.refrigerators,smeg,1484.93,[2800279],A++,350.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-03-01 04:04:53 UTC,appliances.kitchen.refrigerators,smeg,1541.76,"[2702210, 2701177]",A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 05:32:59 UTC,appliances.kitchen.refrigerators,smeg,1567.21,[2800558],A++,340.0,Bottom Freezer,Frost Free,True,False,False,True,182.0,60.0,64.5
+2020-02-08 07:55:12 UTC,appliances.kitchen.refrigerators,smeg,1672.78,"[2701230, 2702423]",A++,350.0,French Door,Frost Free,True,True,False,True,182.88,83.82,76.2
+2020-03-01 07:26:47 UTC,appliances.kitchen.refrigerators,smeg,1695.94,[2702385],A++,350.0,French Door,Frost Free,True,True,False,True,182.0,79.5,76.0
+2020-02-02 10:20:27 UTC,appliances.kitchen.refrigerators,smeg,1758.13,"[2701257, 2701223, 2701233, 2701232, 2701227, 2701222, 2701215, 2701221, 2701231, 2701226, 2701218, 2701216]",A++,340.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-03-04 15:22:22 UTC,appliances.kitchen.refrigerators,smeg,1803.13,"[2701228, 2701219, 2701220, 2701214, 2701229, 2701217, 2701225]",A++,340.0,French Door,Frost Free,True,True,False,True,182.88,83.82,76.2
+2020-02-01 04:40:44 UTC,appliances.kitchen.refrigerators,smeg,1830.25,"[2701234, 2701224]",A++,340.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-03-01 04:08:47 UTC,appliances.kitchen.refrigerators,smeg,1856.08,[2702384],A++,350.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-03-01 12:19:27 UTC,appliances.kitchen.refrigerators,smeg,1929.69,[2800549],A++,320.0,Bottom Freezer,Frost Free,True,False,False,True,180.0,60.0,65.0
+2020-03-10 14:02:37 UTC,appliances.kitchen.refrigerators,smeg,1962.23,[2702517],A++,320.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-03-01 16:51:57 UTC,appliances.kitchen.refrigerators,smeg,2187.31,"[2701291, 2702513, 2702515, 2702435, 2702437, 2702425, 2702428, 2702512, 2702432, 2702429, 2702438, 2702440]",A++,350.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-04-09 13:54:47 UTC,appliances.kitchen.refrigerators,smeg,2259.5,"[2702430, 2702436, 2702426, 2702433, 2702514, 2702439, 2702434, 2702431, 2702511, 2702442, 2702427]",A++,320.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-04-03 09:24:06 UTC,appliances.kitchen.refrigerators,smeg,2302.64,[2701282],A++,340.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-04-16 07:07:09 UTC,appliances.kitchen.refrigerators,smeg,2362.43,[2701294],A++,340.0,French Door,Frost Free,True,True,False,True,182.88,91.44,76.2
+2020-03-01 06:57:12 UTC,appliances.kitchen.refrigerators,smeg,2440.56,[2701290],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2019-10-21 11:57:48 UTC,appliances.kitchen.refrigerators,snez,301.14,[2800676],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-03-18 08:17:10 UTC,appliances.kitchen.refrigerators,snez,396.38,[100021583],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-07 14:11:07 UTC,appliances.kitchen.refrigerators,snowcap,214.42,[2800492],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-03 06:52:57 UTC,appliances.kitchen.refrigerators,snowcap,312.23,[2800464],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-01-01 04:41:49 UTC,appliances.kitchen.refrigerators,sony,205.64,[1004733],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-19 06:07:08 UTC,appliances.kitchen.refrigerators,sony,282.89,[1004394],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 05:59:29 UTC,appliances.kitchen.refrigerators,spur,31.92,"[28706378, 28702112, 28706376, 28706377, 28706379, 28702110, 28702111, 28702109]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 08:11:42 UTC,appliances.kitchen.refrigerators,stinol,252.49,"[2702055, 2702022]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 05:15:28 UTC,appliances.kitchen.refrigerators,stinol,280.29,"[2702016, 2702021]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 04:04:53 UTC,appliances.kitchen.refrigerators,sv,120.72,"[16800040, 16800031, 16800025, 16800039, 16800028]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 01:05:37 UTC,appliances.kitchen.refrigerators,sv,221.11,"[16800029, 16800030]",A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-22 15:51:18 UTC,appliances.kitchen.refrigerators,tecno,118.15,"[100056964, 100056993]",A+,150.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-25 03:38:52 UTC,appliances.kitchen.refrigerators,teka,239.08,[100217916],A+,300.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 11:40:08 UTC,appliances.kitchen.refrigerators,teka,724.65,[2800495],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.0,60.0,65.0
+2019-10-01 05:47:30 UTC,appliances.kitchen.refrigerators,teka,779.02,[2701922],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.0,60.0,65.0
+2020-04-01 12:17:46 UTC,appliances.kitchen.refrigerators,teka,946.32,"[2701926, 2701883]",A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.0,70.0,68.0
+2020-03-04 08:38:06 UTC,appliances.kitchen.refrigerators,teka,989.71,[2701923],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,60.0,65.0
+2020-04-01 01:08:27 UTC,appliances.kitchen.refrigerators,teka,1071.46,[2702510],A++,350.0,Bottom Freezer,Frost Free,False,False,False,True,190.5,70.0,68.5
+2020-04-01 14:24:48 UTC,appliances.kitchen.refrigerators,teka,1227.65,[2701881],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,190.0,60.0,68.0
+2020-04-01 06:53:03 UTC,appliances.kitchen.refrigerators,teka,1398.16,[2701937],A++,350.0,Bottom Freezer,Frost Free,True,True,False,True,190.5,70.0,68.5
+2020-03-16 17:22:59 UTC,appliances.kitchen.refrigerators,terra,110.92,"[2601993, 2601381, 2601723, 2601611, 2601994]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-02-02 03:28:18 UTC,appliances.kitchen.refrigerators,terra,150.58,"[2601996, 2601991, 2601992]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-03-02 09:02:17 UTC,appliances.kitchen.refrigerators,uta,669.26,[16800255],A+,340.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-24 12:54:59 UTC,appliances.kitchen.refrigerators,vasin,183.51,[2800529],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-03-06 14:38:25 UTC,appliances.kitchen.refrigerators,vasin,404.1,"[2800642, 2800298]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,65.0
+2020-04-03 11:10:14 UTC,appliances.kitchen.refrigerators,vectron,257.15,[1480391],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-02 18:05:22 UTC,appliances.kitchen.refrigerators,vectron,1415.48,[1480388],A++,450.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 19:46:48 UTC,appliances.kitchen.refrigerators,vista,283.15,[100060921],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-03-02 17:21:11 UTC,appliances.kitchen.refrigerators,vista,424.72,[100062239],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-02-01 13:45:41 UTC,appliances.kitchen.refrigerators,vista,463.33,[100016343],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,65.0
+2020-04-01 08:33:01 UTC,appliances.kitchen.refrigerators,vivo,411.59,"[1004932, 1005244]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 01:43:48 UTC,appliances.kitchen.refrigerators,whirlpool,509.64,"[2702024, 2702023]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,68.0
+2020-04-01 06:35:56 UTC,appliances.kitchen.refrigerators,whirlpool,540.53,"[2702222, 2701734]",A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 05:30:00 UTC,appliances.kitchen.refrigerators,whirlpool,602.31,[2702285],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-28 04:35:04 UTC,appliances.kitchen.refrigerators,whirlpool,646.07,[2702141],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0
+2020-04-02 15:13:44 UTC,appliances.kitchen.refrigerators,whirlpool,696.11,[2702134],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-04-01 07:19:23 UTC,appliances.kitchen.refrigerators,whirlpool,803.08,[2701903],A+,350.0,Top Freezer,Frost Free,True,False,False,True,170.0,70.0,67.0
+2020-04-02 18:06:04 UTC,appliances.kitchen.refrigerators,whirlpool,831.14,[2701323],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,70.0
+2020-03-12 09:37:52 UTC,appliances.kitchen.refrigerators,whirlpool,859.71,[2702346],A+,350.0,Bottom Freezer,Frost Free,False,False,False,True,175.0,70.0,67.5
+2020-04-03 16:57:33 UTC,appliances.kitchen.refrigerators,whirlpool,882.88,[2702424],A+,340.0,Bottom Freezer,Frost Free,True,False,False,True,177.8,91.44,73.66
+2019-11-19 05:17:30 UTC,appliances.kitchen.refrigerators,whirlpool,913.77,[2702139],A+,400.0,French Door,Frost Free,True,True,False,True,178.0,91.0,75.0
+2020-03-07 14:59:45 UTC,appliances.kitchen.refrigerators,whirlpool,942.08,[2702136],A+,350.0,Bottom Freezer,Frost Free,True,True,False,True,180.0,70.0,68.0
+2020-04-01 08:03:35 UTC,appliances.kitchen.refrigerators,whirlpool,978.12,[2701717],A++,350.0,French Door,Frost Free,True,True,False,True,180.0,80.0,75.0
+2020-04-01 12:23:47 UTC,appliances.kitchen.refrigerators,whirlpool,1009.01,[2701944],A+,350.0,French Door,Frost Free,True,True,False,True,177.8,90.2,70.5
+2020-04-01 11:19:33 UTC,appliances.kitchen.refrigerators,whirlpool,1111.97,[2702276],A+,340.0,French Door,Frost Free,True,True,False,True,177.8,91.4,73.7
+2020-03-01 17:32:39 UTC,appliances.kitchen.refrigerators,whirlpool,1228.57,[2700836],A+,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,75.0
+2020-04-01 11:14:17 UTC,appliances.kitchen.refrigerators,whirlpool,1286.75,[2701866],A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 01:52:22 UTC,appliances.kitchen.refrigerators,whirlpool,1449.18,[2702099],A++,340.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-04 19:26:21 UTC,appliances.kitchen.refrigerators,whirlpool,1544.42,[2702558],A++,350.0,French Door,Frost Free,True,True,False,True,178.0,91.0,70.0
+2020-04-01 14:51:12 UTC,appliances.kitchen.refrigerators,whirlpool,1867.05,[2701976],A+,350.0,French Door,Frost Free,True,True,True,True,178.0,91.0,75.0
+2020-04-03 07:02:32 UTC,appliances.kitchen.refrigerators,wibtek,206.09,[1400368],A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-03 08:27:04 UTC,appliances.kitchen.refrigerators,wibtek,252.41,[1401263],A+,340.0,Top Freezer,Frost Free,False,False,False,True,170.0,70.0,67.5
+2020-01-02 08:10:34 UTC,appliances.kitchen.refrigerators,willmark,13.09,"[2601727, 2601726]",B,50.0,Mini Fridge,Manual,False,False,False,False,85.0,48.0,45.0
+2020-04-30 17:02:15 UTC,appliances.kitchen.refrigerators,willmark,162.14,"[2800606, 2800607]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-02-12 12:09:09 UTC,appliances.kitchen.refrigerators,willmark,231.64,[2800608],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 04:54:17 UTC,appliances.kitchen.refrigerators,xiaomi,74.39,[1004669],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-01 02:37:13 UTC,appliances.kitchen.refrigerators,xiaomi,97.56,[1005103],A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-03 06:48:52 UTC,appliances.kitchen.refrigerators,xiaomi,125.87,"[1003440, 1004791]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-04-01 09:31:40 UTC,appliances.kitchen.refrigerators,xiaomi,166.26,"[1003484, 1004404]",A+,120.0,Mini Fridge,Manual,False,False,False,True,85.0,55.0,60.0
+2020-01-01 01:32:15 UTC,appliances.kitchen.refrigerators,xiaomi,186.89,"[1003883, 1005224, 1004205]",A+,210.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-01-01 02:18:26 UTC,appliances.kitchen.refrigerators,xiaomi,231.41,[1004776],A+,210.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-01-01 00:03:33 UTC,appliances.kitchen.refrigerators,xiaomi,279.9,"[1005283, 2701712]",A++,210.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 02:02:34 UTC,appliances.kitchen.refrigerators,xiaomi,344.9,"[1004080, 1005033]",A+,250.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 01:07:02 UTC,appliances.kitchen.refrigerators,xiaomi,406.13,[1004184],A+,350.0,Top Freezer,Frost Free,False,False,True,True,180.0,60.0,67.0
+2020-01-01 02:10:06 UTC,appliances.kitchen.refrigerators,xiaomi,553.42,[1004213],A++,350.0,Top Freezer,Frost Free,False,False,True,True,170.0,60.0,65.0
+2020-04-14 06:33:54 UTC,appliances.kitchen.refrigerators,xing,142.06,[2800572],A+,200.0,Top Freezer,Manual,False,False,False,True,150.0,60.0,65.0
+2020-04-01 01:17:58 UTC,appliances.kitchen.refrigerators,xing,195.6,[2800596],A+,250.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-01 06:46:53 UTC,appliances.kitchen.refrigerators,xing,229.07,"[2800546, 2800494]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-02-25 12:05:54 UTC,appliances.kitchen.refrigerators,xing,258.15,"[2800486, 2800571, 2800415]",A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,60.0,65.0
+2020-04-01 07:55:09 UTC,appliances.kitchen.refrigerators,xing,285.7,[2800551],A+,350.0,Top Freezer,Frost Free,False,False,False,True,170.0,60.0,65.0
+2020-04-01 11:32:59 UTC,appliances.kitchen.refrigerators,zanussi,725.35,[2701569],A++,340.0,Bottom Freezer,Frost Free,False,False,False,True,185.0,59.5,66.8
+2020-04-07 09:29:34 UTC,appliances.kitchen.refrigerators,zeta,141.57,[100061106],A+,200.0,Top Freezer,Frost Free,False,False,False,True,150.0,60.0,65.0
+2020-04-02 07:29:39 UTC,appliances.kitchen.refrigerators,zeta,226.52,[100057565],A+,350.0,Top Freezer,Frost Free,False,False,False,True,180.0,70.0,65.0

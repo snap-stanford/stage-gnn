@@ -1,0 +1,632 @@
+event_time,category_code,brand,price,product_id,type,material,bed_frame_included,headboard_included,footboard_included,mattress_included,box_spring_required,weight_capacity_lbs,bed_size_length_inches,bed_size_width_inches,bed_size_height_inches
+2020-04-01 12:26:51 UTC,furniture.bedroom.bed,a-mega,59.2,"[15200089, 100056403]",Twin,Particle Board,True,False,False,False,False,250.0,74.5,38.5,12.0
+2020-04-28 07:50:42 UTC,furniture.bedroom.bed,a-mega,85.31,"[15200023, 15200368, 15200369, 15200025]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-03 16:05:47 UTC,furniture.bedroom.bed,a-mega,116.94,[15200036],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:42:37 UTC,furniture.bedroom.bed,a-mega,172.46,[15200014],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 07:26:20 UTC,furniture.bedroom.bed,a-mega,193.06,"[15200026, 15200035]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 08:32:46 UTC,furniture.bedroom.bed,a-mega,231.67,[15200062],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 06:19:56 UTC,furniture.bedroom.bed,akom,64.35,"[15200281, 15200047, 100137373, 15200016, 15200236, 100009859, 100094358, 15200222, 15200718, 15200046, 15200237, 15200017, 100009850]",Twin,Particle Board,True,False,False,False,True,250.0,75.0,39.0,16.0
+2020-04-01 06:59:13 UTC,furniture.bedroom.bed,akom,102.96,"[15200278, 100009866, 15200015]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-03-04 06:37:24 UTC,furniture.bedroom.bed,akom,231.67,[15200050],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 12:08:45 UTC,furniture.bedroom.bed,alphaline,61.01,"[15201196, 15201195]",Twin,Particle Board,True,False,False,False,False,200.0,74.5,38.0,12.0
+2020-04-15 09:35:31 UTC,furniture.bedroom.bed,alphaline,84.94,"[15201210, 15201211, 15201198, 15201197]",Twin,Particle Board,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-04-17 02:19:06 UTC,furniture.bedroom.bed,alphaline,107.34,"[15201204, 15201205, 15201206]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,12.0
+2020-04-13 12:48:27 UTC,furniture.bedroom.bed,alphaline,131.79,[15201207],Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-04 17:41:19 UTC,furniture.bedroom.bed,amega,108.11,[100081351],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-09 12:41:45 UTC,furniture.bedroom.bed,amega,172.46,[100139603],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-09 12:42:02 UTC,furniture.bedroom.bed,amega,193.06,[100139611],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-20 05:28:56 UTC,furniture.bedroom.bed,amova,327.94,[100195027],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-10 16:10:26 UTC,furniture.bedroom.bed,amova,1106.85,[100195028],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-12-12 07:35:02 UTC,furniture.bedroom.bed,antel,167.29,[100040536],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-01 13:28:40 UTC,furniture.bedroom.bed,aquamarine,5.15,"[100073920, 100074184, 100073914, 100074150, 100073908, 100073903, 100073892, 100073900, 100073915, 100073902, 100073912, 100073895, 100073898, 100080457, 100073913, 100073894, 100073918, 100073905, 100073899, 100073906, 100073932, 100073893, 100144545, 100073931, 100073901, 100073909, 26601567, 100073916, 26601518, 100074181, 26601513, 26601515, 26601511, 100073911, 26601495, 26601500, 100153472, 26601496, 26601494, 26601499, 100152352, 100144899, 100151931, 100152347, 26601498, 100142790, 100073904, 26601505, 26601583, 26601568, 100073928]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-04-09 08:35:22 UTC,furniture.bedroom.bed,aquarodos,134.11,"[100122827, 100122811]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-09 06:19:28 UTC,furniture.bedroom.bed,aquarodos,157.02,"[100122835, 100122840]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-06 05:08:14 UTC,furniture.bedroom.bed,aquarodos,180.96,"[100122807, 100122834, 100122837]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-02 11:45:34 UTC,furniture.bedroom.bed,aquarodos,201.55,"[100122825, 100180894, 100122838]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-06 05:08:57 UTC,furniture.bedroom.bed,aquarodos,232.95,[100122809],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-04 03:36:14 UTC,furniture.bedroom.bed,aquarodos,283.66,"[100122828, 100122830, 100122843]",Queen,Wood,True,True,True,False,False,450.0,80.0,60.0,50.0
+2020-04-02 16:13:05 UTC,furniture.bedroom.bed,aquarodos,348.53,"[100122841, 100122844]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 14:38:17 UTC,furniture.bedroom.bed,aquarodos,371.7,[100122845],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 08:02:01 UTC,furniture.bedroom.bed,aquarodos,401.81,[100122846],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-04 02:38:42 UTC,furniture.bedroom.bed,aquarodos,669.26,"[100133830, 100118572]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-04 02:36:33 UTC,furniture.bedroom.bed,aquarodos,694.48,[100118428],Queen,Wood,True,True,True,False,False,550.0,80.0,60.0,50.0
+2020-04-02 12:00:57 UTC,furniture.bedroom.bed,aquarodos,720.48,"[100118547, 100118487]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-04 02:35:41 UTC,furniture.bedroom.bed,aquarodos,745.45,[100118453],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-04 03:29:09 UTC,furniture.bedroom.bed,aquarodos,836.06,[100118526],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 10:22:33 UTC,furniture.bedroom.bed,aquarodos,882.91,[100118626],Queen,Wood,True,True,True,False,False,550.0,80.0,60.0,50.0
+2020-04-04 19:51:44 UTC,furniture.bedroom.bed,aquarodos,962.44,[100118931],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-05 18:49:20 UTC,furniture.bedroom.bed,aquarodos,982.52,[100118824],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 19:25:54 UTC,furniture.bedroom.bed,aquarodos,1005.43,[100118582],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 06:13:37 UTC,furniture.bedroom.bed,aquarodos,1033.49,"[100118662, 100118855]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-03 13:02:11 UTC,furniture.bedroom.bed,aquarodos,1309.94,[100118477],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 11:45:50 UTC,furniture.bedroom.bed,aquarodos,1355.25,[100118462],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:59:46 UTC,furniture.bedroom.bed,ara,154.19,"[100184126, 100184125, 100184128, 100184127]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-04 01:29:17 UTC,furniture.bedroom.bed,arctic,87.39,"[100106664, 100106670, 100106680, 100106683]",Twin,Metal,True,False,False,False,False,250.0,74.5,38.5,18.0
+2020-04-13 12:19:32 UTC,furniture.bedroom.bed,arctic,123.68,"[100106697, 100106693]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-28 10:53:32 UTC,furniture.bedroom.bed,askona,192.65,"[13500363, 13500362]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-13 09:01:10 UTC,furniture.bedroom.bed,askona,294.82,"[100197533, 100174746, 100181435, 100197749]",Queen,Upholstered,True,True,False,False,False,550.0,80.0,60.0,14.0
+2020-04-01 01:52:28 UTC,furniture.bedroom.bed,askona,336.12,[100104637],Queen,Upholstered,True,True,False,False,False,500.0,80.0,60.0,14.0
+2019-10-07 12:36:42 UTC,furniture.bedroom.bed,askona,364.29,[13201279],Queen,Upholstered,True,True,False,False,False,550.0,80.0,60.0,50.0
+2020-04-01 01:51:53 UTC,furniture.bedroom.bed,askona,390.95,[100104174],Queen,Upholstered,True,True,False,False,False,550.0,80.0,60.0,50.0
+2020-04-29 20:35:36 UTC,furniture.bedroom.bed,askona,418.88,"[100197486, 100197460]",Queen,Upholstered,True,True,False,False,False,550.0,80.0,60.0,50.0
+2020-04-02 12:19:58 UTC,furniture.bedroom.bed,askona,503.16,[100104607],Queen,Upholstered,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-28 10:21:12 UTC,furniture.bedroom.bed,askona,578.45,[13201174],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-28 10:32:10 UTC,furniture.bedroom.bed,askona,716.42,[13201173],Queen,Upholstered,True,True,False,False,False,500.0,80.0,60.0,14.0
+2020-03-14 20:44:55 UTC,furniture.bedroom.bed,askona,748.85,[13201175],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 04:16:02 UTC,furniture.bedroom.bed,askona,1228.17,"[100174767, 100164941]",Queen,Upholstered,True,True,False,False,False,550.0,80.0,60.0,50.0
+2020-04-01 01:47:27 UTC,furniture.bedroom.bed,askona,2422.9,[100151518],Queen,Upholstered,True,True,False,False,False,550.0,80.0,60.0,50.0
+2020-01-04 08:05:09 UTC,furniture.bedroom.bed,ast,6.69,[100049072],Twin,Particle Board,True,False,False,False,False,200.0,75.0,39.0,15.0
+2020-03-05 16:39:42 UTC,furniture.bedroom.bed,atlant,38.61,"[100150755, 100110369]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-01 12:29:33 UTC,furniture.bedroom.bed,atlant,61.78,"[15200850, 100150808]",Twin,Particle Board,True,False,False,False,False,200.0,75.0,39.0,14.0
+2020-04-02 14:43:30 UTC,furniture.bedroom.bed,autojet,51.48,"[15200212, 15200213, 15200083]",Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-04 07:56:12 UTC,furniture.bedroom.bed,autojet,87.52,[15201228],Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-01 08:44:21 UTC,furniture.bedroom.bed,autopower,66.93,[100065504],Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-01 02:42:52 UTC,furniture.bedroom.bed,autopower,90.09,[15200421],Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-01 22:50:11 UTC,furniture.bedroom.bed,autopower,114.55,[15200424],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:56:38 UTC,furniture.bedroom.bed,baden,27.8,[100075639],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,11.0
+2020-04-01 00:50:45 UTC,furniture.bedroom.bed,baden,51.22,"[100072685, 100072683, 100072675, 100072694, 100072665, 100072889, 100072696, 100072880, 100072661, 100072667, 100072659, 100072657, 100072884, 100072671, 100072673, 100072888, 100072885, 100072660, 100072658, 100072679, 100101609, 100101617, 100101627, 100101632, 100101244, 100101250, 100101261, 100101622, 100101252, 100101247]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-02-11 17:43:23 UTC,furniture.bedroom.bed,bambini,58.5,"[7101605, 7101799, 7101673, 7101921, 7101738, 7101739, 7101492, 7101917, 7101460, 7101428]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2019-11-26 08:25:54 UTC,furniture.bedroom.bed,bambini,80.75,"[7101607, 7101610, 7101781, 7101606, 7101708, 7101591, 7101582, 7101431, 7101920, 7101497, 7101780]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2019-10-01 19:59:21 UTC,furniture.bedroom.bed,bambini,100.95,"[7101514, 7101601, 7101594, 7101613, 7101593, 7101427, 7101504]",Twin,Wood,True,True,False,False,False,250.0,75.0,39.0,36.0
+2019-10-01 14:15:23 UTC,furniture.bedroom.bed,bambini,121.11,"[7101502, 7101496, 7101653, 7101574, 7101429, 7101919, 7101588, 7101734, 7101735]",Twin,Wood,True,True,False,False,False,250.0,75.0,39.0,35.0
+2019-10-02 02:26:12 UTC,furniture.bedroom.bed,bambini,143.38,"[7101671, 7101662, 7101676, 7101741, 7101983, 7101600, 7101680, 7101681]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-04-21 23:38:25 UTC,furniture.bedroom.bed,bambini,164.74,[7101432],Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-02-01 05:52:15 UTC,furniture.bedroom.bed,bauer,298.83,[100042786],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-09 16:54:37 UTC,furniture.bedroom.bed,bianca,154.44,[100195018],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-20 19:26:09 UTC,furniture.bedroom.bed,borovici,392.44,[100029958],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-03 14:55:43 UTC,furniture.bedroom.bed,bosch,46.03,"[15200594, 15200989, 15200101, 15201336, 15201305]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-01 03:46:42 UTC,furniture.bedroom.bed,bosch,68.04,"[15200595, 15200288, 15200604, 15200987, 15200560, 15200607, 15200605, 15201302, 15201309]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-01 07:56:48 UTC,furniture.bedroom.bed,bosch,90.48,"[15200990, 15201307, 15201315, 15200838, 15200599, 15201308, 15201320, 15201237, 15201312, 15200597, 15200282]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-01 02:37:56 UTC,furniture.bedroom.bed,bosch,113.26,"[15200243, 15200038, 15200246, 15201313, 15200759, 15201321, 15201301, 15200559, 15200988, 15200093, 15200276]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-01 14:55:51 UTC,furniture.bedroom.bed,bosch,138.56,"[15200470, 15200271, 15200555, 15200081, 15200547, 15201227, 15201323]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-03-23 21:03:23 UTC,furniture.bedroom.bed,bosch,159.85,"[48600054, 15200538, 15200270, 15201306]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-04 06:16:55 UTC,furniture.bedroom.bed,bosch,179.95,"[15200039, 100034367, 100040258, 15201314, 15201303, 15200264]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-27 17:17:13 UTC,furniture.bedroom.bed,bosch,202.65,"[48600050, 15200068, 15200563, 15200612]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-02 03:51:35 UTC,furniture.bedroom.bed,bosch,243.58,"[15200608, 15201311, 15200609, 15200454]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-04 15:21:28 UTC,furniture.bedroom.bed,bosch,271.38,"[15200041, 15200285]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-02 16:15:38 UTC,furniture.bedroom.bed,bosch,310.66,[15201304],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-03 20:08:43 UTC,furniture.bedroom.bed,bosch,336.32,[15200279],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 08:06:23 UTC,furniture.bedroom.bed,bosch,375.0,[15200944],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-01 07:05:46 UTC,furniture.bedroom.bed,bosch,414.14,"[15201310, 15200611]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 04:07:45 UTC,furniture.bedroom.bed,bosch,470.26,[15200045],Queen,Wood,True,True,True,False,False,550.0,80.0,60.0,50.0
+2020-03-15 10:57:33 UTC,furniture.bedroom.bed,botas,85.48,[20000194],Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2019-10-01 05:30:53 UTC,furniture.bedroom.bed,brevi,154.44,"[7101980, 7101981]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-02-04 09:02:47 UTC,furniture.bedroom.bed,brw,15.44,"[13500229, 13500181, 13500373]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-03 16:15:51 UTC,furniture.bedroom.bed,brw,41.44,"[13500074, 13500095, 13500200, 13500045, 13500100, 13500058, 13500062, 13500044, 13500075, 13500092, 13500090, 13500088, 100110879, 100029296, 13500086, 13500057, 13500085]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-04-01 10:19:05 UTC,furniture.bedroom.bed,brw,63.06,"[13500184, 13500084, 13500091, 13500083, 13500279, 13500052, 13500355, 13500198, 13500038, 13500291, 13500427, 13500292, 13200293, 13500235, 13500369, 13500069, 13200215, 13500367, 13500368]",Twin,Particle Board,True,False,False,False,False,220.0,75.0,39.0,14.0
+2020-04-02 10:40:01 UTC,furniture.bedroom.bed,brw,87.0,"[13500049, 13500098, 100091285, 13200399, 13200400, 13500239, 13500286, 13500240, 13200236, 13201247, 13200099]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-02-09 08:17:14 UTC,furniture.bedroom.bed,brw,107.08,"[13200492, 13500370, 13201051, 13200577, 13500190, 13200142]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-01 05:50:44 UTC,furniture.bedroom.bed,brw,129.73,"[100114327, 13200164, 13200206, 13200135, 13200098, 13200403, 13201054, 100154863, 13200414]",Queen,Wood,True,False,False,False,False,500.0,80.0,60.0,12.0
+2020-04-02 03:44:23 UTC,furniture.bedroom.bed,brw,150.58,"[13200101, 13200159, 13200723, 13200484, 13200486, 13200247, 13200197, 13201033, 13200561, 13200578, 13201192, 13200179]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 04:58:53 UTC,furniture.bedroom.bed,brw,173.23,"[13200276, 13200214, 100114311, 13200146, 13200193, 13201198, 13200207, 13201196]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-02-01 13:31:59 UTC,furniture.bedroom.bed,brw,196.14,"[13201358, 13200444, 13200281, 13201189, 13200602, 13200163, 13200601, 13200407, 100116055, 13200280, 13200401, 13200208, 13200757, 13201187, 13201246, 13200493, 13200520, 13200685, 13200537, 13201354, 100071941, 100029308, 13201285, 13201302, 13200194]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 18:24:56 UTC,furniture.bedroom.bed,brw,218.54,"[13200145, 13200235, 13201314, 13200304, 13201321, 13201053, 13200160, 13200548, 13200198, 13200195, 13201025, 13201286]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 16:31:15 UTC,furniture.bedroom.bed,brw,238.87,"[13200190, 13201026, 13200199, 13201032, 13200538, 13200196, 13201194, 13200191, 13200552, 100189922]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-02 04:19:22 UTC,furniture.bedroom.bed,brw,260.24,"[13200402, 13201193, 13201191, 13200289, 13200180, 13200409, 13200600, 13201320, 13200192, 13200992]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 04:50:02 UTC,furniture.bedroom.bed,brw,280.32,"[13201180, 13201121, 13200592, 13200452, 13201181, 13201195, 13200178]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 06:27:59 UTC,furniture.bedroom.bed,brw,300.91,"[13201197, 13201031, 100194824, 13200704, 13200149, 13201179]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 10:39:33 UTC,furniture.bedroom.bed,brw,334.11,"[13200706, 13200519]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-21 12:41:23 UTC,furniture.bedroom.bed,brw,372.98,"[13200148, 13200415, 13201186]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 03:38:23 UTC,furniture.bedroom.bed,brw,398.7,[13201190],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 06:57:42 UTC,furniture.bedroom.bed,brw,423.69,"[13201365, 13200783, 13200405]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:25:30 UTC,furniture.bedroom.bed,brw,447.63,[13201178],Queen,Wood,True,True,True,False,False,500.0,83.0,63.0,50.0
+2020-04-01 10:23:56 UTC,furniture.bedroom.bed,brw,514.56,"[13201188, 13200404, 13201284, 13201248]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 01:48:06 UTC,furniture.bedroom.bed,brw,596.93,"[13200392, 13200396]",Queen,Wood,True,True,False,False,True,550.0,80.0,60.0,50.0
+2020-04-01 16:09:55 UTC,furniture.bedroom.bed,bts,40.9,"[13500289, 13500288, 13500030]",Twin,Particle Board,True,False,False,False,False,200.0,75.0,39.0,15.0
+2020-04-08 10:32:50 UTC,furniture.bedroom.bed,bts,101.39,"[13200946, 13200703]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 01:14:56 UTC,furniture.bedroom.bed,bts,123.3,"[13200969, 13200989]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-02 19:18:26 UTC,furniture.bedroom.bed,bts,155.18,"[13201011, 13200947, 13200379, 13200378, 13201162, 13200979, 13200381, 13200980, 13200380, 13200377]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 03:13:06 UTC,furniture.bedroom.bed,bts,203.07,"[13200667, 100159819]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 05:05:40 UTC,furniture.bedroom.bed,bts,246.83,"[13200702, 100113454]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-01 07:46:31 UTC,furniture.bedroom.bed,bts,409.25,[100085177],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-12 14:35:01 UTC,furniture.bedroom.bed,bunchems,25.29,"[100012323, 100004210]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,16.0
+2020-04-23 06:28:39 UTC,furniture.bedroom.bed,caprice,55.34,[28714096],Twin,Particle Board,True,False,False,False,False,250.0,74.5,38.0,12.0
+2020-04-01 02:40:17 UTC,furniture.bedroom.bed,caprice,75.94,"[100131656, 100131664, 100131663, 100131666]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-04-23 15:55:58 UTC,furniture.bedroom.bed,caprice,100.39,[100124874],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-23 15:31:40 UTC,furniture.bedroom.bed,caprice,123.56,"[100124114, 100124086, 100124111]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-20 04:40:17 UTC,furniture.bedroom.bed,caramelia,34.98,[100196160],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,16.0
+2020-04-02 13:31:26 UTC,furniture.bedroom.bed,caramelia,128.68,"[7101859, 7101858, 7101857]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-03-01 04:21:13 UTC,furniture.bedroom.bed,ccm,64.35,"[20000480, 100040821]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,16.0
+2020-04-24 19:38:11 UTC,furniture.bedroom.bed,ccm,240.46,"[100035421, 100035430]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-04 04:28:42 UTC,furniture.bedroom.bed,ccm,435.4,"[100035607, 100035648, 100035473, 100035643, 100035624, 100035585, 100035463]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-02-01 04:31:52 UTC,furniture.bedroom.bed,ccm,656.17,[100035446],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-28 13:29:42 UTC,furniture.bedroom.bed,centrpravilnogosna,651.24,[13201396],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-01 15:36:57 UTC,furniture.bedroom.bed,chicco,123.55,[7101836],Twin,Wood,True,False,False,False,True,250.0,75.0,38.0,12.0
+2019-10-01 05:38:02 UTC,furniture.bedroom.bed,chicco,154.42,"[7101527, 7101835, 7101411, 7101408]",Twin,Wood,True,False,False,False,False,250.0,75.0,38.0,15.0
+2019-10-01 03:13:39 UTC,furniture.bedroom.bed,chicco,180.16,"[7101462, 7101463]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2019-10-01 04:52:46 UTC,furniture.bedroom.bed,chicco,205.9,"[7101909, 7101410]",Twin,Wood,True,True,False,False,False,250.0,75.0,39.0,42.0
+2019-10-01 13:57:13 UTC,furniture.bedroom.bed,chicco,231.64,[7101409],Twin,Wood,True,True,False,False,False,250.0,75.0,39.0,40.0
+2019-10-29 12:17:43 UTC,furniture.bedroom.bed,chicco,257.38,"[7102074, 7101218]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-11-12 17:17:07 UTC,furniture.bedroom.bed,chicco,308.86,"[7101907, 7101949, 7102014, 7101950, 7101871, 7101870, 7101908, 7101894]",Twin,Wood,True,True,False,False,False,220.0,75.0,39.0,40.0
+2020-02-02 19:10:07 UTC,furniture.bedroom.bed,chicco,334.6,[7102055],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-13 12:48:04 UTC,furniture.bedroom.bed,cilek,510.93,[13200751],Twin,Wood,True,True,True,False,False,220.0,75.0,38.0,40.0
+2020-04-17 15:12:11 UTC,furniture.bedroom.bed,cilek,774.77,[7101571],Twin,Wood,True,True,True,False,False,250.0,75.0,39.0,44.0
+2020-04-01 04:25:51 UTC,furniture.bedroom.bed,cobat,45.82,"[15201134, 15201100, 15201101, 15201112, 15201104, 15201103]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-01 01:20:00 UTC,furniture.bedroom.bed,cobat,71.3,"[15201109, 15201102]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-04-05 12:23:03 UTC,furniture.bedroom.bed,cobat,145.69,"[15201110, 100106630]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-06 10:43:45 UTC,furniture.bedroom.bed,crona,38.61,"[15201069, 15200570]",Twin,Particle Board,True,False,False,False,False,250.0,74.5,38.5,12.0
+2020-04-01 05:50:02 UTC,furniture.bedroom.bed,crona,87.79,[15200175],Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-04-01 05:15:32 UTC,furniture.bedroom.bed,crona,111.94,"[15200174, 15200173]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,15.0
+2020-04-01 16:41:32 UTC,furniture.bedroom.bed,crona,177.81,[15201287],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-06 09:39:04 UTC,furniture.bedroom.bed,damper,38.61,[15201068],Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-04-02 04:39:43 UTC,furniture.bedroom.bed,damper,122.18,[15200172],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-21 11:29:11 UTC,furniture.bedroom.bed,dardav,270.28,[13201104],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-02-01 12:35:56 UTC,furniture.bedroom.bed,dardav,308.89,"[13201098, 13201103, 13201102]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-25 18:45:32 UTC,furniture.bedroom.bed,dardav,334.63,"[13201099, 13201101, 13201100]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-02-01 19:12:10 UTC,furniture.bedroom.bed,davita,145.43,[13500271],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-16 07:18:11 UTC,furniture.bedroom.bed,davita,328.71,[13200880],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 13:29:49 UTC,furniture.bedroom.bed,davita,351.36,[13200874],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-16 08:02:26 UTC,furniture.bedroom.bed,davita,664.11,[13200879],Queen,Wood,True,True,True,False,False,550.0,80.0,60.0,50.0
+2020-04-01 03:11:16 UTC,furniture.bedroom.bed,delkor,54.06,"[100004414, 100004442, 100004406]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-02 10:16:57 UTC,furniture.bedroom.bed,delkor,77.22,"[100027987, 100004432, 100107534, 100083022, 100137362, 100137345]",Twin,Particle Board,True,False,False,False,True,220.0,75.0,39.0,12.0
+2020-04-06 05:31:23 UTC,furniture.bedroom.bed,delkor,105.54,"[100004395, 100137301, 100004605, 100004601, 100149011]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-09 11:16:41 UTC,furniture.bedroom.bed,delkor,187.91,[100060439],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-07 06:28:47 UTC,furniture.bedroom.bed,delkor,218.8,[100079752],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-04 16:08:59 UTC,furniture.bedroom.bed,deta,65.12,"[15200929, 15200928, 15200309, 15200471, 15200936, 15200299, 15200477]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-02 08:45:56 UTC,furniture.bedroom.bed,deta,88.81,"[15200478, 15200937, 15201153, 15200482, 15201236, 15200938, 100013216, 15200474, 15200473]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 11:36:37 UTC,furniture.bedroom.bed,deta,111.2,"[100171504, 15200479, 100171511]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-02 02:01:07 UTC,furniture.bedroom.bed,deta,136.68,"[15201213, 100037399, 100037400, 15200935]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-07 10:47:37 UTC,furniture.bedroom.bed,deta,162.94,"[100171508, 15200484]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-04 06:45:02 UTC,furniture.bedroom.bed,deta,184.56,"[15200602, 15200308]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 20:09:27 UTC,furniture.bedroom.bed,deta,211.07,"[15200603, 100013270]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-04 17:59:24 UTC,furniture.bedroom.bed,deta,279.29,[15200926],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-03 17:15:44 UTC,furniture.bedroom.bed,diamant,71.3,[26601521],Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-03-04 09:42:48 UTC,furniture.bedroom.bed,domini,141.57,"[13200327, 13200325, 13200338, 13200336]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 02:52:35 UTC,furniture.bedroom.bed,domini,170.26,"[13201125, 13200957, 13200903, 13200328, 13200339]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 06:45:09 UTC,furniture.bedroom.bed,domini,208.96,"[13201024, 13200330]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-11 08:51:41 UTC,furniture.bedroom.bed,domini,231.67,"[13200332, 13200320, 13200337]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 17:34:37 UTC,furniture.bedroom.bed,domini,252.29,"[13200322, 13200318, 13200321, 13200323, 13200319]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 03:53:13 UTC,furniture.bedroom.bed,domini,278.61,"[13200331, 13201022]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 05:50:32 UTC,furniture.bedroom.bed,domini,385.41,"[13200324, 13200326, 13200334, 13200333]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 05:26:44 UTC,furniture.bedroom.bed,domini,442.68,[13201023],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-06 09:00:29 UTC,furniture.bedroom.bed,dynamic,57.92,"[100017222, 15201162, 15201160]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-06 09:22:21 UTC,furniture.bedroom.bed,dynamic,80.57,"[15201169, 15201165, 15201161, 15201167, 15201170, 15201164, 15201168, 15201159, 15201172]",Queen,Wood,True,False,False,False,False,500.0,80.0,60.0,16.0
+2020-04-29 02:50:16 UTC,furniture.bedroom.bed,dynamic,100.9,"[15201173, 15201171, 15201176, 15201178, 15201179]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-13 12:07:41 UTC,furniture.bedroom.bed,dynamic,121.75,"[15201175, 15201184, 15201181]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-01 07:42:54 UTC,furniture.bedroom.bed,dynamic,142.09,[15201183],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 13:50:13 UTC,furniture.bedroom.bed,dynamic,245.82,[15201182],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-11 18:15:41 UTC,furniture.bedroom.bed,dzhanelli,458.18,[100195026],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-10 16:05:57 UTC,furniture.bedroom.bed,dzhanelli,617.78,[100195025],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-04 10:04:40 UTC,furniture.bedroom.bed,edcon,76.04,"[100040168, 15200764, 15200765, 100040173, 15200769]",Queen,Wood,True,False,False,False,False,500.0,80.0,60.0,50.0
+2020-04-29 20:05:49 UTC,furniture.bedroom.bed,edcon,101.49,"[100040187, 100040229, 100040190, 15200768, 100040160, 100040179, 100040193, 100040214, 100040240, 15200767]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-03 10:53:58 UTC,furniture.bedroom.bed,edcon,126.2,"[15200770, 100040224]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-16 05:07:17 UTC,furniture.bedroom.bed,edcon,152.79,[100040233],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-01 09:04:05 UTC,furniture.bedroom.bed,edcon,209.67,"[100041020, 15200766]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 08:04:42 UTC,furniture.bedroom.bed,edcon,306.64,[15200763],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-03-17 02:50:09 UTC,furniture.bedroom.bed,efremov,85.72,"[26601229, 26601226]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-05 15:44:47 UTC,furniture.bedroom.bed,efremov,107.85,"[26601224, 26601225]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 12:04:29 UTC,furniture.bedroom.bed,efremov,145.95,[26601227],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:33:42 UTC,furniture.bedroom.bed,efremov,179.41,[26601223],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-08 17:29:30 UTC,furniture.bedroom.bed,efremov,212.62,[26601221],Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-07 11:27:31 UTC,furniture.bedroom.bed,elab,129.36,[100167109],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-02 16:29:39 UTC,furniture.bedroom.bed,elab,184.96,[100167162],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-02 02:48:46 UTC,furniture.bedroom.bed,elab,237.47,[100167138],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-04 17:58:59 UTC,furniture.bedroom.bed,embawood,315.81,"[13200998, 13200999]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 15:00:54 UTC,furniture.bedroom.bed,energizer,81.08,"[100012074, 15200167, 100012070, 15200188, 15200949, 15200408, 15200407]",Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-04 04:10:59 UTC,furniture.bedroom.bed,energizer,103.84,"[15200189, 15200409, 100170401, 15200948, 15200553, 15200585]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-03 14:44:02 UTC,furniture.bedroom.bed,energizer,126.13,"[15200453, 15201073, 15200190]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-06 09:56:32 UTC,furniture.bedroom.bed,energizer,159.24,"[15200556, 15200171, 15200170]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-04 11:48:50 UTC,furniture.bedroom.bed,energizer,218.8,"[15200166, 15200169]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-08 05:57:59 UTC,furniture.bedroom.bed,energizer,291.88,"[15200168, 15201047]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-08 05:01:36 UTC,furniture.bedroom.bed,europusk,38.3,"[100150592, 100150597, 100167134, 15200849]",Twin,Particle Board,True,False,False,False,False,220.0,75.0,39.0,16.0
+2020-03-08 16:05:38 UTC,furniture.bedroom.bed,europusk,58.69,[100150817],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2019-10-09 16:48:35 UTC,furniture.bedroom.bed,everflo,104.51,[7101820],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-16 09:06:51 UTC,furniture.bedroom.bed,exclusive,37.07,"[100150767, 100150768, 100150770]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-01 06:37:02 UTC,furniture.bedroom.bed,exide,19.82,"[15200614, 15200615]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-01 14:09:39 UTC,furniture.bedroom.bed,exide,41.26,"[15200618, 15200613, 15200617, 15200619, 15200925, 15200616]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,11.0
+2020-04-01 04:47:00 UTC,furniture.bedroom.bed,exide,76.87,"[100165575, 15200497, 15200924, 15200356, 15200927, 15200355, 15200342]",Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-01 11:31:28 UTC,furniture.bedroom.bed,exide,109.31,"[15200345, 15200346, 15200343, 15200344, 15200348]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 02:43:04 UTC,furniture.bedroom.bed,exide,135.56,"[15200347, 15200349, 15200352]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-03 06:36:08 UTC,furniture.bedroom.bed,exide,157.19,"[15200350, 15200353]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 02:52:32 UTC,furniture.bedroom.bed,exide,178.81,[15200390],Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-01 06:25:10 UTC,furniture.bedroom.bed,exide,205.41,"[15200923, 15200391, 15200362]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-02 05:12:53 UTC,furniture.bedroom.bed,exide,234.41,"[15200386, 15200303, 15200387, 15200389]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-27 13:47:24 UTC,furniture.bedroom.bed,exide,277.65,"[15200384, 15200388]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 11:25:39 UTC,furniture.bedroom.bed,exide,301.12,[15200354],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:41:51 UTC,furniture.bedroom.bed,exide,382.67,[15200361],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:22:59 UTC,furniture.bedroom.bed,exide,413.56,[15200360],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-03 15:27:40 UTC,furniture.bedroom.bed,favory,11.33,[100148281],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-01 14:12:20 UTC,furniture.bedroom.bed,favory,428.56,"[100139874, 100139849]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:48:02 UTC,furniture.bedroom.bed,favory,449.41,"[100139815, 100139883, 100139821, 100139890]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 14:15:00 UTC,furniture.bedroom.bed,favory,666.01,"[100141871, 100139822]",Queen,Wood,True,True,False,False,False,550.0,80.0,60.0,50.0
+2020-04-13 17:21:47 UTC,furniture.bedroom.bed,favory,723.93,"[100141861, 100141873, 100141866]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-13 16:54:02 UTC,furniture.bedroom.bed,favory,814.27,[100139818],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 12:10:47 UTC,furniture.bedroom.bed,favory,842.07,[100139892],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 12:56:14 UTC,furniture.bedroom.bed,favory,946.32,[100139888],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 12:10:35 UTC,furniture.bedroom.bed,favory,1279.9,[100139895],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 15:20:02 UTC,furniture.bedroom.bed,favory,1303.07,"[100139863, 100139887]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-03-10 19:09:02 UTC,furniture.bedroom.bed,fila,53.05,[20000182],Twin,Particle Board,True,False,False,False,False,200.0,75.0,39.0,15.0
+2020-04-09 16:55:49 UTC,furniture.bedroom.bed,fiorenza,334.63,[100195035],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-02 16:16:26 UTC,furniture.bedroom.bed,fireball,154.58,[15201282],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-02-02 14:12:29 UTC,furniture.bedroom.bed,fischer,74.17,[20000095],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-02 10:53:45 UTC,furniture.bedroom.bed,forlux,64.35,"[100021960, 100021968, 100021970]",Twin,Particle Board,True,False,False,False,True,250.0,75.0,39.0,16.0
+2020-04-01 16:24:51 UTC,furniture.bedroom.bed,forlux,90.09,"[15201294, 100022340, 15200579]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-03-03 05:01:53 UTC,furniture.bedroom.bed,forlux,116.09,[15200626],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 13:34:00 UTC,furniture.bedroom.bed,forlux,182.76,[15201057],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-03 14:17:21 UTC,furniture.bedroom.bed,forward,46.33,"[15200571, 100078749]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-03 17:00:38 UTC,furniture.bedroom.bed,forward,113.85,"[15200157, 15200156, 15200159]",Queen,Wood,True,False,False,False,False,500.0,80.0,60.0,10.0
+2020-04-04 12:26:21 UTC,furniture.bedroom.bed,forward,215.15,[15200158],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-17 10:17:25 UTC,furniture.bedroom.bed,fossil,66.93,"[100199577, 100199575, 100199576]",Twin,Particle Board,True,False,False,False,True,250.0,75.0,39.0,16.0
+2020-04-17 11:46:07 UTC,furniture.bedroom.bed,fossil,100.9,[100199572],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 05:18:56 UTC,furniture.bedroom.bed,genesis,38.61,"[15201185, 15200784, 15201200, 15201186, 15200785, 15200783, 15200787, 15200788, 15201193]",Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-01 01:12:48 UTC,furniture.bedroom.bed,genesis,59.2,"[15200789, 15201187, 15201192]",Twin,Metal,True,False,False,False,True,250.0,74.5,38.0,6.0
+2020-04-04 09:34:17 UTC,furniture.bedroom.bed,genesis,101.14,"[15201300, 15201189]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-02 17:17:28 UTC,furniture.bedroom.bed,genesis,133.85,"[15201190, 15201191, 15201188]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-06 08:53:10 UTC,furniture.bedroom.bed,gigawatt,64.35,"[15200634, 15200200, 15201319, 15200259, 15200263, 15201324, 15200208, 15200261, 15200197, 15200196, 15201325, 15201318]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-01 09:09:57 UTC,furniture.bedroom.bed,gigawatt,87.52,"[15200192, 15200260, 15200202, 15200193, 15200201, 15200155, 15200635, 15200262]",Twin,Particle Board,True,False,False,False,False,220.0,75.0,39.0,12.0
+2020-04-01 07:57:23 UTC,furniture.bedroom.bed,gigawatt,115.83,"[15200520, 15200198, 15200191, 15201322, 15200203]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-30 06:41:43 UTC,furniture.bedroom.bed,gigawatt,166.43,[15201243],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 19:55:32 UTC,furniture.bedroom.bed,gigawatt,231.21,[15200525],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-28 11:15:29 UTC,furniture.bedroom.bed,gigawatt,280.07,[15200205],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-02 17:30:26 UTC,furniture.bedroom.bed,gigawatt,331.75,[15200991],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 17:17:55 UTC,furniture.bedroom.bed,gigawatt,356.31,[15200206],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 12:59:45 UTC,furniture.bedroom.bed,giornonotte,673.63,"[100159825, 13201334, 13201325, 13201333]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-02 22:42:55 UTC,furniture.bedroom.bed,glamvers,134.88,"[7100400, 7100062, 7100470, 7100006]",Queen,Upholstered,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-01 05:36:29 UTC,furniture.bedroom.bed,glamvers,166.28,"[7100471, 7100175, 7101158]",Queen,Upholstered,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-27 06:17:40 UTC,furniture.bedroom.bed,globex,45.34,"[7101880, 7101877, 7101968, 7101970, 7101883, 7101885, 7101876]",Twin,Particle Board,True,False,False,False,False,250.0,74.5,38.5,12.0
+2020-02-01 11:05:44 UTC,furniture.bedroom.bed,graco,107.85,"[7101167, 7101166]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-03-01 23:58:44 UTC,furniture.bedroom.bed,graco,153.93,[7101526],Twin,Wood,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-04-30 11:25:18 UTC,furniture.bedroom.bed,granat,11.07,"[100097172, 100097196, 100098153, 100097147, 100098154, 100097150, 100097081, 100098151, 100097354, 100098045, 100098047, 100097154, 100097185, 100098143, 100098142, 100096989, 100098119, 100097132, 100098017, 100098111, 100097357, 100097292]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-03-10 14:47:11 UTC,furniture.bedroom.bed,granat,31.15,"[100097051, 100097052, 100098145, 100098133, 100098132, 100097153, 100098053, 100097174, 100097156, 100098120, 100097054, 100098131, 100097330, 100097300, 100098052, 100098150, 100098118, 100097323, 100098088, 100098083, 100098102, 100098103, 100097047, 100098108, 100097058, 100098137, 100097078, 100097144, 100098136, 100098115, 100098087, 100098124, 100098114, 100097305, 100098093, 100098020, 100098117, 100097161, 100098086, 100097204, 100098152, 100097068, 100098018, 100098097, 100098104, 100097038, 100098126, 100097045, 100098032, 100098044, 100098112, 100098030, 100098025, 100098084, 100098043, 100098109, 100098161, 100098042, 100097036, 100097215, 100098107, 100098141, 100098139, 100098101, 100097062]",Twin,Particle Board,True,False,False,False,False,220.0,75.0,39.0,15.0
+2020-04-10 12:07:27 UTC,furniture.bedroom.bed,granat,51.74,"[100097168, 100098156, 100098116, 100098027, 100097222, 100096972, 100097075, 100097040, 100098070, 100110151, 100110159, 100110160, 100110162, 100097327, 100098140, 100097066, 100098050, 100098048, 100098098, 100097351, 100098106, 100098041, 100098090, 100098122, 100098105, 100097188, 100097008, 100110143, 100110156, 100110283, 100098062, 100098060, 100098064, 100098059, 100098057, 100098081, 100110094, 100098066, 100110145, 100110136, 100098055, 100110149, 100110139, 100098078, 100098056, 100098061, 100110134, 100098058, 100098065, 100098063, 100098028, 100098095, 100098100, 100098051, 100096944, 100098085]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-03-06 17:11:12 UTC,furniture.bedroom.bed,granat,72.07,"[100097000, 100097043, 100098130, 100097179, 100097333, 100097124, 100097342, 100098024, 100098029, 100098129, 100098121, 100098149, 100097070, 100097084, 100097219, 100097337, 100098092, 100098134, 100098110, 100098091, 100097121, 100097129, 100097202, 100098157, 100097348, 100098155, 100098146, 100097018, 100098113, 100098099, 100098144, 100098054]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-03-03 21:26:39 UTC,furniture.bedroom.bed,granat,92.41,"[100097090, 100097053, 100105702, 100098135, 100098123, 100097016, 100098127, 100098128, 100098049, 100098094, 100097021, 100098138, 100096965]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-02-02 13:24:37 UTC,furniture.bedroom.bed,granat,113.0,"[100098031, 100097139, 100097138, 100097135, 100098026, 100098021, 100098159, 100098158]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-01 18:37:20 UTC,furniture.bedroom.bed,granat,133.34,"[100096983, 100097213, 100097229, 100098162]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-03-04 08:36:28 UTC,furniture.bedroom.bed,granat,154.44,[100098125],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-02 16:01:43 UTC,furniture.bedroom.bed,granat,200.52,[100098046],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 01:20:10 UTC,furniture.bedroom.bed,grandmanar,625.24,[100164816],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 11:52:42 UTC,furniture.bedroom.bed,grandmanar,985.1,[13201310],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-09 12:38:48 UTC,furniture.bedroom.bed,hagen,240.68,[15200400],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 03:18:01 UTC,furniture.bedroom.bed,hankook,41.19,[15200741],Twin,Particle Board,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-04-01 04:55:07 UTC,furniture.bedroom.bed,hankook,66.93,"[100171519, 100171515, 15200930, 15200931, 15201230, 15200932, 15201029]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-02 11:38:06 UTC,furniture.bedroom.bed,hankook,87.52,"[15200933, 100110350, 15200934, 15201035, 15201028, 100003760, 15201201, 15201030, 15200939, 15200314, 100171510, 15201027]",Twin,Wood,True,False,False,False,True,250.0,75.0,38.0,12.0
+2020-04-02 06:24:01 UTC,furniture.bedroom.bed,hankook,114.03,"[15200940, 15201150, 15201038, 15201148, 15200941, 15200942, 15201039, 100170395]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-05 07:24:45 UTC,furniture.bedroom.bed,hankook,151.87,"[15201041, 15201060, 15200040, 15201202]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-06 04:17:04 UTC,furniture.bedroom.bed,hankook,183.53,[15201151],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 03:57:43 UTC,furniture.bedroom.bed,hyper,55.34,[100078756],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-01 08:43:50 UTC,furniture.bedroom.bed,hyper,78.93,[15200565],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-05 05:11:26 UTC,furniture.bedroom.bed,hyper,150.29,[15200150],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-02 16:53:59 UTC,furniture.bedroom.bed,hyper,189.81,[15200574],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-01-01 09:21:23 UTC,furniture.bedroom.bed,ikea,58.4,"[100016372, 100008956, 100017851, 100019819, 100019816]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-01-01 09:49:39 UTC,furniture.bedroom.bed,ikea,81.77,"[100009301, 100009293, 100008968, 100019514]",Twin,Particle Board,True,False,False,False,False,220.0,74.5,38.5,12.0
+2020-01-04 03:49:36 UTC,furniture.bedroom.bed,ikea,116.82,"[100019809, 100019813]",Queen,Particle Board,True,False,False,False,False,500.0,80.0,60.0,12.0
+2020-01-01 09:49:56 UTC,furniture.bedroom.bed,ikea,140.19,[100023547],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,12.0
+2020-01-02 03:13:49 UTC,furniture.bedroom.bed,ikea,163.56,"[100009995, 100019501, 100019812, 100009335, 100019869]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,12.0
+2020-01-01 05:46:10 UTC,furniture.bedroom.bed,ikea,186.93,"[100019491, 100009291]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-11-28 03:23:53 UTC,furniture.bedroom.bed,ikea,210.3,"[100019511, 100019496, 100009338, 100009347]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-01-06 12:29:10 UTC,furniture.bedroom.bed,ikea,233.67,"[100017724, 100019598]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-01-01 03:37:58 UTC,furniture.bedroom.bed,ikea,257.03,[100019494],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-01-01 17:47:29 UTC,furniture.bedroom.bed,ikea,303.77,"[100019549, 100019492]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-01-01 15:16:05 UTC,furniture.bedroom.bed,ikea,327.14,[100019513],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-01-09 07:12:52 UTC,furniture.bedroom.bed,ikea,350.51,[100017784],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-01-01 00:15:58 UTC,furniture.bedroom.bed,ikea,397.25,[100019505],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-01-01 05:58:02 UTC,furniture.bedroom.bed,ikea,420.62,"[100010999, 100019622]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-01-01 07:12:56 UTC,furniture.bedroom.bed,ikea,467.31,"[100019613, 100040578]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,12.0
+2020-01-01 09:27:46 UTC,furniture.bedroom.bed,ikea,544.4,"[100016368, 100019490]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-01-01 14:22:12 UTC,furniture.bedroom.bed,ikea,694.04,[100023683],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-01-01 16:30:18 UTC,furniture.bedroom.bed,ikea,731.43,"[100023692, 100019823]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-01-01 17:11:39 UTC,furniture.bedroom.bed,ikea,841.21,[100019627],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-01-01 16:30:51 UTC,furniture.bedroom.bed,ikea,887.95,[100019481],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-01-01 11:56:21 UTC,furniture.bedroom.bed,ikea,911.37,[100019462],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-01-01 09:01:25 UTC,furniture.bedroom.bed,ikea,934.69,"[100019633, 100019484]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:54:56 UTC,furniture.bedroom.bed,imperial,21.64,"[100116975, 100121924, 100128725, 100128726, 100116969, 13500430]",Twin,Metal,True,False,False,False,False,250.0,74.5,38.5,6.0
+2020-04-02 15:23:50 UTC,furniture.bedroom.bed,imperial,53.74,"[100119267, 100128721, 100117098, 100137120, 100117014, 100119213]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-02 19:05:30 UTC,furniture.bedroom.bed,imperial,75.15,"[100117100, 100119209, 100153369, 100128719, 100128699, 100128739, 100166942, 100128724, 100111522, 100149478]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-02-20 09:09:38 UTC,furniture.bedroom.bed,imperial,95.54,"[100128701, 100166909, 100121921, 100166927, 100153367, 100153370, 100166941, 100166933, 100119262]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-11-25 13:32:31 UTC,furniture.bedroom.bed,imperial,116.82,"[100019507, 100119260, 100137114, 100128714, 100137111, 100116996]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-02-04 09:48:42 UTC,furniture.bedroom.bed,imperial,143.61,"[13200764, 100137116, 100166936, 100166930, 13200767]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-02 16:54:56 UTC,furniture.bedroom.bed,imperial,176.7,"[100186907, 100166943, 100019488, 100019544, 100157537]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-10 18:42:47 UTC,furniture.bedroom.bed,imperial,208.03,"[100117104, 13201309, 100166944]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 19:06:43 UTC,furniture.bedroom.bed,imperial,232.94,"[100121915, 100121912, 100121919, 100019478, 100019551, 100166905, 100119249, 100137130]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 14:44:35 UTC,furniture.bedroom.bed,imperial,256.66,"[100121913, 100019509, 100139251, 100121911, 100121909]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:53:54 UTC,furniture.bedroom.bed,imperial,279.36,"[100121927, 100019611, 100019552, 100166923, 100121929, 100129513, 100121930]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2019-11-26 07:25:18 UTC,furniture.bedroom.bed,imperial,303.77,"[100019495, 100128700, 100019548, 100128689]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:51:07 UTC,furniture.bedroom.bed,imperial,325.32,"[100121904, 100128720, 13200832, 13201012, 100009737, 100128696]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 11:33:43 UTC,furniture.bedroom.bed,imperial,351.9,"[100166925, 100117112]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2019-11-25 15:58:03 UTC,furniture.bedroom.bed,imperial,411.27,"[100019508, 100101648]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 02:31:30 UTC,furniture.bedroom.bed,imperial,487.5,"[100127735, 100019499, 100127726]",Queen,Wood,True,True,True,False,False,550.0,80.0,60.0,50.0
+2020-02-18 09:26:37 UTC,furniture.bedroom.bed,imperial,676.39,[100121908],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 04:27:47 UTC,furniture.bedroom.bed,imperial,696.45,[100174900],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 17:39:53 UTC,furniture.bedroom.bed,imperial,771.21,[100129507],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-11-25 17:56:21 UTC,furniture.bedroom.bed,imperial,794.52,[100019545],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-02-01 00:13:59 UTC,furniture.bedroom.bed,imperial,965.34,[100019472],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-16 11:49:24 UTC,furniture.bedroom.bed,incanto,41.16,"[100196087, 7101372]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-02-13 04:58:21 UTC,furniture.bedroom.bed,incanto,66.9,"[7101856, 7101785]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-01-31 10:45:37 UTC,furniture.bedroom.bed,incanto,97.79,"[7101660, 7101656, 7101661, 7101659, 7101658]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-01 02:44:28 UTC,furniture.bedroom.bed,incanto,144.12,"[7101171, 7101172, 7101170]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-01 02:39:05 UTC,furniture.bedroom.bed,incanto,169.86,"[7101285, 7101286, 7101292, 7101424, 7101465, 7101296, 7101291, 7101617, 7101629, 7101298, 7101628, 7101297]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-01 07:24:37 UTC,furniture.bedroom.bed,incanto,205.9,"[7101868, 7101302, 7101762, 7101830, 7101290, 7101347, 7101769, 7101982, 7101655, 7101937]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-01 06:50:19 UTC,furniture.bedroom.bed,incanto,229.02,"[7101792, 7101301]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-01 02:38:40 UTC,furniture.bedroom.bed,incanto,257.38,"[7101831, 7101842, 7101841]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 12:59:48 UTC,furniture.bedroom.bed,jade,51.48,"[100103147, 100103139]",Twin,Wood,True,False,False,False,True,220.0,75.0,39.0,12.0
+2020-04-01 16:31:26 UTC,furniture.bedroom.bed,jade,87.52,"[100088137, 100103141, 100103140]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-04 19:01:49 UTC,furniture.bedroom.bed,jade,134.62,[100088144],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 09:40:35 UTC,furniture.bedroom.bed,jade,321.76,[100088135],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-01 09:16:43 UTC,furniture.bedroom.bed,joie,80.83,"[7102034, 7102050, 7101779]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-04-01 14:12:25 UTC,furniture.bedroom.bed,joie,108.88,"[7101469, 7102035]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-03 06:03:54 UTC,furniture.bedroom.bed,joie,134.62,"[7101845, 7101407, 7101223, 6902170]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 17:54:28 UTC,furniture.bedroom.bed,joie,225.75,"[7101732, 7101405, 7101846]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:49:51 UTC,furniture.bedroom.bed,kainar,37.07,"[15201093, 15201076, 15200839, 15200485, 15201096, 15201094, 15201087, 15201088, 15201091, 15201083, 15200806, 15200866, 15201092, 15201082, 15201079, 15201095, 15201098, 15200808, 15201090]",Twin,Particle Board,True,False,False,False,True,250.0,75.0,39.0,15.0
+2020-04-01 01:14:17 UTC,furniture.bedroom.bed,kainar,59.2,"[15200861, 15200805, 15201080, 15201084, 15201077, 15201097, 15201099]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-01 07:40:47 UTC,furniture.bedroom.bed,kainar,98.84,"[15200863, 15200862, 15200823, 15200822, 15201078, 100037464, 15200809, 15201081]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-01 12:04:49 UTC,furniture.bedroom.bed,kainar,137.71,"[15200865, 15200841, 15200840, 15200451, 15200824, 15200450, 15200992]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-03 04:55:48 UTC,furniture.bedroom.bed,kainar,159.59,"[15200825, 15200798]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-03 03:45:09 UTC,furniture.bedroom.bed,kmk,239.36,[13201327],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-01-15 14:11:06 UTC,furniture.bedroom.bed,kolibri,6.9,[100076340],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-29 13:39:25 UTC,furniture.bedroom.bed,komfort-s,353.14,[13201383],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-02-01 06:27:07 UTC,furniture.bedroom.bed,koopman,2.45,"[36500004, 36500002]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-01-02 15:10:26 UTC,furniture.bedroom.bed,kroskaa,75.04,[100033741],Twin,Wood,True,False,False,False,True,250.0,75.0,38.0,12.0
+2019-12-07 18:38:47 UTC,furniture.bedroom.bed,kroskaa,104.89,[100033714],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-15 12:26:24 UTC,furniture.bedroom.bed,larsen,29.6,"[20000344, 20000338]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-01-23 12:05:52 UTC,furniture.bedroom.bed,lego,3.84,"[7202839, 7204012, 100002570, 7201963]",Twin,Wood,True,False,False,False,False,150.0,74.5,38.5,6.5
+2020-04-03 16:51:53 UTC,furniture.bedroom.bed,lego,28.12,[7202614],Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,25.0
+2020-01-01 07:45:30 UTC,furniture.bedroom.bed,lego,71.8,"[7203362, 7200058, 7201579]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,16.0
+2020-01-01 07:24:57 UTC,furniture.bedroom.bed,lego,254.58,[7203059],Twin,Wood,True,False,False,False,False,220.0,75.0,38.0,12.0
+2020-04-10 01:53:37 UTC,furniture.bedroom.bed,liapis,386.11,[100195019],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-10 01:53:56 UTC,furniture.bedroom.bed,liapis,422.15,[100195022],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-09 17:30:40 UTC,furniture.bedroom.bed,liapis,566.3,[100195020],Queen,Wood,True,True,True,False,False,550.0,80.0,60.0,50.0
+2020-04-10 15:59:54 UTC,furniture.bedroom.bed,liapis,625.5,"[100195024, 100195023]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 16:07:43 UTC,furniture.bedroom.bed,lider,123.01,[13200995],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-01-05 07:20:02 UTC,furniture.bedroom.bed,lifedeco,97.79,[13500449],Queen,Wood,True,False,False,False,False,500.0,80.0,60.0,16.0
+2019-11-10 07:16:51 UTC,furniture.bedroom.bed,lifedeco,262.53,[13500441],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-25 05:09:07 UTC,furniture.bedroom.bed,llarri,187.13,"[7102067, 7101757]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-19 13:28:04 UTC,furniture.bedroom.bed,lorelli,49.73,"[7101082, 7101922, 7101898, 7101665, 7101418, 7101643, 7101906, 7101924, 7101927, 7101923, 7101419, 7101417, 7101901, 7101925, 7101816, 7101819, 7101976, 7101817, 7101926, 7101962, 7101899, 7101711, 7102051, 7101690, 7101420, 7100953, 7101812, 7101800]",Twin,Particle Board,True,False,False,False,False,220.0,74.5,38.5,12.0
+2019-10-03 09:29:37 UTC,furniture.bedroom.bed,lorelli,71.07,"[7101770, 7101771, 7102015, 7101664, 7101639, 7102017, 7102040, 7102042, 7101900, 7101975, 7101843, 7101905, 7101696, 7101697, 7101633, 7101818, 7101903, 7101632, 7101694, 7101422, 7101548, 7102016, 7101695, 7101421, 7101693, 7101904]",Twin,Particle Board,True,False,False,False,False,200.0,75.0,39.0,14.0
+2019-11-09 09:50:44 UTC,furniture.bedroom.bed,lorelli,95.03,"[7101896, 7101897, 7101423, 7101902, 7101958, 7101959, 7101009]",Twin,Particle Board,True,False,False,False,False,200.0,75.0,39.0,15.0
+2020-02-01 09:50:43 UTC,furniture.bedroom.bed,lorelli,117.89,"[7101046, 7101960, 7101618, 7102041, 7102039, 7101692]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-06 10:13:41 UTC,furniture.bedroom.bed,lorelli-bertoni,86.76,"[7101191, 7101192]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,16.0
+2020-04-01 07:30:30 UTC,furniture.bedroom.bed,lucente,32.43,[100020631],Twin,Particle Board,True,False,False,False,False,250.0,74.5,38.5,12.0
+2020-04-01 08:52:58 UTC,furniture.bedroom.bed,lucente,60.75,"[26600076, 26600112, 26600113, 100040748, 26601426]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-04-01 03:34:05 UTC,furniture.bedroom.bed,lucente,82.63,"[26600052, 26600063, 26600079, 26600050, 26600064, 26600065, 26600080, 26600061, 26600073, 26600084, 26600070, 26600049, 26600056, 26600078, 26600047]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-01 12:50:42 UTC,furniture.bedroom.bed,lucente,102.71,"[26600115, 26600087, 26600075, 100020664, 26600072, 26600062, 26601230, 100040747]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-08 10:03:11 UTC,furniture.bedroom.bed,lucente,127.42,"[26600110, 26600051, 26600060, 26600055, 26600083, 26600059, 26600111, 26600085]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 09:12:33 UTC,furniture.bedroom.bed,lucente,154.19,[100020636],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 09:07:08 UTC,furniture.bedroom.bed,lucente,201.03,"[26600086, 26600053]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-02-01 12:16:58 UTC,furniture.bedroom.bed,magformers,32.52,[7200706],Twin,Metal,True,False,False,False,False,250.0,74.5,38.5,6.0
+2020-04-02 16:06:15 UTC,furniture.bedroom.bed,marshall,107.67,[15200056],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-02-03 09:31:11 UTC,furniture.bedroom.bed,maxi-cosi,255.61,[6900625],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:18:13 UTC,furniture.bedroom.bed,mebbery,512.24,[13200726],Queen,Wood,True,True,True,False,False,550.0,80.0,60.0,50.0
+2020-02-13 08:08:42 UTC,furniture.bedroom.bed,mebbery.kz,468.43,[13201335],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-18 04:16:54 UTC,furniture.bedroom.bed,mebelson,160.6,"[13201305, 13201303, 13201293, 100032234]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-01 03:48:27 UTC,furniture.bedroom.bed,mebelson,194.06,[100032266],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:24:22 UTC,furniture.bedroom.bed,mebelson,231.13,"[100094311, 100094303, 13201311, 13201306]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-29 05:20:32 UTC,furniture.bedroom.bed,mebelson,304.23,"[100009290, 100094281]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-03 05:26:09 UTC,furniture.bedroom.bed,mebelson,396.64,"[13201313, 13201304]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:26:52 UTC,furniture.bedroom.bed,medalist,41.19,[15201024],Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-05 05:24:27 UTC,furniture.bedroom.bed,medalist,84.69,"[15201152, 100010756, 15201031, 15201032]",Twin,Metal,True,False,False,False,True,250.0,75.0,39.0,14.0
+2020-04-01 05:55:17 UTC,furniture.bedroom.bed,medalist,108.11,"[15201037, 15201036, 15201194, 15201023]",Queen,Metal,True,False,False,False,True,500.0,80.0,60.0,14.0
+2020-04-03 14:32:44 UTC,furniture.bedroom.bed,medalist,142.09,"[15200945, 15200304]",Queen,Metal,True,False,False,False,True,500.0,80.0,60.0,14.0
+2020-04-28 09:45:48 UTC,furniture.bedroom.bed,medalist,171.49,[15201040],Queen,Metal,True,False,False,False,True,500.0,80.0,60.0,14.0
+2020-04-06 06:46:47 UTC,furniture.bedroom.bed,merelani,9.78,"[26601774, 26601791, 26601030, 26601194, 26601849, 26601033, 26601760, 100009969, 26601854, 26601031, 26601857, 26601826, 26601808, 26601805, 26601036, 26601844, 26601032, 26601035, 26601037, 26601821]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-02 14:03:31 UTC,furniture.bedroom.bed,merelani,31.15,"[26601846, 26601830, 100205729, 100218596, 26601839, 26601039, 26601851, 100205742, 26601862, 100219960, 26601855, 26601850]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,35.0
+2020-04-03 05:03:12 UTC,furniture.bedroom.bed,merelani,52.77,"[26601831, 26601028, 26601776, 100009945, 26601853, 26601838, 26601837, 26601038, 26601029]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-01 19:40:40 UTC,furniture.bedroom.bed,merelani,75.16,[26601829],Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-04 13:49:54 UTC,furniture.bedroom.bed,merelani,99.1,"[26601856, 26601860, 26601858]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-01 11:33:12 UTC,furniture.bedroom.bed,mibb,187.91,"[7100548, 7100870, 7100545, 7101378]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-01 09:20:21 UTC,furniture.bedroom.bed,mibb,285.21,"[7100821, 7100815, 7100816, 7100814]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-01 08:05:54 UTC,furniture.bedroom.bed,mibb,334.63,[7102030],Twin,Wood,True,True,False,False,False,220.0,75.0,39.0,42.0
+2019-10-14 18:57:32 UTC,furniture.bedroom.bed,mibb,358.95,[7102027],Twin,Wood,True,True,True,False,False,250.0,75.0,39.0,42.0
+2019-10-07 04:54:33 UTC,furniture.bedroom.bed,mibb,424.55,[7102028],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-01 09:31:04 UTC,furniture.bedroom.bed,mibb,501.94,"[7102024, 7102026]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-01 06:29:35 UTC,furniture.bedroom.bed,mibb,823.7,"[7102029, 7102025]",Queen,Wood,True,True,True,False,False,550.0,80.0,60.0,50.0
+2020-04-01 08:38:05 UTC,furniture.bedroom.bed,micuna,106.54,[100117258],Twin,Wood,True,True,False,False,False,220.0,75.0,38.0,12.0
+2019-10-01 03:32:49 UTC,furniture.bedroom.bed,micuna,344.64,[7101987],Twin,Wood,True,True,False,False,False,220.0,75.0,39.0,42.0
+2019-10-01 04:36:56 UTC,furniture.bedroom.bed,micuna,411.71,[7101992],Twin,Wood,True,True,True,False,False,250.0,74.5,38.5,42.0
+2019-10-01 17:01:13 UTC,furniture.bedroom.bed,micuna,439.76,[7102001],Twin,Wood,True,True,True,False,False,220.0,75.0,39.0,42.0
+2019-10-04 08:16:53 UTC,furniture.bedroom.bed,micuna,558.12,[7101996],Twin,Wood,True,True,True,False,False,220.0,75.0,39.0,42.0
+2019-10-01 03:38:04 UTC,furniture.bedroom.bed,micuna,586.49,[7102000],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-20 15:19:52 UTC,furniture.bedroom.bed,micuna,617.14,"[7101998, 7102008, 7102007, 7101997, 7102006]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-01 18:04:58 UTC,furniture.bedroom.bed,micuna,666.28,"[7101993, 7102005]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-01 02:40:11 UTC,furniture.bedroom.bed,micuna,998.34,[7102010],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-07 11:51:56 UTC,furniture.bedroom.bed,micuna,1078.06,"[7101994, 7101999, 7101995]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-04 16:44:11 UTC,furniture.bedroom.bed,mif,153.67,[100030275],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2019-10-22 14:26:06 UTC,furniture.bedroom.bed,mozgamebel,187.13,[7102066],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-11 04:15:27 UTC,furniture.bedroom.bed,mutlu,70.79,"[15200902, 15201275, 15200735, 15201276]",Twin,Particle Board,True,False,False,False,False,220.0,75.0,38.0,12.0
+2020-04-03 10:44:33 UTC,furniture.bedroom.bed,mutlu,97.81,"[15200065, 15201277, 15200897, 15201266, 15200872, 15200896, 15201229, 15200874, 15200873, 15200952]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 05:48:17 UTC,furniture.bedroom.bed,mutlu,122.78,"[15200882, 15201263, 15200898]",Queen,Wood,True,False,False,False,False,500.0,80.0,60.0,12.0
+2020-04-01 09:51:31 UTC,furniture.bedroom.bed,mutlu,150.28,"[15200621, 15200900, 15200637, 15200901, 15200639, 100019986, 15200899]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-02 14:32:28 UTC,furniture.bedroom.bed,mutlu,171.92,[15200640],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-10 12:27:59 UTC,furniture.bedroom.bed,mutlu,193.06,"[100019983, 15200659, 15200255]",Queen,Wood,True,True,True,False,False,550.0,80.0,60.0,50.0
+2020-04-01 06:28:27 UTC,furniture.bedroom.bed,mutlu,224.43,[15200895],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:24:35 UTC,furniture.bedroom.bed,mutlu,388.13,[15200034],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 08:06:58 UTC,furniture.bedroom.bed,mutlu,423.91,[15200658],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 05:13:36 UTC,furniture.bedroom.bed,next,41.19,"[100084479, 15201066, 100085032]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-01 04:16:11 UTC,furniture.bedroom.bed,next,75.94,"[15200558, 15200148]",Twin,Particle Board,True,False,False,False,False,220.0,75.0,39.0,12.0
+2020-04-01 10:09:12 UTC,furniture.bedroom.bed,next,104.58,"[15200147, 15200139, 15200146, 15200142, 15200149]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 04:14:11 UTC,furniture.bedroom.bed,nomad,101.49,[15201244],Queen,Wood,True,False,False,False,False,500.0,80.0,60.0,12.0
+2020-01-23 16:03:14 UTC,furniture.bedroom.bed,nordway,38.16,"[100079684, 100079619, 100065019, 100079953, 100080023, 100079999]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,11.0
+2019-10-01 10:06:44 UTC,furniture.bedroom.bed,nuna,192.28,"[7101928, 7101929]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2019-10-01 15:07:59 UTC,furniture.bedroom.bed,nuna,239.65,"[7101931, 7101930]",Twin,Wood,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-04-12 07:42:39 UTC,furniture.bedroom.bed,oasis,38.07,"[48600018, 48600019]",Twin,Particle Board,True,False,False,False,False,250.0,74.5,38.0,12.0
+2020-03-05 11:02:20 UTC,furniture.bedroom.bed,olmeko,166.0,"[13201355, 100075052]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-02 15:40:20 UTC,furniture.bedroom.bed,on,61.78,"[15201233, 15201234, 15201232]",Twin,Particle Board,True,False,False,False,False,220.0,74.5,38.5,12.0
+2020-04-01 20:14:06 UTC,furniture.bedroom.bed,on,95.24,[15201231],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-05 16:49:59 UTC,furniture.bedroom.bed,orto-bed,626.79,[100002011],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-16 19:22:42 UTC,furniture.bedroom.bed,permanence,156.99,[13500147],Queen,Wood,True,True,True,False,True,500.0,80.0,60.0,50.0
+2019-10-01 06:42:58 UTC,furniture.bedroom.bed,permanence,844.27,[13200464],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-16 05:39:51 UTC,furniture.bedroom.bed,permanence,864.86,[13200475],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-05 00:55:27 UTC,furniture.bedroom.bed,pituso,64.19,"[7101956, 7101957, 7101938, 7101475, 7101474, 100160754, 100160806]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,14.0
+2019-10-04 11:21:59 UTC,furniture.bedroom.bed,pituso,90.68,[7102037],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 06:59:55 UTC,furniture.bedroom.bed,pituso,120.47,"[100130782, 100130787, 7100845]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-05 18:30:15 UTC,furniture.bedroom.bed,polini,52.46,[7101936],Twin,Particle Board,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-02-11 17:43:24 UTC,furniture.bedroom.bed,polini,77.2,[7101813],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2019-10-05 07:32:07 UTC,furniture.bedroom.bed,polini,136.4,"[7101944, 7101946, 7101947, 13200935, 7101942, 7101945, 7101948, 13201131, 7101964]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-01 14:25:19 UTC,furniture.bedroom.bed,polini,218.77,"[7101625, 7101623, 7101160, 7101565, 7101294]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-01 02:28:22 UTC,furniture.bedroom.bed,polini,257.38,"[13200934, 13200282]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-03-02 18:01:56 UTC,furniture.bedroom.bed,polini,308.86,"[13201075, 13201000]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-13 16:33:09 UTC,furniture.bedroom.bed,polini,334.6,"[13201076, 13201074, 13201077]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-03 10:24:08 UTC,furniture.bedroom.bed,premiumbaby,360.37,[7101990],Twin,Wood,True,True,True,False,False,250.0,75.0,39.0,44.0
+2020-04-10 16:11:17 UTC,furniture.bedroom.bed,queensbee,1124.35,[100195037],Queen,Wood,True,True,True,False,False,550.0,80.0,60.0,50.0
+2020-04-02 03:04:54 UTC,furniture.bedroom.bed,racer,37.32,"[15200136, 100018632, 15200509, 15200135, 15200569, 15200510]",Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-03 14:31:45 UTC,furniture.bedroom.bed,racer,79.53,"[15200837, 15200134]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,16.0
+2020-04-01 04:07:58 UTC,furniture.bedroom.bed,racer,105.54,[100078691],Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-03 17:17:41 UTC,furniture.bedroom.bed,racer,128.7,"[15200138, 15201136]",Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-04 15:44:10 UTC,furniture.bedroom.bed,racer,152.45,[15200513],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 04:49:09 UTC,furniture.bedroom.bed,racer,181.8,[15200137],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-01-31 04:27:11 UTC,furniture.bedroom.bed,redford,151.84,"[13201030, 13200961, 13200962, 13200696, 13200695, 13200697]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:12:20 UTC,furniture.bedroom.bed,redford,203.35,"[13200700, 13200698, 13200699, 13200952, 13200937]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-27 08:16:59 UTC,furniture.bedroom.bed,redford,227.03,"[13200964, 13200963]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 06:12:11 UTC,furniture.bedroom.bed,redford,247.11,"[13200714, 13200715, 13200712]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 04:03:06 UTC,furniture.bedroom.bed,redford,281.09,"[13200717, 13200718, 13200716]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-05 01:09:19 UTC,furniture.bedroom.bed,respect,24.71,[28705165],Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-09 08:09:21 UTC,furniture.bedroom.bed,romack,283.15,"[13200362, 13200341, 13200344, 13200346, 13200353, 13200357, 13200342, 13200363, 13200349, 13200351]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-03-06 04:55:22 UTC,furniture.bedroom.bed,romack,334.63,"[13200350, 13200352, 13200343, 13200340]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:04:47 UTC,furniture.bedroom.bed,rovigo,69.24,"[100172994, 100172903, 100172991, 100172993, 100172984, 100172902, 100172901, 100172986, 100172990]",Twin,Metal,True,False,False,False,False,250.0,74.5,38.5,12.0
+2019-11-04 09:26:56 UTC,furniture.bedroom.bed,satura,74.91,[13500450],Twin,Particle Board,True,False,False,False,False,220.0,75.0,39.0,16.0
+2020-04-11 13:24:42 UTC,furniture.bedroom.bed,satura,169.12,[13201348],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-03-27 17:56:36 UTC,furniture.bedroom.bed,satura,227.29,[13201362],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-11-08 17:50:16 UTC,furniture.bedroom.bed,satura,465.65,"[13201353, 13201346]",Queen,Wood,True,True,False,False,False,550.0,80.0,60.0,50.0
+2019-10-27 01:58:25 UTC,furniture.bedroom.bed,schardt,112.27,[7102064],Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-16 07:55:46 UTC,furniture.bedroom.bed,serebroff,6.07,"[100060082, 100008420, 100008439, 100060081, 100008409, 100008599, 100008932, 100006595, 100008613, 100060091, 100006598, 100008445, 100008431, 100008621, 100008391, 100008363, 100060114, 100060096, 100060116, 100060080, 100008412, 100060077, 100008339, 100060102, 100008358, 100008441]",Twin,Metal,True,False,False,False,True,250.0,75.0,39.0,14.0
+2020-04-03 12:45:30 UTC,furniture.bedroom.bed,sheyk,98.47,[100167115],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-05 19:37:00 UTC,furniture.bedroom.bed,sheyk,129.36,[100167165],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 14:02:08 UTC,furniture.bedroom.bed,sheyk,225.12,[100166376],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-19 14:20:55 UTC,furniture.bedroom.bed,signal,167.31,[100205186],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 15:31:19 UTC,furniture.bedroom.bed,silva,48.91,[13500339],Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-04-10 12:49:23 UTC,furniture.bedroom.bed,silva,90.35,[13500337],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-06 05:58:56 UTC,furniture.bedroom.bed,silva,136.43,[13500338],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-12 07:29:43 UTC,furniture.bedroom.bed,silva,169.63,[13200932],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-04 12:50:13 UTC,furniture.bedroom.bed,silva,203.35,[13201116],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-06 08:44:59 UTC,furniture.bedroom.bed,silva,241.96,[7101803],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-05 17:37:59 UTC,furniture.bedroom.bed,silva,339.78,[13201113],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-19 13:30:54 UTC,furniture.bedroom.bed,silva,370.67,[13201112],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 14:41:17 UTC,furniture.bedroom.bed,silva,479.81,"[13201115, 13201114]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-12 11:57:28 UTC,furniture.bedroom.bed,silva,535.41,[13201111],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-28 10:04:55 UTC,furniture.bedroom.bed,skechers,73.34,"[100223441, 100223444, 100223436, 100223446, 100223442]",Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2019-10-27 15:56:56 UTC,furniture.bedroom.bed,skv,136.17,[7102075],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-02-09 10:28:29 UTC,furniture.bedroom.bed,skv-kompani,95.24,[7100417],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-03-30 07:40:17 UTC,furniture.bedroom.bed,skv-kompani,198.2,[7101433],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 07:51:15 UTC,furniture.bedroom.bed,sokolov,1.8,"[100124102, 100148371, 100148383, 100153294, 100148279, 100122984, 100123587, 100103239, 100122971, 100122978, 100103241, 100148358, 100185381, 26600947, 100148389, 100103240, 100185375, 100153468, 100122980, 100185357, 100148276, 100185240, 100148284, 100122983, 100153469, 100152426, 100124104, 100029423, 26601063, 100148392, 100185247, 100104198, 100148354, 100148369, 100123006, 100148361, 100103243, 100047136, 100103237, 100148294, 100103238, 100029399, 100148367, 100103244, 100148356, 100103272, 100148351, 100103236, 100103245, 100103235, 100148353, 100103225, 100148359, 100123573, 26601381, 100103227, 100148364, 100123565, 100123619, 100148376, 100123621, 26601379, 100123570, 100123012, 100123577, 100185078, 100029357, 26600971, 100103234, 100148366, 100148297, 100123579, 100103271, 100123622, 100185083, 26600939, 100061860, 100061847, 100103268, 100148303, 100103226, 26601069, 100103230, 100061861, 100029421, 100103231, 100103233, 26600938, 100061858, 100103228, 100103270, 100153315, 100148304, 100104375, 100061859, 100124109, 100148343, 100104428, 100103256, 100103254, 100103257, 100103259, 100104376, 100123003, 100047161, 100047158, 100152438, 100152542, 100123005, 100148346, 100137749, 100047164, 100104477, 100123001, 100047174, 100122987, 100047119, 100122988, 100047163, 26601195, 26601697, 100047129, 100122997, 100122999, 100047124, 100153322, 100103229, 100153467, 100047123, 100104535, 100153324, 100104512, 26601061, 26601402, 100047122, 100047128, 100185094, 100047127, 100104445, 100103266, 100047121, 100103264, 100047126, 26601692, 100185096, 26601544, 100104446, 100123584, 26601421, 100148282, 26601735, 100047140, 100137629, 100103251, 26601554, 100104495, 100029417, 26600811, 100123581, 100165314, 100104496, 100061862, 100104528, 100104520, 100027391, 100123008, 100153128, 100104501, 26600873, 100029021, 100104394, 100185087, 26601112, 26601728, 26601056, 100185274, 100014702, 26601413, 100016465, 100124120, 100148347, 26601066, 26601017, 100104432, 100165293, 100123009, 26601053, 26601065, 100165308, 26600925, 26601756, 26601558, 100047111, 100165320, 26601098, 100029420, 100103262, 100165315, 26600852, 100103263, 26601181, 26601170, 26601168, 100047105, 100104537, 100104544, 26600815, 26601685, 100029409, 100165307, 100122985, 26601176, 100104502, 100165319, 100016443, 100047165, 26600923, 100029370, 100029373, 26600951, 100165318, 100029366, 100185383, 100047144, 100124186, 100104509, 26601353, 26601523, 100153303, 100029371, 100104524, 26601694, 100137183, 100029224, 100104407, 26600962, 100148286, 26601736, 26600952, 100103253, 100061841, 26601398, 26601115, 100029245, 100148288, 100062155, 100103223, 26601020, 26600864, 100148299, 26601701, 100104409, 100165311, 100029359, 26601527, 100029363, 26600860, 100029331, 26601561, 100029329, 100061840, 100103242, 26601548, 100029332, 26601057, 26601555, 26601533, 100148306, 100104207, 100153306, 100185244, 100047141, 100104506, 100126248]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-03-01 12:30:23 UTC,furniture.bedroom.bed,sokolov,22.27,"[26601702, 100103249, 26601757, 100122992, 26601718, 26601088, 100153319, 100029375, 100122991, 26601758, 100103252, 100047133, 100165321, 100124112, 100153309, 100103248, 100124179, 100165317, 100149771, 100137638, 26601077, 100029221, 100103260, 100149833, 100149845, 100161005, 100122994, 100165309, 26601553, 100047113, 26601745, 100124184, 100047179, 26601529, 100061837, 100061838, 100149846, 100029230, 100160936, 26601868, 26601087, 100124182, 100118151, 100184264, 100183971, 100046108, 100151948, 26601683, 100103247, 100029256, 100118152, 100067071, 100118142]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-01 07:27:13 UTC,furniture.bedroom.bed,sokolov,42.5,"[100149795, 100118153, 100178794, 100067177, 100113377, 26601236, 100066870, 100144554, 100113347, 100149926, 100113348, 100124183, 100067187, 100067186, 100149920, 100149925, 100144556, 100149831, 100144560, 100178787, 100067134, 100067054, 26601865, 100149745, 100144552, 100178800, 100113374, 100046095, 26601753, 100144557, 100149752, 100113375, 100144558, 100066907, 100149801, 26601744, 100144563, 100149843, 100118154, 100160932, 100101386, 100118149, 100101380, 100113398, 100149922]",Twin,Wood,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-04-01 15:32:08 UTC,furniture.bedroom.bed,sokolov,62.91,"[100144561, 100067191, 26601867, 100160978, 100066936, 100160983, 100149818, 100160585, 100066909, 100113401, 100066981, 100067169, 100149821, 26601866, 100149772, 100066945, 100066952, 100160963, 100066963, 100118143, 100067196, 100149927, 100127599, 26601747, 100161096, 100101397, 100149791, 100046110, 100066993, 26601746, 100178818, 100113376, 100149769, 100066893]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-03 10:25:53 UTC,furniture.bedroom.bed,sokolov,83.35,"[100046099, 100067048, 100113378, 100101400, 100067249, 100178779, 100101415, 100118156, 100160911, 100067183, 100149753, 100144562, 100067179, 100101402, 100160929, 26601455, 100101403, 100067198, 100161140, 100113350, 100178805, 100101414, 100067229, 100101416, 100066899, 100149921, 100067209, 100149754, 100149746, 100067245, 100178816, 100118144, 100149834, 100149923, 100118145, 26601345]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,12.0
+2020-02-10 16:47:12 UTC,furniture.bedroom.bed,sokolov,104.85,"[26601740, 100101385, 100149800, 26601456, 100066956, 26601751, 100067235, 100101413, 100144559, 100149774, 100067194, 100149744, 100149738, 100178783, 100149770, 100160909, 26601752, 100067241, 100149802, 100178790, 26601739, 100118155, 100149790, 100118146]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-01 10:15:06 UTC,furniture.bedroom.bed,sokolov,124.94,"[100178774, 100149794, 100118150, 100149793, 100149822, 100067043, 100144553, 26601743, 100066983]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-04 05:38:21 UTC,furniture.bedroom.bed,sokolov,146.64,"[26601341, 100046100, 100067040, 100161123, 100067055, 100144564, 100149847, 100149757, 100149835, 100149819, 100149805, 100067253]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 03:32:52 UTC,furniture.bedroom.bed,sokolov,172.15,"[100161194, 100101417, 100178819, 100183991, 100067052, 100184260, 100149756, 100160634, 100149832]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 04:48:52 UTC,furniture.bedroom.bed,sokolov,192.37,"[100067044, 26601742, 26601864, 100149820]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:28:03 UTC,furniture.bedroom.bed,sokolov,293.66,"[100149803, 100101383]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-02 05:16:05 UTC,furniture.bedroom.bed,sokolov,321.94,[100067217],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 09:37:12 UTC,furniture.bedroom.bed,sokolov,444.88,[100067225],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 05:13:42 UTC,furniture.bedroom.bed,solite,77.45,[15200051],Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-02 08:11:25 UTC,furniture.bedroom.bed,solite,97.81,"[15200055, 100135114, 15200469, 15200716, 15200232, 15200719, 15200052, 15200216, 15200054]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-02 08:16:01 UTC,furniture.bedroom.bed,solite,126.2,"[15200239, 15200468, 15200238]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-11 02:57:38 UTC,furniture.bedroom.bed,solite,150.92,[15200643],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:58:36 UTC,furniture.bedroom.bed,spur,37.07,"[28701050, 28710243]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-04-05 12:01:46 UTC,furniture.bedroom.bed,starter,95.24,"[15201246, 15201251]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,16.0
+2020-04-01 07:48:54 UTC,furniture.bedroom.bed,stendmebel,176.04,[13201002],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,12.0
+2020-04-02 06:17:37 UTC,furniture.bedroom.bed,stokke,46.31,"[100117292, 100128853]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,35.0
+2020-04-01 12:24:42 UTC,furniture.bedroom.bed,stokke,141.55,"[100117248, 100116168]",Twin,Wood,True,False,False,False,False,220.0,75.0,38.0,12.0
+2020-04-03 16:53:15 UTC,furniture.bedroom.bed,stokke,477.21,[7101089],Twin,Wood,True,True,False,False,False,220.0,75.0,38.0,42.0
+2020-04-01 10:19:43 UTC,furniture.bedroom.bed,stokke,530.23,"[7101088, 7101986, 7101087, 7101090]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-10-01 15:55:51 UTC,furniture.bedroom.bed,stokke,756.72,"[7101153, 7101154]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-03 09:41:43 UTC,furniture.bedroom.bed,stokke,831.4,"[7100913, 7100513]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 15:32:06 UTC,furniture.bedroom.bed,sv,12.87,[13500019],Twin,Particle Board,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-04-13 21:21:14 UTC,furniture.bedroom.bed,sv,38.87,[13500233],Twin,Particle Board,True,False,False,False,False,200.0,75.0,39.0,15.0
+2020-04-01 15:55:56 UTC,furniture.bedroom.bed,sv,69.24,"[13500021, 13500017]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-01 01:29:58 UTC,furniture.bedroom.bed,sv,107.85,"[13200018, 13201171, 13200026, 13201170]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-01 02:27:51 UTC,furniture.bedroom.bed,sv,128.45,[13200246],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 02:47:51 UTC,furniture.bedroom.bed,sv,154.19,"[13200011, 13200021, 13200013]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 03:31:45 UTC,furniture.bedroom.bed,sv,200.52,"[13200636, 13500361]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 14:27:39 UTC,furniture.bedroom.bed,sv,238.36,"[13200688, 13200496]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 14:21:28 UTC,furniture.bedroom.bed,sv,282.89,[13200944],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 01:28:10 UTC,furniture.bedroom.bed,sv,339.52,[13200941],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 05:29:32 UTC,furniture.bedroom.bed,sv,429.61,"[13200942, 13200943]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 04:08:35 UTC,furniture.bedroom.bed,sv,465.65,[13200019],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 02:59:03 UTC,furniture.bedroom.bed,sv,826.02,[13201035],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 04:05:37 UTC,furniture.bedroom.bed,t-rex,57.51,"[15200567, 15201055, 100012747, 15200905]",Twin,Wood,True,False,False,False,False,250.0,74.5,38.5,12.0
+2020-04-04 09:51:39 UTC,furniture.bedroom.bed,t-rex,80.68,"[15200124, 15200908, 15200121]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,16.0
+2020-04-02 13:05:09 UTC,furniture.bedroom.bed,t-rex,101.49,"[15200123, 15200906, 15200909]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,50.0
+2020-04-02 13:09:43 UTC,furniture.bedroom.bed,t-rex,132.38,"[15200119, 15200907, 15200125]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 22:10:02 UTC,furniture.bedroom.bed,taxi,101.49,"[15200132, 15200133]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,10.0
+2020-02-01 16:01:27 UTC,furniture.bedroom.bed,teosa,11.33,"[26601559, 100153470, 26601560]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-01 19:03:22 UTC,furniture.bedroom.bed,teosa,31.4,[100035141],Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-03 16:43:21 UTC,furniture.bedroom.bed,teyko,48.91,"[100019918, 100019950]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-02 09:31:27 UTC,furniture.bedroom.bed,teyko,77.22,"[100019956, 15200127]",Twin,Particle Board,True,False,False,False,False,220.0,75.0,39.0,34.0
+2020-04-02 16:53:20 UTC,furniture.bedroom.bed,teyko,101.49,"[15200128, 15200130]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-06 13:55:40 UTC,furniture.bedroom.bed,titan,60.49,"[15200721, 15200852, 100056937, 15200792, 15200656, 100120957]",Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-08 06:43:14 UTC,furniture.bedroom.bed,titan,90.09,"[15200842, 15201293, 15200917]",Queen,Metal,True,False,False,False,True,500.0,80.0,60.0,14.0
+2020-04-03 00:43:18 UTC,furniture.bedroom.bed,titan,118.41,"[15200732, 15200717]",Queen,Metal,True,False,False,False,True,500.0,80.0,60.0,14.0
+2020-04-01 20:11:57 UTC,furniture.bedroom.bed,titan,159.59,[15200848],Queen,Metal,True,False,False,False,True,500.0,80.0,60.0,14.0
+2020-04-11 17:44:16 UTC,furniture.bedroom.bed,titan,226.52,[15200720],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:50:46 UTC,furniture.bedroom.bed,tokler,41.19,"[15200687, 15200853]",Twin,Particle Board,True,False,False,False,False,250.0,74.5,38.0,12.0
+2020-04-02 04:44:12 UTC,furniture.bedroom.bed,tokler,66.93,[15200736],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,16.0
+2020-04-08 04:58:39 UTC,furniture.bedroom.bed,tokler,128.7,[15201215],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-08 15:39:43 UTC,furniture.bedroom.bed,topbat,66.93,[100083036],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-14 17:28:36 UTC,furniture.bedroom.bed,topbat,154.44,[100083040],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-02-04 13:35:16 UTC,furniture.bedroom.bed,totachi,127.42,[15200249],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 18:24:21 UTC,furniture.bedroom.bed,trollbeads,45.05,"[26601476, 26600765]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,16.0
+2020-03-01 17:27:58 UTC,furniture.bedroom.bed,trollbeads,73.62,"[26600761, 26600763, 26600767, 26601218, 26601251, 26600764, 26600766]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,16.0
+2020-04-02 16:59:29 UTC,furniture.bedroom.bed,tubor,60.1,"[15201114, 15201124, 15201122, 15201123, 15201121, 100106650, 15201132, 15201116, 15201126, 15201125, 15201113]",Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-04-02 16:26:05 UTC,furniture.bedroom.bed,tubor,80.31,"[15201118, 15201115, 15201108, 100106656, 15201119, 15201120]",Queen,Wood,True,False,False,False,False,500.0,80.0,60.0,12.0
+2020-04-06 08:51:20 UTC,furniture.bedroom.bed,tubor,108.37,"[15201107, 15201129, 15201127, 15201117, 15201111]",Queen,Wood,True,False,False,False,False,500.0,80.0,60.0,16.0
+2020-04-06 15:38:23 UTC,furniture.bedroom.bed,tubor,171.82,"[15201128, 100106617]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-14 15:24:55 UTC,furniture.bedroom.bed,tubor,208.5,"[100106640, 15201130]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-15 13:21:38 UTC,furniture.bedroom.bed,tubor,254.96,[100106647],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-01 02:44:35 UTC,furniture.bedroom.bed,uomo,180.16,[7101300],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 01:43:46 UTC,furniture.bedroom.bed,uragan,38.87,[15200496],Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-06 16:31:25 UTC,furniture.bedroom.bed,uragan,137.71,[15201133],Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-02-01 15:22:39 UTC,furniture.bedroom.bed,v-unic,149.27,"[13201138, 13201135, 13201141, 13201140]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-09 14:32:06 UTC,furniture.bedroom.bed,v-unic,180.16,"[13201145, 13201143]",Queen,Wood,True,True,False,False,False,450.0,80.0,60.0,50.0
+2020-03-10 02:01:18 UTC,furniture.bedroom.bed,v-unic,218.77,"[13201134, 13201136]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-02 16:10:43 UTC,furniture.bedroom.bed,vaiper,120.98,[15200650],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2019-10-01 17:05:19 UTC,furniture.bedroom.bed,value,205.9,[13500138],Queen,Particle Board,True,False,False,False,True,500.0,80.0,60.0,16.0
+2020-04-13 04:41:14 UTC,furniture.bedroom.bed,value,411.83,[13200479],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-02-15 07:30:48 UTC,furniture.bedroom.bed,value,604.88,[13200462],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 08:00:55 UTC,furniture.bedroom.bed,varta,28.57,[15201241],Twin,Metal,True,False,False,False,False,250.0,74.5,38.5,6.0
+2020-04-02 20:05:43 UTC,furniture.bedroom.bed,varta,64.35,"[15200001, 15200773]",Twin,Wood,True,False,False,False,False,250.0,75.0,39.0,12.0
+2020-04-01 04:22:33 UTC,furniture.bedroom.bed,varta,92.66,"[15200774, 15201223, 15200410, 15200455, 100040215, 15200020, 15200803, 100040330, 100040300]",Twin,Wood,True,False,False,False,True,250.0,75.0,38.0,12.0
+2020-04-02 04:32:19 UTC,furniture.bedroom.bed,varta,113.11,"[100040305, 15200465, 15201222]",Queen,Wood,True,False,False,False,True,500.0,80.0,60.0,12.0
+2020-04-02 11:34:36 UTC,furniture.bedroom.bed,varta,133.85,"[15201337, 15201289, 15200776, 100040326, 15200021, 15201288, 100040273, 100040315, 15200464]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-02 15:54:19 UTC,furniture.bedroom.bed,varta,154.44,"[100042197, 100094351]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-02 04:18:22 UTC,furniture.bedroom.bed,varta,187.04,[100040974],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 03:41:01 UTC,furniture.bedroom.bed,varta,257.41,"[15200466, 100041014]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 04:34:25 UTC,furniture.bedroom.bed,varta,298.44,[100041004],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 17:12:35 UTC,furniture.bedroom.bed,varta,348.67,[15201283],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 07:22:33 UTC,furniture.bedroom.bed,varta,411.67,[100042193],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-02-22 00:53:35 UTC,furniture.bedroom.bed,vasden,463.33,[13201039],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-01-04 10:50:39 UTC,furniture.bedroom.bed,vdk,81.94,"[100033520, 100033434, 100033505]",Twin,Metal,True,False,False,False,False,250.0,75.0,39.0,14.0
+2020-01-01 13:35:33 UTC,furniture.bedroom.bed,vdk,106.68,"[100033516, 100033497]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-05 05:13:24 UTC,furniture.bedroom.bed,vega,108.79,[15201242],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 12:04:16 UTC,furniture.bedroom.bed,vegas,307.09,[13200649],Queen,Wood,True,True,False,False,False,550.0,80.0,60.0,50.0
+2020-04-01 16:20:12 UTC,furniture.bedroom.bed,vegas,371.18,"[13200653, 100147704]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-12 15:06:25 UTC,furniture.bedroom.bed,vegas,391.77,"[13200431, 13200799, 13200509]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-09 20:43:18 UTC,furniture.bedroom.bed,vegas,418.52,"[13200619, 13200647, 100144766, 13201005]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 12:10:51 UTC,furniture.bedroom.bed,vegas,463.85,[100144765],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2019-10-01 06:14:55 UTC,furniture.bedroom.bed,vegas,494.48,[13200438],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-02-01 14:22:34 UTC,furniture.bedroom.bed,vegas,578.91,"[13200432, 13200439, 100146873, 13200222]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-12 15:11:58 UTC,furniture.bedroom.bed,vegas,616.23,[13200642],Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-02-04 15:09:17 UTC,furniture.bedroom.bed,vegas,653.3,"[13200434, 13200643, 13200510, 13201386]",Queen,Wood,True,True,True,False,True,500.0,80.0,60.0,50.0
+2020-04-01 12:58:40 UTC,furniture.bedroom.bed,vegas,716.11,"[100132683, 13200223]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-16 16:50:27 UTC,furniture.bedroom.bed,vegas,740.56,"[13200429, 13200441, 100132684, 13200915, 13200772]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-02 03:26:35 UTC,furniture.bedroom.bed,vegas,792.3,"[13200644, 13200221, 13200217]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-01 00:20:27 UTC,furniture.bedroom.bed,vibram,77.22,"[100153446, 100153441, 100153442, 100153443, 100153444, 100153440, 100153445]",Queen,Wood,True,False,False,False,False,500.0,80.0,60.0,16.0
+2020-03-05 04:11:52 UTC,furniture.bedroom.bed,vmv,25.71,[13500001],Twin,Particle Board,True,False,False,False,False,220.0,75.0,39.0,15.0
+2020-01-01 08:17:33 UTC,furniture.bedroom.bed,vmv,54.03,[13500003],Twin,Composite,True,False,False,False,False,200.0,75.0,39.0,14.0
+2020-04-07 18:29:16 UTC,furniture.bedroom.bed,volta,38.87,"[15200778, 15200779, 15200781]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-04-02 17:13:32 UTC,furniture.bedroom.bed,volta,87.52,"[100004427, 15200780]",Twin,Wood,True,False,False,False,True,250.0,75.0,39.0,16.0
+2020-04-07 09:00:46 UTC,furniture.bedroom.bed,volta,141.57,[15201212],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-03 05:15:23 UTC,furniture.bedroom.bed,volta,349.56,[100013182],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 00:08:13 UTC,furniture.bedroom.bed,voltman,64.35,"[15200295, 15200573]",Twin,Particle Board,True,False,False,False,True,200.0,75.0,38.0,12.0
+2020-04-01 04:34:00 UTC,furniture.bedroom.bed,voltman,88.2,"[15200097, 15200913, 15200625, 100078651, 15200912, 15201051, 15200522, 15201064]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 05:40:11 UTC,furniture.bedroom.bed,voltman,110.76,"[15200096, 15200095, 15200891, 15200890, 15200518, 15200911]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-02 14:25:15 UTC,furniture.bedroom.bed,voltman,140.35,"[15200092, 15200104, 15200103]",Queen,Wood,True,True,True,False,False,500.0,80.0,60.0,50.0
+2020-04-08 02:37:08 UTC,furniture.bedroom.bed,voltman,182.76,[15200516],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-07 13:50:51 UTC,furniture.bedroom.bed,voltman,208.5,[15200517],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-02 09:40:08 UTC,furniture.bedroom.bed,voltman,254.38,[15200102],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 05:20:13 UTC,furniture.bedroom.bed,voltman,285.33,[15200099],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 13:03:02 UTC,furniture.bedroom.bed,voltmaster,62.81,"[15200489, 15201157, 15200491]",Twin,Metal,True,False,False,False,False,250.0,74.5,38.0,12.0
+2020-04-03 10:54:11 UTC,furniture.bedroom.bed,voltmaster,96.53,"[15200490, 15201033]",Twin,Metal,True,False,False,False,True,250.0,75.0,39.0,14.0
+2020-04-08 09:51:05 UTC,furniture.bedroom.bed,voltmaster,177.61,[15200493],Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-02-05 11:12:55 UTC,furniture.bedroom.bed,w-star,51.48,"[15200566, 15200879]",Twin,Wood,True,False,False,False,False,250.0,75.0,38.0,12.0
+2020-04-03 16:59:44 UTC,furniture.bedroom.bed,w-star,98.65,"[15200118, 15200888, 15200108, 15200116, 15200889]",Queen,Wood,True,True,False,False,True,500.0,80.0,60.0,50.0
+2020-04-01 06:43:35 UTC,furniture.bedroom.bed,weekend,66.67,"[100101638, 100101472, 100101453]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,16.0
+2020-04-01 08:13:12 UTC,furniture.bedroom.bed,westa,73.03,"[15200530, 100018547]",Twin,Particle Board,True,False,False,False,False,250.0,75.0,39.0,15.0
+2020-04-01 03:46:08 UTC,furniture.bedroom.bed,westa,94.58,"[15200111, 15201245, 15200526]",Twin,Wood,True,False,False,False,False,250.0,74.5,38.5,12.0
+2020-04-04 10:43:29 UTC,furniture.bedroom.bed,westa,125.47,"[15200115, 15200112, 15200109]",Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-03 14:03:52 UTC,furniture.bedroom.bed,westa,182.76,[15201270],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2020-04-01 03:32:17 UTC,furniture.bedroom.bed,westa,261.53,[15200110],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-12-06 17:44:04 UTC,furniture.bedroom.bed,zenecka,125.12,[100033761],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
+2019-12-10 22:23:19 UTC,furniture.bedroom.bed,zenecka,161.18,[100033965],Queen,Wood,True,True,False,False,False,500.0,80.0,60.0,50.0
